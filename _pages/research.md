@@ -86,7 +86,7 @@ Sugden’s account of market virtues is compatible with respecting the fundament
 dignity in Kant’s sense of this term.
 </p>
 <h3>
-<a class="hover" href="https://john-weymark.github.io/files/CTW%20Dignity%20V1.pdf" target="_blank">4. On John Harsanyi's Defences of Utilitarianism</a>
+<a class="hover" href="https://john-weymark.github.io/files/BDW80CORE.pdf" target="_blank">4. On John Harsanyi's Defences of Utilitarianism</a>
 </h3>
 <p style="font-size:15px">
 Charles Blackorby, David Donaldson, John A. Weymark<br> 
