@@ -45,3 +45,23 @@ rules with equal cost sharing that are (i) Pareto optimal and (ii) Pareto optima
 and individually rational when the congestion cost is linear in the type
 parameter.
 </p>
+<h3>
+<a class="hover" href="https://john-weymark.github.io/files/Ashoka%20DP%2047.pdf" target="_blank">2. The Core of a Transferable Utility Game as the Solution
+to a Public Good Market Demand Problem</a>
+</h3>
+<p style="font-size:15px">
+Paul H. Edelman, Martin Van der Linden, and John A. Weymark<br> 
+Current version: November 2020.<br>
+</p>
+<p style="font-size:12px">
+    <i> Abstract:</i> The core of a monotonic transferable utility (TU) game is shown to be
+the set of prices that incentivize each individual to demand the grand coalition in a
+market demand problem in which the goods being demanded are coalitions viewed
+as excluable public goods. It is also shown that the core is the intersection of
+superdifferentials evaluated at the grand coalition of the covers of person-specific
+TU games derived from the original game. These characterizations of the core
+demonstrate how a market demand approach to coalition formation in the spirit
+of Baldwin and Klemperer is related to the approach to the core using the
+cover of a TU game and it superdifferential at the grand coalition developed by
+Shapley and Shubik, Aubin, and Danilov and Koshevoy.
+</p>
