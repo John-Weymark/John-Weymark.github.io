@@ -46,7 +46,7 @@ and individually rational when the congestion cost is linear in the type
 parameter.
 </p>
 <h3>
-<a class="hover" href="https://john-weymark.github.io/files/Ashoka%20DP%2047.pdf" target="_blank">2. The Core of a Transferable Utility Game as the Solution
+<a class="hover" href="https://john-weymark.github.io/files/EVW%20Core%20V5.pdf" target="_blank">2. The Core of a Transferable Utility Game as the Solution
 to a Public Good Market Demand Problem</a>
 </h3>
 <p style="font-size:15px">
