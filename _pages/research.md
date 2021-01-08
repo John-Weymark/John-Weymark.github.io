@@ -24,10 +24,9 @@ author_profile: true
 <h2  style="text-align:center">Manuscripts</h2>
 <hr>
 <h3>
-<a class="hover" href="" target="_blank">1. When Is Parallel Trends Sensitive to Functional Form?</a>
+<a class="hover" href="" target="_blank">1. Strategy-Proof Club Formation with Indivisible Club Facilities</a>
 </h3>
 <p style="font-size:15px">
-with Jonathan Roth <br> 
-This version: November 2020. First version: October 2020.<br>
-
+Bhaskar Dutta, Anirban Kar, and John A. Weymark<br> 
+Current version: December 2020.<br>
 </p>
