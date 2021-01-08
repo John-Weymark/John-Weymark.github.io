@@ -24,7 +24,7 @@ author_profile: true
 <h2  style="text-align:center">Manuscripts</h2>
 <hr>
 <h3>
-<a class="hover" href="" target="_blank">1. Strategy-Proof Club Formation with Indivisible Club Facilities</a>
+<a class="hover" href="https://john-weymark.github.io/files/Ashoka%20DP%2047.pdf" target="_blank">1. Strategy-Proof Club Formation with Indivisible Club Facilities</a>
 </h3>
 <p style="font-size:15px">
 Bhaskar Dutta, Anirban Kar, and John A. Weymark<br> 
