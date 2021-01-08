@@ -65,3 +65,23 @@ of Baldwin and Klemperer is related to the approach to the core using the
 cover of a TU game and it superdifferential at the grand coalition developed by
 Shapley and Shubik, Aubin, and Danilov and Koshevoy.
 </p>
+<h3>
+<a class="hover" href="https://john-weymark.github.io/files/EVW%20Core%20V5.pdf" target="_blank">3. Market Virtues and Respect for Human Dignity</a>
+</h3>
+<p style="font-size:15px">
+Luís C. Calderón Gómez, Robert Talisse, John A. Weymark<br> 
+Current version: February 2020.<br>
+</p>
+<p style="font-size:12px">
+    <i> Abstract:</i> Luigino Bruni and Robert Sugden (Journal of Economic Perspectives, 2013) have provided
+a normative defense of markets from a virtue ethics perspective. They interpret market
+exchange as being a practice in the sense of Alasdair MacIntyre. For Bruni and Sugden, the telos
+of a market is mutual benefit and a market virtue is a character trait or disposition that contributes
+to the realization of this benefit. They regard market virtues as embodying a moral attitude towards
+market interactions that is characterized by reciprocity. For MacIntyre, this is a partial account of
+a virtue. To qualify as a virtue, it is also necessary that it contributes to the good of an individual’s
+life taken as a whole and to the social tradition in which both practices and individuals are embedded.
+We adopt MacIntye’s understanding of a virtue and consider the extent to which Bruni and
+Sugden’s account of market virtues is compatible with respecting the fundamental human good of
+dignity in Kant’s sense of this term.
+</p>
