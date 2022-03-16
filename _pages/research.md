@@ -23,13 +23,11 @@ author_profile: true
 
 <h2  style="text-align:center">Manuscripts</h2>
 <hr>
-1. Charles Blackorby, David Donaldson, and John A. Weymark, “<a class="hover" href="https://john-weymark.github.io/files/BDW80CORE.pdf" target="_blank">On John Harsanyi’s
-Defences of Utilitarianism</a>,” Discussion Paper
+1. Charles Blackorby, David Donaldson, and John A. Weymark, “<a class="hover" href="https://john-weymark.github.io/files/BDW80CORE.pdf" target="_blank">On John Harsanyi’s Defences of Utilitarianism</a>,” Discussion Paper
 No. 80-13, Center for Operations Research and Econometrics, Université catholique
 de Louvain, April 1980.
 <br>
 <br>
-<p style="font-size:12px">
     <i> Abstract:</i> Harsanyi has advanced three arguments in defence of utilitarianism.
 One defence is based on the separability of the social-welfare function
 with respect to individual utilities, the second defence requires social
@@ -40,16 +38,11 @@ framework in which these three defences may be compared, We demonstrate
 that with complete welfare information each of these proposals results in
 a different ordering of the social alternatives, and that none of these is
 classical utilitarianism.
-</p>
-
-<h3>
-2. <a class="hover" href="https://john-weymark.github.io/files/CTW%20Dignity%20V1.pdf" target="_blank">Market Virtues and Respect for Human Dignity</a>
-</h3>
-<p style="font-size:12px">
-Luís C. Calderón Gómez, Robert Talisse, and John A. Weymark<br>
-Current version: February 2020.<br>
-</p>
-<p style="font-size:12px">
+<br>
+<br>
+2. Luís C. Calderón Gómez, Robert Talisse, and John A. Weymark, "<a class="hover" href="https://john-weymark.github.io/files/CTW%20Dignity%20V1.pdf" target="_blank">Market Virtues and Respect for Human Dignity</a>." Current Version: February 2020.
+<br>
+<br>
     <i> Abstract:</i> Luigino Bruni and Robert Sugden (Journal of Economic Perspectives, 2013) have provided
 a normative defense of markets from a virtue ethics perspective. They interpret market
 exchange as being a practice in the sense of Alasdair MacIntyre. For Bruni and Sugden, the telos
