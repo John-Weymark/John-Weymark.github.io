@@ -32,7 +32,19 @@ author_profile: true
      Charles Blackorby, David Donaldson, and John A. Weymark<br>
      Current Version: April 1980
      <br>
-     <br>
+<p>
+<p style="font-size:12px">
+    <i> Abstract:</i> Harsanyi has advanced three arguments in defence of utilitarianism.
+One defence is based on the separability of the social-welfare function
+with respect to individual utilities, the second defence requires social
+and individual preferences to satisfy the expected utility hypothesis,
+while the third defence considers the choices that would be made if there
+were an equal chance of obtaining any position in society. We develop a
+framework in which these three defences may be compared, We demonstrate
+that with complete welfare information each of these proposals results in
+a different ordering of the social alternatives, and that none of these is
+classical utilitarianism.
+    <p>
 2. <a class="hover" href="https://john-weymark.github.io/files/CTW%20Dignity%20V1.pdf" target="_blank">Market Virtues and Respect for Human Dignity</a>
 </h3>
 <p style="font-size:15px">
