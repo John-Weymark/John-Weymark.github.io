@@ -54,8 +54,21 @@ life taken as a whole and to the social tradition in which both practices and in
 We adopt MacIntye’s understanding of a virtue and consider the extent to which Bruni and
 Sugden’s account of market virtues is compatible with respecting the fundamental human good of
 dignity in Kant’s sense of this term.
-</p>
-
+<br>
+<br>
+3. Sarah E. Friedman and John A. Weymark, "<a class="hover" href="https//john-weymark.github.io/files/Precedent-Based%20Judgment%20Aggregation%20V5.pdf" target="_blank">Precedent-Based Judgment Aggregation in the U.S. Supreme Court</a>."  Current Version: March 2022.
+<br>
+<br>
+<i> Abstrsact:</i> When a case is before the U.S. Supreme Court, a precedent may apply. In
+cases in which a precedent is being considered, the Court needs to answer three questions:
+(1) Is the precedent good law? (2) Does the precedent apply to this case? (3) Should
+the Court uphold the precedent? In the event that the Court answers yes to the rst two
+questions and no to the last, there is what David Cohen (Boston University Law Review,
+2010) calls a precedent-based voting paradox. Cohen has identied eleven instances
+of this paradox in U.S. Supreme Court decisions prior to 2010. We review Cohen's
+paradox and relate it to the doctrinal paradox that has played a foundational role in the
+judgment aggregation literature. We also identify what is arguably one more instance of
+a precedent-based voting paradox in the period since Cohen's article was published.
 <hr>
 <h2  style="text-align:center">Journal Publications (Under Construction)</h2>
 <hr>
