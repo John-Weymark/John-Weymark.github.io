@@ -24,7 +24,7 @@ author_profile: true
 <h2  style="text-align:center">Manuscripts</h2>
 <hr>
 <h3>
-<a class="hover" href="https://john-weymark.github.io/files/CTW%20Dignity%20V1.pdf" target="_blank">3. Market Virtues and Respect for Human Dignity</a>
+<a class="hover" href="https://john-weymark.github.io/files/CTW%20Dignity%20V1.pdf" target="_blank">2. Market Virtues and Respect for Human Dignity</a>
 </h3>
 <p style="font-size:15px">
 Luís C. Calderón Gómez, Robert Talisse, John A. Weymark<br> 
@@ -43,25 +43,7 @@ We adopt MacIntye’s understanding of a virtue and consider the extent to which
 Sugden’s account of market virtues is compatible with respecting the fundamental human good of
 dignity in Kant’s sense of this term.
 </p>
-<h3>
-<a class="hover" href="https://john-weymark.github.io/files/BDW80CORE.pdf" target="_blank">4. On John Harsanyi's Defences of Utilitarianism</a>
-</h3>
-<p style="font-size:15px">
-Charles Blackorby, David Donaldson, John A. Weymark<br> 
-CORE Discussion Paper No. 8014, April 1980.<br>
-</p>
-<p style="font-size:12px">
-    <i> Abstract:</i> Harsanyi has advanced three arguments in defence of utilitarianism.
-One defence is based on the separability of the social-welfare function
-with respect to individual utilities, the second defence requires social
-and individual preferences to satisfy the expected utility hypothesis,
-while the third defence considers the choices that would be made if there
-were an equal chance of obtaining any position in society. We develop a
-framework in which these three defences may be compared, We demonstrate
-that with complete welfare information each of these proposals results in
-a different ordering of the social alternatives, and that none of these is
-classical utilitarianism.
-</p>
+
 <hr>
 <h2  style="text-align:center">Journal Publications (Under Construction)</h2>
 <hr>
