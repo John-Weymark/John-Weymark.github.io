@@ -75,6 +75,10 @@ a Transferrable Utility Game as the Solution to a Public Good Market Demand
 Problem,” <i>Mathematical Programming Series B</i>, Special Issue: Mathematical Optimization
 for Fair Social Decisions: A Tribute to Michel Balinski, forthcoming.
 <a class="hover" href="https://link.springer.com/article/10.1007/s10107-021-01729-9" target="_blank"> Link to published version. </a>
-
+<br>
+<br>
+3. John A. Weymark, Vaihinger’s Fictionalism Meets Binmore’s Knowledge-as-Commitment,
+<i>Homo Oeconomicus</i>, Special Issue in Honor of Ken Binmore, forthcoming.
+<a class="hover" href="https://link.springer.com/article/10.1007/s41412-021-00116-1" target="_blank"> Link to published version. </a>
 
 
