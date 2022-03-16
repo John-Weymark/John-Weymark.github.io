@@ -88,3 +88,12 @@ classical utilitarianism.
 1. Bhaskar Dutta, Anirban Kar, and John A.Weymark, “Strategy-Proof Club Formation with Indivisible Club Facilities,” Review of Economic Design, Special Issue in Honor
 of Semih Koray: Well-Designed Incentive Schemes, forthcoming.
 <a class="hover" href="https://link.springer.com/article/10.1007/s10058-021-00251-w" target="_blank"> Link to published version. </a>
+<br>
+2. Paul H. Edelman, Martin Van der Linden, and John A. Weymark, “The Core of
+a Transferrable Utility Game as the Solution to a Public Good Market Demand
+Problem,” Mathematical Programming Series B, Special Issue: Mathematical Optimization
+for Fair Social Decisions: A Tribute to Michel Balinski, forthcoming.
+<a class="hover" href="https://link.springer.com/article/10.1007/s10107-021-01729-9" target="_blank"> Link to published version. </a>
+
+
+
