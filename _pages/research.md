@@ -24,7 +24,7 @@ author_profile: true
 <h2  style="text-align:center">Manuscripts</h2>
 <hr>
 <h3>
-<a class="hover" href="https://john-weymark.github.io/files/CTW%20Dignity%20V1.pdf" target="_blank">2. Market Virtues and Respect for Human Dignity</a>
+2. <a class="hover" href="https://john-weymark.github.io/files/CTW%20Dignity%20V1.pdf" target="_blank">Market Virtues and Respect for Human Dignity</a>
 </h3>
 <p style="font-size:15px">
 Luís C. Calderón Gómez, Robert Talisse, John A. Weymark<br> 
