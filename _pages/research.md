@@ -23,10 +23,10 @@ author_profile: true
 
 <h2  style="text-align:center">Manuscripts</h2>
 <hr>
-1. Charles Blackorby, David Donaldson, and John A. Weymark, “<a class="hover" href="https://john-weymark.github.io/files/CTW%20Dignity%20V1.pdf" target="_blank">Market Virtues and Respect for Human Dignity</a>,” Discussion Paper
+1. Charles Blackorby, David Donaldson, and John A. Weymark, “<a class="hover" href="https://john-weymark.github.io/files/BDW%20DCore%20V5.pdf" target="_blank">On John Harsanyi’s
+Defences of Utilitarianism,”</a>,” Discussion Paper
 No. 80-13, Center for Operations Research and Econometrics, Université catholique
 de Louvain, April 1980.
-<a class="hover" href="https://john-weymark.github.io/files/EVW%20Core%V5.pdf" target="_blank">Link to manuscript. </a>
 <br>
 
 <h3>
