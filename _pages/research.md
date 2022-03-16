@@ -89,6 +89,7 @@ classical utilitarianism.
 of Semih Koray: Well-Designed Incentive Schemes, forthcoming.
 <a class="hover" href="https://link.springer.com/article/10.1007/s10058-021-00251-w" target="_blank"> Link to published version. </a>
 <br>
+<br>
 2. Paul H. Edelman, Martin Van der Linden, and John A. Weymark, “The Core of
 a Transferrable Utility Game as the Solution to a Public Good Market Demand
 Problem,” Mathematical Programming Series B, Special Issue: Mathematical Optimization
