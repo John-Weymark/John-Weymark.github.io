@@ -24,10 +24,19 @@ author_profile: true
 <h2  style="text-align:center">Manuscripts</h2>
 <hr>
 <h3>
+1.
+    <h3>
+        
+</h3>
+ <p style+"font-size:15px">
+     Charles Blackorby, David Donaldson, and John A. Weymark<br>
+     Current Version: April 1980
+     <br>
+     <br>
 2. <a class="hover" href="https://john-weymark.github.io/files/CTW%20Dignity%20V1.pdf" target="_blank">Market Virtues and Respect for Human Dignity</a>
 </h3>
 <p style="font-size:15px">
-Luís C. Calderón Gómez, Robert Talisse, John A. Weymark<br> 
+Luís C. Calderón Gómez, Robert Talisse, and John A. Weymark<br>
 Current version: February 2020.<br>
 </p>
 <p style="font-size:12px">
