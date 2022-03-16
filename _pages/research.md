@@ -31,6 +31,7 @@ de Louvain, April 1980.
 <br>
 <br>
 
+<h3>
 2. <a class="hover" href="https://john-weymark.github.io/files/CTW%20Dignity%20V1.pdf" target="_blank">Market Virtues and Respect for Human Dignity</a>
 </h3>
 <p style="font-size:15px">
