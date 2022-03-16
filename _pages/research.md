@@ -104,3 +104,9 @@ that with complete welfare information each of these proposals results in
 a different ordering of the social alternatives, and that none of these is
 classical utilitarianism.
 </p>
+<hr>
+<h2  style="text-align:center">Journal Publications</h2>
+<hr>
+1. Bhaskar Dutta, Anirban Kar, and John A.Weymark, “Strategy-Proof Club Formation with Indivisible Club Facilities,” Review of Economic Design, Special Issue in Honor
+of Semih Koray: Well-Designed Incentive Schemes, forthcoming.
+<a class="hover" href="https://link.springer.com/article/10.1007/s10058-021-00251-w" target="_blank"> Link to published version. </a>
