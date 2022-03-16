@@ -24,16 +24,14 @@ author_profile: true
 <h2  style="text-align:center">Manuscripts</h2>
 <hr>
 <h3>
-1.
-    <h3>
-        
-</h3>
- <p style+"font-size:15px">
+1. <a class="hover" href="https:john-weymark.github.io/files/EVW%20Core%20V5.pdf" target="_blank">Harsanyi's Three Defences of Utilitarianism</a>
+    <h3>      
+</h3>    
      Charles Blackorby, David Donaldson, and John A. Weymark<br>
      Current Version: April 1980
      <br>
-<p>
 <p style="font-size:12px">
+    <br>
     <i> Abstract:</i> Harsanyi has advanced three arguments in defence of utilitarianism.
 One defence is based on the separability of the social-welfare function
 with respect to individual utilities, the second defence requires social
