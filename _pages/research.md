@@ -108,8 +108,5 @@ for Fair Social Decisions: A Tribute to Michel Balinski, forthcoming.
 10. John A. Weymark, Vaihinger’s Fictionalism Meets Binmore’s Knowledge-as-Commitment,
 <i>Homo Oeconomicus</i>, Special Issue in Honor of Ken Binmore, forthcoming.
 <a class="hover" href="https://link.springer.com/article/10.1007/s41412-021-00116-1" target="_blank"> Link to the published version. </a>
-<br>
-<br>
-11.
 
 
