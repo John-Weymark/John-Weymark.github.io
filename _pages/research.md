@@ -59,7 +59,7 @@ dignity in Kant’s sense of this term.
 3. Sarah E. Friedman and John A. Weymark, "<a class="hover" href="https//john-weymark.github.io/files/Precedent-Based%20Judgment%20Aggregation%20V5.pdf" target="_blank">Precedent-Based Judgment Aggregation in the U.S. Supreme Court</a>."  Current Version: March 2022.
 <br>
 <br>
-<i> Abstrsact:</i> When a case is before the U.S. Supreme Court, a precedent may apply. In
+<i> Abstract:</i> When a case is before the U.S. Supreme Court, a precedent may apply. In
 cases in which a precedent is being considered, the Court needs to answer three questions:
 (1) Is the precedent good law? (2) Does the precedent apply to this case? (3) Should
 the Court uphold the precedent? In the event that the Court answers yes to the rst two
