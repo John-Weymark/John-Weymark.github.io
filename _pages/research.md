@@ -72,6 +72,9 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 <hr>
 <h2  style="text-align:center">Journal Publications (Under Construction)</h2>
 <hr>
+1. Craig Brett and John A. Weymark, “Voting Over Selfishly Optimal Nonlinear Income Tax Schedules with a Minimum-Utility Constraint,’ <i>Journal of Mathematical Economics</i>, 2016, Vol. 67, December, pp. 18–31. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/S0304406816301197" target="_blank"> Link to the published version. </a>
+<br>
+<br>
 2. Michael Morreau and John A. Weymark, “Measurement Scales and Welfarist Social Choice,” <i>Journal of Mathematical Psychology</i>, 2016, Vol. 75, December, Special Issue in Honor of R. Duncan Luce, pp. 127–136. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/S0022249616300116" target="_blank"> Link to the published version. </a>
 <br>
 <br>
