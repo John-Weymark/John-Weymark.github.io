@@ -72,7 +72,7 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 <hr>
 <h2  style="text-align:center">Journal Publications (Under Construction)</h2>
 <hr>
-1. Thomas Choate, John A. Weymark, and Alan E. Wiseman, “Partisan Strength and Legislative Bargaining,” <i>Journal of Theoretical Politics</i>, 2019, Vol. 31, No. 1, January, pp. 6–45. <a class="hover" href="https://journals.sagepub.com/doi/full/10.1177/0951629818809416" target="_blank"> Link to the publsihed version. </a> <a class="hover" href="https://journals.sagepub.com/doi/suppl/10.1177/0951629818809416" target="_blank"> Supplementary material. </a>
+1. Thomas Choate, John A. Weymark, and Alan E. Wiseman, “Partisan Strength and Legislative Bargaining,” <i>Journal of Theoretical Politics</i>, 2019, Vol. 31, No. 1, January, pp. 6–45. <a class="hover" href="https://journals.sagepub.com/doi/full/10.1177/0951629818809416" target="_blank"> Link to the published version. </a> <a class="hover" href="https://journals.sagepub.com/doi/suppl/10.1177/0951629818809416" target="_blank"> Supplementary material. </a>
 <br>
 <br>
 2. Craig Brett and John A. Weymark, “Optimal Nonlinear Taxation of Income and Savings without Commitment,” <i> Journal of Public Economic Theory</i>, 2019, Vol. 21, No. 1, February, pp. 5–43. <a class="hover" href="https://onlinelibrary.wiley.com/doi/10.1111/jpet.12328" target="_blank"> Link to the published version. </a> <a class="hover" href="https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fjpet.12328&file=jpet12328-sup-0001-SuppMat.pdf" target="_blank"> Supplementary material. </a>
