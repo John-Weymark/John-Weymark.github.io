@@ -72,40 +72,43 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 <hr>
 <h2  style="text-align:center">Journal Publications (Under Construction)</h2>
 <hr>
-1. John A. Weymark, “Conundrums for Nonconsequentialists,” <i>Social Choice and Welfare</i>, 2017, Vol. 48, No. 2, February, pp. 269–294. <a class="hover" href="https://link.springer.com/article/10.1007/s00355-016-1021-9" target="_blank"> Link to the published version. </a>
+1. Craig Brett and John A.Weymark, “Voting Over Selfishly Optimal Nonlinear Income Tax Schedules,” <i>Games and Economic Behavior</i>, 2017, Vol. 101, January, Special Issue in Honor of John O. Ledyard, pp. 172–188. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/S089982561600035X" target="_blank"> Link to the published version. </a>
 <br>
 <br>
-2. Craig Brett and John A.Weymark, “Reducing the Dimensionality of a Selfishly Optimal Nonlinear Income Tax Problem,” <i>Economic Theory Bulletin</i>, 2018, Vol. 6, No. 2, October, pp. 157–169. <a class="hover" href="https://link.springer.com/article/10.1007/s40505-017-0131-6" target="_blank"> Link to the published version. </a>
+2. John A. Weymark, “Conundrums for Nonconsequentialists,” <i>Social Choice and Welfare</i>, 2017, Vol. 48, No. 2, February, pp. 269–294. <a class="hover" href="https://link.springer.com/article/10.1007/s00355-016-1021-9" target="_blank"> Link to the published version. </a>
 <br>
 <br>
-3. Thomas Choate, John A. Weymark, and Alan E. Wiseman, “Partisan Strength and Legislative Bargaining,” <i>Journal of Theoretical Politics</i>, 2019, Vol. 31, No. 1, January, pp. 6–45. <a class="hover" href="https://journals.sagepub.com/doi/full/10.1177/0951629818809416" target="_blank"> Link to the published version. </a> <a class="hover" href="https://journals.sagepub.com/doi/suppl/10.1177/0951629818809416" target="_blank"> Supplementary material. </a>
+3. Craig Brett and John A.Weymark, “Reducing the Dimensionality of a Selfishly Optimal Nonlinear Income Tax Problem,” <i>Economic Theory Bulletin</i>, 2018, Vol. 6, No. 2, October, pp. 157–169. <a class="hover" href="https://link.springer.com/article/10.1007/s40505-017-0131-6" target="_blank"> Link to the published version. </a>
 <br>
 <br>
-4. Craig Brett and John A. Weymark, “Optimal Nonlinear Taxation of Income and Savings without Commitment,” <i> Journal of Public Economic Theory</i>, 2019, Vol. 21, No. 1, February, pp. 5–43. <a class="hover" href="https://onlinelibrary.wiley.com/doi/10.1111/jpet.12328" target="_blank"> Link to the published version. </a> <a class="hover" href="https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fjpet.12328&file=jpet12328-sup-0001-SuppMat.pdf" target="_blank"> Supplementary material. </a>
+4. Thomas Choate, John A. Weymark, and Alan E. Wiseman, “Partisan Strength and Legislative Bargaining,” <i>Journal of Theoretical Politics</i>, 2019, Vol. 31, No. 1, January, pp. 6–45. <a class="hover" href="https://journals.sagepub.com/doi/full/10.1177/0951629818809416" target="_blank"> Link to the published version. </a> <a class="hover" href="https://journals.sagepub.com/doi/suppl/10.1177/0951629818809416" target="_blank"> Supplementary material. </a>
 <br>
 <br>
-5. Craig Brett and John A. Weymark, “Majority Rule and Selfishly Optimal Nonlinear Income Tax Schedules with Discrete Skill Levels,” <i>Social Choice and Welfare</i>, Special Issue: In Memory of Kenneth J. Arrow, 2020, Vol. 54, No. 2–3, March, pp. 337–362. <a class="hover" href="https://link.springer.com/article/10.1007/s00355-019-01188-4" target="_blank"> Link to the published version. </a>
+5. Craig Brett and John A. Weymark, “Optimal Nonlinear Taxation of Income and Savings without Commitment,” <i> Journal of Public Economic Theory</i>, 2019, Vol. 21, No. 1, February, pp. 5–43. <a class="hover" href="https://onlinelibrary.wiley.com/doi/10.1111/jpet.12328" target="_blank"> Link to the published version. </a> <a class="hover" href="https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fjpet.12328&file=jpet12328-sup-0001-SuppMat.pdf" target="_blank"> Supplementary material. </a>
 <br>
 <br>
-6. Thomas Choate, John A. Weymark, and Alan E. Wiseman, “Legislative Bargaining and Partisan Delegation,” <i>Journal of Theoretical Politics</i>, 2020, Vol. 32, No. 2, April, pp. 289–311. <a class="hover" href="https://journals.sagepub.com/doi/10.1177/0951629819895594" target="_blank"> Link to the published version. </a> <a class="hover" href="https://journals.sagepub.com/doi/suppl/10.1177/0951629819895594" target="_blank"> Supplementary material. </a>
+6. Craig Brett and John A. Weymark, “Majority Rule and Selfishly Optimal Nonlinear Income Tax Schedules with Discrete Skill Levels,” <i>Social Choice and Welfare</i>, Special Issue: In Memory of Kenneth J. Arrow, 2020, Vol. 54, No. 2–3, March, pp. 337–362. <a class="hover" href="https://link.springer.com/article/10.1007/s00355-019-01188-4" target="_blank"> Link to the published version. </a>
 <br>
 <br>
-6. Paul H. Edelman and John A. Weymark, “Dominant Strategy Implementation and Zero Length Cycles,” <i>Economic Theory</i>, 2021, Vol. 72, No. 4, November, pp. 1091–1120. <a class="hover" href="https://link.springer.com/article/10.1007/s00199-020-01324-7" target="_blank"> Link to the published version. </a>
+7. Thomas Choate, John A. Weymark, and Alan E. Wiseman, “Legislative Bargaining and Partisan Delegation,” <i>Journal of Theoretical Politics</i>, 2020, Vol. 32, No. 2, April, pp. 289–311. <a class="hover" href="https://journals.sagepub.com/doi/10.1177/0951629819895594" target="_blank"> Link to the published version. </a> <a class="hover" href="https://journals.sagepub.com/doi/suppl/10.1177/0951629819895594" target="_blank"> Supplementary material. </a>
 <br>
 <br>
-8. Bhaskar Dutta, Anirban Kar, and John A. Weymark, “Strategy-Proof Club Formation with Indivisible Club Facilities,” <i>Review of Economic Design</i>, Special Issue in Honor
+8. Paul H. Edelman and John A. Weymark, “Dominant Strategy Implementation and Zero Length Cycles,” <i>Economic Theory</i>, 2021, Vol. 72, No. 4, November, pp. 1091–1120. <a class="hover" href="https://link.springer.com/article/10.1007/s00199-020-01324-7" target="_blank"> Link to the published version. </a>
+<br>
+<br>
+9. Bhaskar Dutta, Anirban Kar, and John A. Weymark, “Strategy-Proof Club Formation with Indivisible Club Facilities,” <i>Review of Economic Design</i>, Special Issue in Honor
 of Semih Koray: Well-Designed Incentive Schemes, forthcoming.
 <a class="hover" href="https://link.springer.com/article/10.1007/s10058-021-00251-w" target="_blank"> Link to the published version. </a>
 <br>
 <br>
-9. Paul H. Edelman, Martin Van der Linden, and John A. Weymark, “The Core of
+10. Paul H. Edelman, Martin Van der Linden, and John A. Weymark, “The Core of
 a Transferrable Utility Game as the Solution to a Public Good Market Demand
 Problem,” <i>Mathematical Programming Series B</i>, Special Issue: Mathematical Optimization
 for Fair Social Decisions: A Tribute to Michel Balinski, forthcoming.
 <a class="hover" href="https://link.springer.com/article/10.1007/s10107-021-01729-9" target="_blank"> Link to the published version. </a>
 <br>
 <br>
-10. John A. Weymark, Vaihinger’s Fictionalism Meets Binmore’s Knowledge-as-Commitment,
+11. John A. Weymark, Vaihinger’s Fictionalism Meets Binmore’s Knowledge-as-Commitment,
 <i>Homo Oeconomicus</i>, Special Issue in Honor of Ken Binmore, forthcoming.
 <a class="hover" href="https://link.springer.com/article/10.1007/s41412-021-00116-1" target="_blank"> Link to the published version. </a>
 
