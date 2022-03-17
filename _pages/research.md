@@ -72,7 +72,7 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 <hr>
 <h2  style="text-align:center">Journal Publications (Under Construction)</h2>
 <hr>
-1. Craig Brett and John A.Weymark, “Reducing the Dimensionality of a Selfishly Optimal Nonlinear Income Tax Problem,” <i>Economic Theory Bulletin</i>, 2018, Vol. 6, No. 2, October, pp. 157–169. <a class="hover" href="https://link.springer.com/article/10.1007/s40505-017-0131-6" target="_blank"> Link to the published version.
+1. Craig Brett and John A.Weymark, “Reducing the Dimensionality of a Selfishly Optimal Nonlinear Income Tax Problem,” <i>Economic Theory Bulletin</i>, 2018, Vol. 6, No. 2, October, pp. 157–169. <a class="hover" href="https://link.springer.com/article/10.1007/s40505-017-0131-6" target="_blank"> Link to the published version. </a>
 <br>
 <br>
 2. Thomas Choate, John A. Weymark, and Alan E. Wiseman, “Partisan Strength and Legislative Bargaining,” <i>Journal of Theoretical Politics</i>, 2019, Vol. 31, No. 1, January, pp. 6–45. <a class="hover" href="https://journals.sagepub.com/doi/full/10.1177/0951629818809416" target="_blank"> Link to the published version. </a> <a class="hover" href="https://journals.sagepub.com/doi/suppl/10.1177/0951629818809416" target="_blank"> Supplementary material. </a>
