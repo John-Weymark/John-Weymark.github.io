@@ -24,7 +24,7 @@ author_profile: true
 <h2  style="text-align:center">Manuscripts</h2>
 <hr>
 1. Charles Blackorby, David Donaldson, and John A. Weymark, “<a class="hover" href="https://john-weymark.github.io/files/BDW80CORE.pdf" target="_blank">On John Harsanyi’s Defences of Utilitarianism</a>,” Discussion Paper
-No. 80-13, Center for Operations Research and Econometrics, Université catholique
+No. 80-13, Center for Operations Research and Econometrics, Université catholique  
 de Louvain, April 1980.
 <br>
 <br>
