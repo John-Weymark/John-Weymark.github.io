@@ -140,13 +140,16 @@ for Fair Social Decisions: A Tribute to Michel Balinski, forthcoming.
 <hr>
 <h2  style="text-align:center">Articles in Edited Volumes (Under Construction)</h2>
 <hr>
-1. John A.Weymark, “Social Welfare Functions,” in Matthew D. Adler and Marc Fleurbaey, eds., The Oxford Handbook of Well-Being and Public Policy, Oxford University Press: New York and Oxford, 2016, pp. 126–159. <a class="hover" href="https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199325818.001.0001/oxfordhb-9780199325818-e-5" target="_blank"> Link to the published version. </a>
+1. John A. Weymark, “Social Choice Theory,” in Gerald Gaus and Fred D’Agostino, eds., <i>The Routledge Companion to Social and Political Thought</i>, Routledge: New York and London, 2013, pp. 679–690.
 <br>
 <br>
-2. Thibault Gajdos, John A.Weymark, and Claudio Zoli, “Feasible Shared Destiny Risk Distributions,” in Indraneel Dasgupta and Manipushpak Mitra, eds., <i>Deprivation, Inequality and Polarization: Essays in Honour of Satya Ranjan Chakravarty</i>, Springer: Singapore, 2019, pp 37–49. <a class="hover" href="https://link.springer.com/chapter/10.1007/978-981-13-7944-4_3" target="_blank"> Link to the published version. </a>
+2. John A. Weymark, “Social Welfare Functions,” in Matthew D. Adler and Marc Fleurbaey, eds., The Oxford Handbook of Well-Being and Public Policy, Oxford University Press: New York and Oxford, 2016, pp. 126–159. <a class="hover" href="https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199325818.001.0001/oxfordhb-9780199325818-e-5" target="_blank"> Link to the published version. </a>
 <br>
 <br>
-3. Paul H. Edelman and John A. Weymark, “Unrestricted Domain Extensions of Dominant Strategy Implementable Allocation Functions,” in Walter Trockel, ed., <i>Social Design: Essays in Memory of Leonid Hurwicz</i>, Springer: Cham, Switzerland, 2019, pp. 261–275.  <a class="hover" href="https://link.springer.com/chapter/10.1007/978-3-319-93809-7_16" target="_blank"> Link to the published version. </a>
+3. Thibault Gajdos, John A. Weymark, and Claudio Zoli, “Feasible Shared Destiny Risk Distributions,” in Indraneel Dasgupta and Manipushpak Mitra, eds., <i>Deprivation, Inequality and Polarization: Essays in Honour of Satya Ranjan Chakravarty</i>, Springer: Singapore, 2019, pp 37–49. <a class="hover" href="https://link.springer.com/chapter/10.1007/978-981-13-7944-4_3" target="_blank"> Link to the published version. </a>
 <br>
 <br>
-4. Craig Brett and John A.Weymark, “Matthews–Moore Single- and Double-Crossing,” in Jean-François Laslier, Hervé Moulin, M. Remzi Sanver, and William S. Zwicker, eds., <i>The Future of Economic Design: The Continuing Development of a Field as Envisioned by Its Researchers</i>, Springer: Cham, Switzerland, 2019, pp. 461–467.  <a class="hover" href="https://link.springer.com/chapter/10.1007/978-3-030-18050-8_64" target="_blank"> Link to the published version. </a>
+4. Paul H. Edelman and John A. Weymark, “Unrestricted Domain Extensions of Dominant Strategy Implementable Allocation Functions,” in Walter Trockel, ed., <i>Social Design: Essays in Memory of Leonid Hurwicz</i>, Springer: Cham, Switzerland, 2019, pp. 261–275.  <a class="hover" href="https://link.springer.com/chapter/10.1007/978-3-319-93809-7_16" target="_blank"> Link to the published version. </a>
+<br>
+<br>
+5. Craig Brett and John A.Weymark, “Matthews–Moore Single- and Double-Crossing,” in Jean-François Laslier, Hervé Moulin, M. Remzi Sanver, and William S. Zwicker, eds., <i>The Future of Economic Design: The Continuing Development of a Field as Envisioned by Its Researchers</i>, Springer: Cham, Switzerland, 2019, pp. 461–467.  <a class="hover" href="https://link.springer.com/chapter/10.1007/978-3-030-18050-8_64" target="_blank"> Link to the published version. </a>
