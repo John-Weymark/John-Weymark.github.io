@@ -83,7 +83,7 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 Articles 1–57 to be added.
 <br>
 <br>
-58. Craig Brett and John A.Weymark, “Public Good Provision and the Comparative Statics of Optimal Nonlinear Income Taxation,” <i>International Economic Review</i>, 2008, Vol. 49, No. 1, February, pp. 255–290.
+58. Craig Brett and John A.Weymark, “Public Good Provision and the Comparative Statics of Optimal Nonlinear Income Taxation,” <i>International Economic Review</i>, 2008, Vol. 49, No. 1, February, pp. 255–290. <a class="hover" href="https://onlinelibrary.wiley.com/doi/10.1111/j.1468-2354.2008.00479.x" target="_blank"> Link to the published version. </a>
 <br>
 <br>
 59. Craig Brett and John A.Weymark, “The Impact of Changing Skill Levels on Optimal Nonlinear Income Taxes,” <i>Journal of Public Economics</i>, 2008, Vol. 92, No. 7, July, pp. 1765–1771. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/S004727270800042X" target="_blank"> Link to the published version. </a>
