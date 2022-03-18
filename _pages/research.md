@@ -159,6 +159,8 @@ for Fair Social Decisions: A Tribute to Michel Balinski, forthcoming.
 
 <h2  style="text-align:center">Articles in Edited Volumes (Under Construction)</h2>
 <hr>
+9. John A. Weymark, “The Normative Approach to the Measurement of Multidimensional Inequality,” in Francesco Farina and Ernesto Savaglio, eds., <i>Inequality and Economic Integration</i>, Routledge: London, 2006, pp. 303–328.
+<br>
 10. Charles Blackorby, David Donaldson, and John A. Weymark, “Social Aggregation and the Expected Utility Hypothesis,” in Marc Fleurbaey, Maurice Salles, and John A. Weymark, eds., <i>Justice, Political Liberalism, and Utilitarianism: Themes from Harsanyi and Rawls</i>, Cambridge University Press: Cambridge and New York, 2008, pp. 136–183. <a class="hover" href="https://www.cambridge.org/core/books/abs/justice-political-liberalism-and-utilitarianism/social-aggregation-and-the-expected-utility-hypothesis/6D11A3F9A3DB28446F0609428E847D79" target="_blank"> Link to the published version. </a>
 <br>
 11. Charles Blackorby, David Donaldson, and John A. Weymark, “Hicksian Surplus Measures of Individual Welfare Change When There is Price and Income Uncertainty,” in Prasanta K. Pattanaik, Koichi Tadenuma, Naoki Yoshihara, and Yongsheng Xu, eds., <i>Rational Choice and Social Welfare: Theory and Applications. Essays in Honor of Kotaro Suzumura</i>, Springer: Berlin and Heidelberg, 2008, pp. 195–213. <a class="hover" href="https://link.springer.com/chapter/10.1007/978-3-540-79832-3_11" target="_blank"> Link to the published version. </a>
