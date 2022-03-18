@@ -166,3 +166,8 @@ for Fair Social Decisions: A Tribute to Michel Balinski, forthcoming.
 <br>
 <br>
 9. Craig Brett and John A.Weymark, “Matthews–Moore Single- and Double-Crossing,” in Jean-François Laslier, Hervé Moulin, M. Remzi Sanver, and William S. Zwicker, eds., <i>The Future of Economic Design: The Continuing Development of a Field as Envisioned by Its Researchers</i>, Springer: Cham, Switzerland, 2019, pp. 461–467.  <a class="hover" href="https://link.springer.com/chapter/10.1007/978-3-030-18050-8_64" target="_blank"> Link to the published version. </a>
+<hr>
+
+<h2  style="text-align:center">Interview</h2>
+<hr>
+1. Matthew D. Adler and John A. Weymark, “Allan Gibbard,” in Marc Fleurbaey and Maurice Salles, eds., <i>Conversations on Social Choice and Welfare Theory, Volume 1</i>, Springer: Cham, Switzerland, 2021, pp. 171–207.
