@@ -80,7 +80,13 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 <hr>
 
 <h2  style="text-align:center">Journal Publications</h2>
-Articles 1–62 to be added.
+Articles 1–60 to be added.
+<br>
+<br>
+61. Craig Brett and John A. Weymark, “How Optimal Nonlinear Income Taxes Change when the Distribution of the Population Changes,” <i>Journal of Public Economics</i>, 2011, Vol. 95, Nos. 11–12, December, Special Issue: International Seminar on Public Economics Conference on Normative Tax Theory, pp. 1239–1247.
+<br>
+<br>
+62. John A. Weymark, “A Unified Approach to Strategy-Proofness for Single-Peaked Preferences,” <i>SERIEs: Journal of the Spanish Economic Association</i>, 2011, Vol. 2, No. 4, December, Special Issue in Honor of Salvador Barberà. Part I: On Strategy- Proofness, pp. 529–550.
 <br>
 <br>
 63. Katherine Cuff, Sunghoon Hong, Jesse A. Schwartz, Quan Wen, and John A. Weymark, “Dominant Strategy Implementation with a Convex Product Set of Valuations,” <i>Social Choice and Welfare</i>, 2012, Vol. 39, Nos. 2–3, July, Special Issue in Honour of Maurice Salles on Developments in Social Choice and Welfare Theories, pp. 567– 597. <a class="hover" href="https://link.springer.com/article/10.1007/s00355-011-0604-8" target="_blank"> Link to the published version. </a>
