@@ -170,4 +170,4 @@ for Fair Social Decisions: A Tribute to Michel Balinski, forthcoming.
 
 <h2  style="text-align:center">Interview</h2>
 <hr>
-1. Matthew D. Adler and John A. Weymark, “Allan Gibbard,” in Marc Fleurbaey and Maurice Salles, eds., <i>Conversations on Social Choice and Welfare Theory, Volume 1</i>, Springer: Cham, Switzerland, 2021, pp. 171–207.
+1. Matthew D. Adler and John A. Weymark, “Allan Gibbard,” in Marc Fleurbaey and Maurice Salles, eds., <i>Conversations on Social Choice and Welfare Theory, Volume 1</i>, Springer: Cham, Switzerland, 2021, pp. 171–207.   <a class="hover" href="https://link.springer.com/chapter/10.1007/978-3-030-62769-0_11" target="_blank"> Link to the published version. </a>
