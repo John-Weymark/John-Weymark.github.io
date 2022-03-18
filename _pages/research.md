@@ -159,7 +159,7 @@ for Fair Social Decisions: A Tribute to Michel Balinski, forthcoming.
 
 <h2  style="text-align:center">Articles in Edited Volumes (Under Construction)</h2>
 <hr>
-8. John A. Weymark, “Shadow Prices for a Nonconvex Public Technology in the Presence of Private Constant Returns,” in Ulrich Schmidt and Stefan Traub, eds., <i>Advances in Public Economics: Utility, Choice, and Welfare. A Festschrift for Christian Seidl</i>, Springer: Dordrecht, 2005, pp. 61–71.
+8. John A. Weymark, “Shadow Prices for a Nonconvex Public Technology in the Presence of Private Constant Returns,” in Ulrich Schmidt and Stefan Traub, eds., <i>Advances in Public Economics: Utility, Choice, and Welfare. A Festschrift for Christian Seidl</i>, Springer: Dordrecht, 2005, pp. 61–71. <a class="hover" href="https://link.springer.com/chapter/10.1007/0-387-25706-3_5" target="_blank"> Link to the published version. </a>
 <br>
 9. John A. Weymark, “The Normative Approach to the Measurement of Multidimensional Inequality,” in Francesco Farina and Ernesto Savaglio, eds., <i>Inequality and Economic Integration</i>, Routledge: London, 2006, pp. 303–328. <a class="hover" href="https://www.taylorfrancis.com/chapters/mono/10.4324/9780203325100-23/normative-approach-measurement-multidimensional-inequality-francesco-farina-ernesto-savaglio?context=ubx&refId=e0723f7b-0703-43a3-9733-36d245f66569" target="_blank"> Link to the published version. </a>
 <br>
