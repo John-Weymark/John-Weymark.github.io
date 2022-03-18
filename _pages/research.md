@@ -83,7 +83,7 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 Articles 1–56 to be added.
 <br>
 <br>
-57. John A.Weymark, “Strategy-Proofness and the Tops-Only Property,” <i>Journal of Public Economic Theory</i>, 2008, Vol. 10, No. 1, February, pp. 7–26.
+57. John A. Weymark, “Strategy-Proofness and the Tops-Only Property,” <i>Journal of Public Economic Theory</i>, 2008, Vol. 10, No. 1, February, pp. 7–26. <a class="hover" href="https://onlinelibrary.wiley.com/doi/10.1111/j.1467-9779.2008.00349.x" target="_blank"> Link to the published version. </a>
 <br>
 <br>
 58. Craig Brett and John A. Weymark, “Public Good Provision and the Comparative Statics of Optimal Nonlinear Income Taxation,” <i>International Economic Review</i>, 2008, Vol. 49, No. 1, February, pp. 255–290. <a class="hover" href="https://onlinelibrary.wiley.com/doi/10.1111/j.1468-2354.2008.00479.x" target="_blank"> Link to the published version. </a>
