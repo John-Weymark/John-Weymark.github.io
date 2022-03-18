@@ -78,7 +78,7 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 2. Marc Fleurbaey, Maurice Salles, and John A. Weymark, eds., <i>Social Ethics and Normative Economics: Essays in Honour of Serge-Christophe Kolm</i>, Springer: Berlin and Heidelberg, 2011, x + 357 pp. <a class="hover" href="https://link.springer.com/book/10.1007/978-3-642-17807-8" target="_blank"> Link to the publisher's web page. </a>
 <hr>
 
-<h2  style="text-align:center">Journal Publications</h2>
+<h2  style="text-align:center">Journal Publications (Under Construction)</h2>
 <hr>
 55. Thibault Gajdos and John A. Weymark, “Multidimensional Generalized Gini Indices,” <i>Economic Theory</i>, 2005, Vol. 26, No. 3, October, pp. 471–496. <a class="hover" href="https://link.springer.com/article/10.1007/s00199-004-0529-x" target="_blank"> Link to the published version. </a>
 <br>
@@ -147,7 +147,7 @@ for Fair Social Decisions: A Tribute to Michel Balinski, forthcoming.
 <a class="hover" href="https://link.springer.com/article/10.1007/s41412-021-00116-1" target="_blank"> Link to the published version. </a>
 <hr>
 
-<h2  style="text-align:center">Articles in Edited Volumes</h2>
+<h2  style="text-align:center">Articles in Edited Volumes (Under Construction)</h2>
 <hr>
 11. Charles Blackorby, David Donaldson, and John A. Weymark, “Hicksian Surplus Measures of Individual Welfare Change When There is Price and Income Uncertainty,” in Prasanta K. Pattanaik, Koichi Tadenuma, Naoki Yoshihara, and Yongsheng Xu, eds., <i>Rational Choice and Social Welfare: Theory and Applications. Essays in Honor of Kotaro Suzumura</i>, Springer: Berlin and Heidelberg, 2008, pp. 195–213. <a class="hover" href="https://link.springer.com/chapter/10.1007/978-3-540-79832-3_11" target="_blank"> Link to the published version. </a>
 <br>
