@@ -159,6 +159,8 @@ for Fair Social Decisions: A Tribute to Michel Balinski, forthcoming.
 
 <h2  style="text-align:center">Articles in Edited Volumes (Under Construction)</h2>
 <hr>
+10. Charles Blackorby, David Donaldson, and John A. Weymark, “Social Aggregation and the Expected Utility Hypothesis,” in Marc Fleurbaey, Maurice Salles, and John A. Weymark, eds., <i>Justice, Political Liberalism, and Utilitarianism: Themes from Harsanyi and Rawls</i>, Cambridge University Press: Cambridge and New York, 2008, pp. 136–183.
+<br>
 11. Charles Blackorby, David Donaldson, and John A. Weymark, “Hicksian Surplus Measures of Individual Welfare Change When There is Price and Income Uncertainty,” in Prasanta K. Pattanaik, Koichi Tadenuma, Naoki Yoshihara, and Yongsheng Xu, eds., <i>Rational Choice and Social Welfare: Theory and Applications. Essays in Honor of Kotaro Suzumura</i>, Springer: Berlin and Heidelberg, 2008, pp. 195–213. <a class="hover" href="https://link.springer.com/chapter/10.1007/978-3-540-79832-3_11" target="_blank"> Link to the published version. </a>
 <br>
 12. Alain Trannoy and John A. Weymark, “Dominance Criteria for Critical-Level Generalized Utilitarianism,” in Kaushik Basu and Ravi Kanbur, eds., <i>Arguments for a Better World: Essays in Honor of Amartya Sen. Volume I: Ethics, Welfare and Measurement</i>, Oxford University Press: Oxford, 2009, pp. 262–279. <a class="hover" href="https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780199239115.001.0001/acprof-9780199239115-chapter-16" target="_blank"> Link to the published version. </a>
