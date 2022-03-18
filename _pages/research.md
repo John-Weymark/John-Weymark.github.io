@@ -79,8 +79,11 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 2. Marc Fleurbaey, Maurice Salles, and John A. Weymark, eds., <i>Social Ethics and Normative Economics: Essays in Honour of Serge-Christophe Kolm</i>, Springer: Berlin and Heidelberg, 2011, x + 357 pp. <a class="hover" href="https://link.springer.com/book/10.1007/978-3-642-17807-8" target="_blank"> Link to the publisher's web page. </a>
 <hr>
 
-<h2  style="text-align:center">Journal Publications (Under Construction)</h2>
-1. Felix Bierbrauer, Craig Brett, and John A. Weymark, "Strategic Nonlinear Income Tax Competition with Perfect Labor Mobility," <i>Games and Economic Behavior</i>, 2013, Vol. 82, November, pp. 292–311. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/S0899825613001164" target="_blank"> Link to the published version. </a>
+<h2  style="text-align:center">Journal Publications</h2>
+Articles 1-66 to be added.
+<br>
+<br>
+67. Felix Bierbrauer, Craig Brett, and John A. Weymark, "Strategic Nonlinear Income Tax Competition with Perfect Labor Mobility," <i>Games and Economic Behavior</i>, 2013, Vol. 82, November, pp. 292–311. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/S0899825613001164" target="_blank"> Link to the published version. </a>
 <br>
 <br>
 2. Samir Okasha, John A. Weymark, and Walter Bossert, "Inclusive Fitness Maximization: An Axiomatic Approach," <i>Journal of Theoretical Biology</i>, 2014, Vol. 350, June 7, pp. 24–31. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/S0022519314000630" target="_blank"> Link to the published version. </a>
