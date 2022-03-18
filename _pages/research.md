@@ -159,6 +159,8 @@ for Fair Social Decisions: A Tribute to Michel Balinski, forthcoming.
 
 <h2  style="text-align:center">Articles in Edited Volumes (Under Construction)</h2>
 <hr>
+8. John A. Weymark, “Shadow Prices for a Nonconvex Public Technology in the Presence of Private Constant Returns,” in Ulrich Schmidt and Stefan Traub, eds., <i>Advances in Public Economics: Utility, Choice, and Welfare. A Festschrift for Christian Seidl</i>, Springer: Dordrecht, 2005, pp. 61–71.
+<br>
 9. John A. Weymark, “The Normative Approach to the Measurement of Multidimensional Inequality,” in Francesco Farina and Ernesto Savaglio, eds., <i>Inequality and Economic Integration</i>, Routledge: London, 2006, pp. 303–328. <a class="hover" href="https://www.taylorfrancis.com/chapters/mono/10.4324/9780203325100-23/normative-approach-measurement-multidimensional-inequality-francesco-farina-ernesto-savaglio?context=ubx&refId=e0723f7b-0703-43a3-9733-36d245f66569" target="_blank"> Link to the published version. </a>
 <br>
 10. Charles Blackorby, David Donaldson, and John A. Weymark, “Social Aggregation and the Expected Utility Hypothesis,” in Marc Fleurbaey, Maurice Salles, and John A. Weymark, eds., <i>Justice, Political Liberalism, and Utilitarianism: Themes from Harsanyi and Rawls</i>, Cambridge University Press: Cambridge and New York, 2008, pp. 136–183. <a class="hover" href="https://www.cambridge.org/core/books/abs/justice-political-liberalism-and-utilitarianism/social-aggregation-and-the-expected-utility-hypothesis/6D11A3F9A3DB28446F0609428E847D79" target="_blank"> Link to the published version. </a>
