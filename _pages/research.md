@@ -80,7 +80,10 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 <hr>
 
 <h2  style="text-align:center">Journal Publications</h2>
-Articles 1–55 to be added.
+Articles 1–54 to be added.
+<br>
+<br>
+55. Thibault Gajdos and John A. Weymark, “Multidimensional Generalized Gini Indices,” <i>Economic Theory</i>, 2005, Vol. 26, No. 3, October, pp. 471–496.
 <br>
 <br>
 56. John A. Weymark, “Measurement Theory and the Foundations of Utilitarianism,” <i>Social Choice and Welfare</i>, 2005, Vol. 25, Nos. 2–3, December, Special Issue on the History of Social Choice, pp. 527–555.  <a class="hover" href="https://link.springer.com/article/10.1007/s00355-005-0017-7" target="_blank"> Link to the published version. </a>
