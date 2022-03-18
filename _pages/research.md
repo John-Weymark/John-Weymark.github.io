@@ -80,7 +80,7 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 
 <h2  style="text-align:center">Journal Publications (Under Construction)</h2>
 <hr>
-52. Lars Ehlers and John A.Weymark, “Candidate Stability and Nonbinary Social Choice,” <i>Economic Theory</i>, 2003, Vol. 22, No. 2, September, pp. 233–243.
+52. Lars Ehlers and John A.Weymark, “Candidate Stability and Nonbinary Social Choice,” <i>Economic Theory</i>, 2003, Vol. 22, No. 2, September, pp. 233–243. <a class="hover" href="https://link.springer.com/article/10.1007/s00199-002-0279-6" target="_blank"> Link to the published version. </a>
 <br>
 53. Craig Brett and John A. Weymark, “Financing Education Using Optimal Redistributive Taxation,” <i>Journal of Public Economics</i>, 2003, Vol. 87, No. 11, October, Special Issue: International Seminar on Public Economics Conference on Public Economics and Redistribution, June 22–24th, 2000, pp. 2549–2569. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/S0047272702000543" target="_blank"> Link to the published version. </a>
 <br>
