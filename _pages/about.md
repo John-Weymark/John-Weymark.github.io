@@ -13,4 +13,6 @@ My research interests include (1) Microeconomic Theory, (2) Public Economics, (3
 
 Biographical information about me may be found in:
 
-1. Felix Bierbrauer and Claude d’Aspremont, “John A. Weymark,” in Marc Fleurbaey and Maurice Salles, eds., <i>Conversations on Social Choice and Welfare Theory,</i>, Volume 1, Springer: Cham, Switzerland, 2021, pp. 289-334.
+1. Marc Fleurbaey, "John A. Weymark: President-elect of the Society for Social Choice and Welfare 2006–2007, President 2008–2009," <i>Social Choice and Welfare,</i>, Vol. 48, 2017, February, pp. 267–268.
+
+2. Felix Bierbrauer and Claude d’Aspremont, “John A. Weymark,” in Marc Fleurbaey and Maurice Salles, eds., <i>Conversations on Social Choice and Welfare Theory,</i>, Volume 1, Springer: Cham, Switzerland, 2021, pp. 289-334.
