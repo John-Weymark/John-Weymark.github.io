@@ -74,6 +74,7 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 <h2 style="text-align:center">Edited Books</h2>
 <hr>
 1. Marc Fleurbaey, Maurice Salles, and John A. Weymark, eds., <i>Justice, Political Liberalism, and Utilitarianism: Themes from Harsanyi and Rawls</i>, Cambridge University Press: Cambridge and New York, 2008, xii + 460 pp. Paperback edition, 2010. <a class="hover" href="https://www.cambridge.org/us/academic/subjects/economics/history-economic-thought-and-methodology/justice-political-liberalism-and-utilitarianism-themes-harsanyi-and-rawls?format=HB" target="_blank"> Link to the publisher's web page. </a>
+<br>
 2. Marc Fleurbaey, Maurice Salles, and John A. Weymark, eds., <i>Social Ethics and Normative Economics: Essays in Honour of Serge-Christophe Kolm</i>, Springer: Berlin and Heidelberg, 2011, x + 357 pp. <a class="hover" href="https://link.springer.com/book/10.1007/978-3-642-17807-8" target="_blank"> Link to the publisher's web page. </a>
 <hr>
 
@@ -82,8 +83,11 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 Articles 1–54 to be added.
 <br>
 55. Thibault Gajdos and John A. Weymark, “Multidimensional Generalized Gini Indices,” <i>Economic Theory</i>, 2005, Vol. 26, No. 3, October, pp. 471–496. <a class="hover" href="https://link.springer.com/article/10.1007/s00199-004-0529-x" target="_blank"> Link to the published version. </a>
+<br>
 56. John A. Weymark, “Measurement Theory and the Foundations of Utilitarianism,” <i>Social Choice and Welfare</i>, 2005, Vol. 25, Nos. 2–3, December, Special Issue on the History of Social Choice, pp. 527–555.  <a class="hover" href="https://link.springer.com/article/10.1007/s00355-005-0017-7" target="_blank"> Link to the published version. </a>
+<br>
 57. John A. Weymark, “Strategy-Proofness and the Tops-Only Property,” <i>Journal of Public Economic Theory</i>, 2008, Vol. 10, No. 1, February, pp. 7–26. <a class="hover" href="https://onlinelibrary.wiley.com/doi/10.1111/j.1467-9779.2008.00349.x" target="_blank"> Link to the published version. </a>
+<br>
 58. Craig Brett and John A. Weymark, “Public Good Provision and the Comparative Statics of Optimal Nonlinear Income Taxation,” <i>International Economic Review</i>, 2008, Vol. 49, No. 1, February, pp. 255–290. <a class="hover" href="https://onlinelibrary.wiley.com/doi/10.1111/j.1468-2354.2008.00479.x" target="_blank"> Link to the published version. </a>
 59. Craig Brett and John A. Weymark, “The Impact of Changing Skill Levels on Optimal Nonlinear Income Taxes,” <i>Journal of Public Economics</i>, 2008, Vol. 92, No. 7, July, pp. 1765–1771. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/S004727270800042X" target="_blank"> Link to the published version. </a>
 60. Thibault Gajdos, John A. Weymark, and Claudio Zoli, “Shared Destinies and the Measurement of Social Risk Equity,” <i>Annals of Operations Research</i>, 2010, Vol. 176, No. 1, April, Special Issue on the Theory and Application of Uncertainty, pp. 409–424. <a class="hover" href="https://link.springer.com/article/10.1007/s10479-009-0588-2" target="_blank"> Link to the published version. </a>
