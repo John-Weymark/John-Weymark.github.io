@@ -83,7 +83,7 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 Articles 1–59 to be added.
 <br>
 <br>
-60. Thibault Gajdos, John A. Weymark, and Claudio Zoli, “Shared Destinies and the Measurement of Social Risk Equity,” <i>Annals of Operations Research</i>, 2010, Vol. 176, No. 1, April, Special Issue on the Theory and Application of Uncertainty, pp. 409–424. 
+60. Thibault Gajdos, John A. Weymark, and Claudio Zoli, “Shared Destinies and the Measurement of Social Risk Equity,” <i>Annals of Operations Research</i>, 2010, Vol. 176, No. 1, April, Special Issue on the Theory and Application of Uncertainty, pp. 409–424. <a class="hover" href="https://link.springer.com/article/10.1007/s10479-009-0588-2" target="_blank"> Link to the published version. </a>
 <br>
 <br>
 61. Craig Brett and John A. Weymark, “How Optimal Nonlinear Income Taxes Change when the Distribution of the Population Changes,” <i>Journal of Public Economics</i>, 2011, Vol. 95, Nos. 11–12, December, Special Issue: International Seminar on Public Economics Conference on Normative Tax Theory, pp. 1239–1247. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/S0047272710000678" target="_blank"> Link to the published version. </a>
