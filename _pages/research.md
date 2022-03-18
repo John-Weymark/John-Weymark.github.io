@@ -80,7 +80,10 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 <hr>
 
 <h2  style="text-align:center">Journal Publications</h2>
-Articles 1–64 to be added.
+Articles 1–63 to be added.
+<br>
+<br>
+64. Walter Bossert, Chloe X. Qi, and John A. Weymark, “Extensive Social Choice and the Measurement of Group Fitness in Biological Hierarchies,” <i>Biology and Philosophy,</i> 2013, Vol. 28, No. 1, January, pp. 75–98.
 <br>
 <br>
 65. Craig Brett and John A. Weymark, “Comparative Statics of Optimal Nonlinear Income Taxation with a Publicly Provided Input and a Nonlinear Production Technology,’ <i>Journal of Public Economic Theory</i>, 2013, Vol. 15, No. 4, August, pp. 519–546. <a class="hover" href="https://onlinelibrary.wiley.com/doi/10.1111/jpet.12037" target="_blank"> Link to the published version. </a> 
