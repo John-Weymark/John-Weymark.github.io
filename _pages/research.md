@@ -27,6 +27,7 @@ author_profile: true
 No. 80-13, Center for Operations Research and Econometrics, Université catholique  
 de Louvain, April 1980.
 <br>
+<br>
     <i> Abstract:</i> Harsanyi has advanced three arguments in defence of utilitarianism.
 One defence is based on the separability of the social-welfare function
 with respect to individual utilities, the second defence requires social
@@ -40,6 +41,7 @@ classical utilitarianism.
 <br>
 <br>
 2. Luís C. Calderón Gómez, Robert Talisse, and John A. Weymark, "<a class="hover" href="https://john-weymark.github.io/files/CTW%20Dignity%20V1.pdf" target="_blank">Market Virtues and Respect for Human Dignity</a>." Current Version: February 2020.
+<br>
 <br>
     <i> Abstract:</i> Luigino Bruni and Robert Sugden (Journal of Economic Perspectives, 2013) have provided
 a normative defense of markets from a virtue ethics perspective. They interpret market
@@ -55,6 +57,7 @@ dignity in Kant’s sense of this term.
 <br>
 <br>
 3. Sarah E. Friedman and John A. Weymark, "<a class="hover" href="https//john-weymark.github.io/files/Precedent-Based%20Judgment%20Aggregation%20V5.pdf" target="_blank">Precedent-Based Judgment Aggregation in the U.S. Supreme Court</a>."  Current Version: March 2022.
+<br>
 <br>
 <i> Abstract:</i> When a case is before the U.S. Supreme Court, a precedent may apply. In
 cases in which a precedent is being considered, the Court needs to answer three questions:
