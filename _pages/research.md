@@ -80,7 +80,7 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 
 <h2  style="text-align:center">Journal Publications (Under Construction)</h2>
 <hr>
-51. John A. Weymark, “Generalized Gini Indices of Equality of Opportunity,” <i>Journal of Economic Inequality</i>, 2003, Vol. 1, No. 1, April, pp. 5–24.
+51. John A. Weymark, “Generalized Gini Indices of Equality of Opportunity,” <i>Journal of Economic Inequality</i>, 2003, Vol. 1, No. 1, April, pp. 5–24. <a class="hover" href="https://link.springer.com/article/10.1023/A%3A1023923807503" target="_blank"> Link to the published version. </a>
 <br>
 52. Lars Ehlers and John A.Weymark, “Candidate Stability and Nonbinary Social Choice,” <i>Economic Theory</i>, 2003, Vol. 22, No. 2, September, pp. 233–243. <a class="hover" href="https://link.springer.com/article/10.1007/s00199-002-0279-6" target="_blank"> Link to the published version. </a>
 <br>
