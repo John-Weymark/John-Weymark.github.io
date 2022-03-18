@@ -74,8 +74,6 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 <h2 style="text-align:center">Edited Books</h2>
 <hr>
 1. Marc Fleurbaey, Maurice Salles, and John A. Weymark, eds., <i>Justice, Political Liberalism, and Utilitarianism: Themes from Harsanyi and Rawls</i>, Cambridge University Press: Cambridge and New York, 2008, xii + 460 pp. Paperback edition, 2010. <a class="hover" href="https://www.cambridge.org/us/academic/subjects/economics/history-economic-thought-and-methodology/justice-political-liberalism-and-utilitarianism-themes-harsanyi-and-rawls?format=HB" target="_blank"> Link to the publisher's web page. </a>
-<br>
-<br>
 2. Marc Fleurbaey, Maurice Salles, and John A. Weymark, eds., <i>Social Ethics and Normative Economics: Essays in Honour of Serge-Christophe Kolm</i>, Springer: Berlin and Heidelberg, 2011, x + 357 pp. <a class="hover" href="https://link.springer.com/book/10.1007/978-3-642-17807-8" target="_blank"> Link to the publisher's web page. </a>
 <hr>
 
@@ -85,89 +83,37 @@ Articles 1–54 to be added.
 55. Thibault Gajdos and John A. Weymark, “Multidimensional Generalized Gini Indices,” <i>Economic Theory</i>, 2005, Vol. 26, No. 3, October, pp. 471–496. <a class="hover" href="https://link.springer.com/article/10.1007/s00199-004-0529-x" target="_blank"> Link to the published version. </a>
 56. John A. Weymark, “Measurement Theory and the Foundations of Utilitarianism,” <i>Social Choice and Welfare</i>, 2005, Vol. 25, Nos. 2–3, December, Special Issue on the History of Social Choice, pp. 527–555.  <a class="hover" href="https://link.springer.com/article/10.1007/s00355-005-0017-7" target="_blank"> Link to the published version. </a>
 57. John A. Weymark, “Strategy-Proofness and the Tops-Only Property,” <i>Journal of Public Economic Theory</i>, 2008, Vol. 10, No. 1, February, pp. 7–26. <a class="hover" href="https://onlinelibrary.wiley.com/doi/10.1111/j.1467-9779.2008.00349.x" target="_blank"> Link to the published version. </a>
-<br>
-<br>
 58. Craig Brett and John A. Weymark, “Public Good Provision and the Comparative Statics of Optimal Nonlinear Income Taxation,” <i>International Economic Review</i>, 2008, Vol. 49, No. 1, February, pp. 255–290. <a class="hover" href="https://onlinelibrary.wiley.com/doi/10.1111/j.1468-2354.2008.00479.x" target="_blank"> Link to the published version. </a>
-<br>
-<br>
 59. Craig Brett and John A. Weymark, “The Impact of Changing Skill Levels on Optimal Nonlinear Income Taxes,” <i>Journal of Public Economics</i>, 2008, Vol. 92, No. 7, July, pp. 1765–1771. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/S004727270800042X" target="_blank"> Link to the published version. </a>
-<br>
-<br>
 60. Thibault Gajdos, John A. Weymark, and Claudio Zoli, “Shared Destinies and the Measurement of Social Risk Equity,” <i>Annals of Operations Research</i>, 2010, Vol. 176, No. 1, April, Special Issue on the Theory and Application of Uncertainty, pp. 409–424. <a class="hover" href="https://link.springer.com/article/10.1007/s10479-009-0588-2" target="_blank"> Link to the published version. </a>
-<br>
-<br>
 61. Craig Brett and John A. Weymark, “How Optimal Nonlinear Income Taxes Change when the Distribution of the Population Changes,” <i>Journal of Public Economics</i>, 2011, Vol. 95, Nos. 11–12, December, Special Issue: International Seminar on Public Economics Conference on Normative Tax Theory, pp. 1239–1247. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/S0047272710000678" target="_blank"> Link to the published version. </a>
-<br>
-<br>
 62. John A. Weymark, “A Unified Approach to Strategy-Proofness for Single-Peaked Preferences,” <i>SERIEs: Journal of the Spanish Economic Association</i>, 2011, Vol. 2, No. 4, December, Special Issue in Honor of Salvador Barberà. Part I: On Strategy- Proofness, pp. 529–550. <a class="hover" href="https://link.springer.com/article/10.1007/s13209-011-0064-5" target="_blank"> Link to the published version. </a>
-<br>
-<br>
 63. Katherine Cuff, Sunghoon Hong, Jesse A. Schwartz, Quan Wen, and John A. Weymark, “Dominant Strategy Implementation with a Convex Product Set of Valuations,” <i>Social Choice and Welfare</i>, 2012, Vol. 39, Nos. 2–3, July, Special Issue in Honour of Maurice Salles on Developments in Social Choice and Welfare Theories, pp. 567– 597. <a class="hover" href="https://link.springer.com/article/10.1007/s00355-011-0604-8" target="_blank"> Link to the published version. </a>
-<br>
-<br>
 64. Walter Bossert, Chloe X. Qi, and John A. Weymark, “Extensive Social Choice and the Measurement of Group Fitness in Biological Hierarchies,” <i>Biology and Philosophy,</i> 2013, Vol. 28, No. 1, January, pp. 75–98. <a class="hover" href="https://link.springer.com/article/10.1007/s10539-012-9348-9" target="_blank"> Link to the published version. </a>
-<br>
-<br>
 65. Craig Brett and John A. Weymark, “Comparative Statics of Optimal Nonlinear Income Taxation with a Publicly Provided Input and a Nonlinear Production Technology,’ <i>Journal of Public Economic Theory</i>, 2013, Vol. 15, No. 4, August, pp. 519–546. <a class="hover" href="https://onlinelibrary.wiley.com/doi/10.1111/jpet.12037" target="_blank"> Link to the published version. </a> 
-<br>
-<br>
 66. Walter Bossert, Chloe X. Qi, and John A. Weymark, “Measuring Group Fitness in a Biological Hierarchy: An Axiomatic Social Choice Approach,” <i>Economics and Philosophy</i>, 2013, Vol. 29, No. 3, November, pp. 301–323. <a class="hover" href="https://www.cambridge.org/core/journals/economics-and-philosophy/article/abs/measuring-group-fitness-in-a-biological-hierarchy-an-axiomatic-social-choice-approach/85646B07A8DAF90CBE783948CF52A8FF" target="_blank"> Link to the published version. </a>
-<br>
-<br>
 67. Felix Bierbrauer, Craig Brett, and John A. Weymark, "Strategic Nonlinear Income Tax Competition with Perfect Labor Mobility," <i>Games and Economic Behavior</i>, 2013, Vol. 82, November, pp. 292–311. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/S0899825613001164" target="_blank"> Link to the published version. </a>
-<br>
-<br>
 68. Samir Okasha, John A. Weymark, and Walter Bossert, "Inclusive Fitness Maximization: An Axiomatic Approach," <i>Journal of Theoretical Biology</i>, 2014, Vol. 350, June 7, pp. 24–31. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/S0022519314000630" target="_blank"> Link to the published version. </a>
-<br>
-<br>
 69. John A. Weymark, “Must One Be an Ogre to Rationally Prefer Aiding the Nearby to the Distant Needy?” <i>Philosophy and Public Affairs</i>, 2014, Vol. 42, No. 3, Summer, pp. 230–252. <a class="hover" href="https://onlinelibrary.wiley.com/doi/10.1111/papa.12033" target="_blank"> Link to the published version. </a>
-<br>
-<br>
 70. John A. Weymark, “Cognitive Diversity, Binary Decisions, and Epistemic Democracy,” <i>Episteme</i>, 2015, Vol. 12, No. 4, December, pp. 497–511. <a class="hover" href="https://www.cambridge.org/core/journals/episteme/article/abs/cognitive-diversity-binary-decisions-and-epistemic-democracy/1A9E8FB7D5A51F68546A7CAA2078FA67" target="_blank"> Link to the published version. </a>
-<br>
-<br>
 71. Craig Brett and John A. Weymark, “Voting Over Selfishly Optimal Nonlinear Income Tax Schedules with a Minimum-Utility Constraint," <i>Journal of Mathematical Economics</i>, 2016, Vol. 67, December, pp. 18–31. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/S0304406816301197" target="_blank"> Link to the published version. </a>
-<br>
-<br>
 72. Michael Morreau and John A. Weymark, “Measurement Scales and Welfarist Social Choice,” <i>Journal of Mathematical Psychology</i>, 2016, Vol. 75, December, Special Issue in Honor of R. Duncan Luce, pp. 127–136. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/S0022249616300116" target="_blank"> Link to the published version. </a>
-<br>
-<br>
 73. Craig Brett and John A.Weymark, “Voting Over Selfishly Optimal Nonlinear Income Tax Schedules,” <i>Games and Economic Behavior</i>, 2017, Vol. 101, January, Special Issue in Honor of John O. Ledyard, pp. 172–188. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/S089982561600035X" target="_blank"> Link to the published version. </a>
-<br>
-<br>
 74. John A. Weymark, “Conundrums for Nonconsequentialists,” <i>Social Choice and Welfare</i>, 2017, Vol. 48, No. 2, February, pp. 269–294. <a class="hover" href="https://link.springer.com/article/10.1007/s00355-016-1021-9" target="_blank"> Link to the published version. </a>
-<br>
-<br>
 75. Craig Brett and John A.Weymark, “Reducing the Dimensionality of a Selfishly Optimal Nonlinear Income Tax Problem,” <i>Economic Theory Bulletin</i>, 2018, Vol. 6, No. 2, October, pp. 157–169. <a class="hover" href="https://link.springer.com/article/10.1007/s40505-017-0131-6" target="_blank"> Link to the published version. </a>
-<br>
-<br>
 76. Thomas Choate, John A. Weymark, and Alan E. Wiseman, “Partisan Strength and Legislative Bargaining,” <i>Journal of Theoretical Politics</i>, 2019, Vol. 31, No. 1, January, pp. 6–45. <a class="hover" href="https://journals.sagepub.com/doi/full/10.1177/0951629818809416" target="_blank"> Link to the published version. </a> <a class="hover" href="https://journals.sagepub.com/doi/suppl/10.1177/0951629818809416" target="_blank"> Supplementary material. </a>
-<br>
-<br>
 77. Craig Brett and John A. Weymark, “Optimal Nonlinear Taxation of Income and Savings without Commitment,” <i> Journal of Public Economic Theory</i>, 2019, Vol. 21, No. 1, February, pp. 5–43. <a class="hover" href="https://onlinelibrary.wiley.com/doi/10.1111/jpet.12328" target="_blank"> Link to the published version. </a> <a class="hover" href="https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fjpet.12328&file=jpet12328-sup-0001-SuppMat.pdf" target="_blank"> Supplementary material. </a>
-<br>
-<br>
 78. Craig Brett and John A. Weymark, “Majority Rule and Selfishly Optimal Nonlinear Income Tax Schedules with Discrete Skill Levels,” <i>Social Choice and Welfare</i>, Special Issue: In Memory of Kenneth J. Arrow, 2020, Vol. 54, No. 2–3, March, pp. 337–362. <a class="hover" href="https://link.springer.com/article/10.1007/s00355-019-01188-4" target="_blank"> Link to the published version. </a>
-<br>
-<br>
 79. Thomas Choate, John A. Weymark, and Alan E. Wiseman, “Legislative Bargaining and Partisan Delegation,” <i>Journal of Theoretical Politics</i>, 2020, Vol. 32, No. 2, April, pp. 289–311. <a class="hover" href="https://journals.sagepub.com/doi/10.1177/0951629819895594" target="_blank"> Link to the published version. </a> <a class="hover" href="https://journals.sagepub.com/doi/suppl/10.1177/0951629819895594" target="_blank"> Supplementary material. </a>
-<br>
-<br>
 80. Paul H. Edelman and John A. Weymark, “Dominant Strategy Implementation and Zero Length Cycles,” <i>Economic Theory</i>, 2021, Vol. 72, No. 4, November, pp. 1091–1120. <a class="hover" href="https://link.springer.com/article/10.1007/s00199-020-01324-7" target="_blank"> Link to the published version. </a>
-<br>
-<br>
 81. Bhaskar Dutta, Anirban Kar, and John A. Weymark, “Strategy-Proof Club Formation with Indivisible Club Facilities,” <i>Review of Economic Design</i>, Special Issue in Honor
 of Semih Koray: Well-Designed Incentive Schemes, forthcoming.
 <a class="hover" href="https://link.springer.com/article/10.1007/s10058-021-00251-w" target="_blank"> Link to the published version. </a>
-<br>
-<br>
 82. Paul H. Edelman, Martin Van der Linden, and John A. Weymark, “The Core of
 a Transferrable Utility Game as the Solution to a Public Good Market Demand
 Problem,” <i>Mathematical Programming Series B</i>, Special Issue: Mathematical Optimization
 for Fair Social Decisions: A Tribute to Michel Balinski, forthcoming.
 <a class="hover" href="https://link.springer.com/article/10.1007/s10107-021-01729-9" target="_blank"> Link to the published version. </a>
-<br>
-<br>
 83. John A. Weymark, Vaihinger’s Fictionalism Meets Binmore’s Knowledge-as-Commitment,
 <i>Homo Oeconomicus</i>, Special Issue in Honor of Ken Binmore, forthcoming.
 <a class="hover" href="https://link.springer.com/article/10.1007/s41412-021-00116-1" target="_blank"> Link to the published version. </a>
