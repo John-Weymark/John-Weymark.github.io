@@ -80,7 +80,10 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 <hr>
 
 <h2  style="text-align:center">Journal Publications</h2>
-Articles 1–59 to be added.
+Articles 1–58 to be added.
+<br>
+<br>
+59. Craig Brett and John A.Weymark, “The Impact of Changing Skill Levels on Optimal Nonlinear Income Taxes,” <i>Journal of Public Economics<i/>, 2008, Vol. 92, No. 7, July, pp. 1765–1771.
 <br>
 <br>
 60. Thibault Gajdos, John A. Weymark, and Claudio Zoli, “Shared Destinies and the Measurement of Social Risk Equity,” <i>Annals of Operations Research</i>, 2010, Vol. 176, No. 1, April, Special Issue on the Theory and Application of Uncertainty, pp. 409–424. <a class="hover" href="https://link.springer.com/article/10.1007/s10479-009-0588-2" target="_blank"> Link to the published version. </a>
