@@ -83,7 +83,7 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 Articles 1–60 to be added.
 <br>
 <br>
-61. Craig Brett and John A. Weymark, “How Optimal Nonlinear Income Taxes Change when the Distribution of the Population Changes,” <i>Journal of Public Economics</i>, 2011, Vol. 95, Nos. 11–12, December, Special Issue: International Seminar on Public Economics Conference on Normative Tax Theory, pp. 1239–1247.
+61. Craig Brett and John A. Weymark, “How Optimal Nonlinear Income Taxes Change when the Distribution of the Population Changes,” <i>Journal of Public Economics</i>, 2011, Vol. 95, Nos. 11–12, December, Special Issue: International Seminar on Public Economics Conference on Normative Tax Theory, pp. 1239–1247. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/S0047272710000678" target="_blank"> Link to the published version. </a>
 <br>
 <br>
 62. John A. Weymark, “A Unified Approach to Strategy-Proofness for Single-Peaked Preferences,” <i>SERIEs: Journal of the Spanish Economic Association</i>, 2011, Vol. 2, No. 4, December, Special Issue in Honor of Salvador Barberà. Part I: On Strategy- Proofness, pp. 529–550. <a class="hover" href="https://link.springer.com/article/10.1007/s13209-011-0064-5" target="_blank"> Link to the published version. </a>
