@@ -78,6 +78,7 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 <hr>
 
 <h2  style="text-align:center">Journal Publications</h2>
+<hr>
 Articles 1–54 to be added.
 <br>
 55. Thibault Gajdos and John A. Weymark, “Multidimensional Generalized Gini Indices,” <i>Economic Theory</i>, 2005, Vol. 26, No. 3, October, pp. 471–496. <a class="hover" href="https://link.springer.com/article/10.1007/s00199-004-0529-x" target="_blank"> Link to the published version. </a>
@@ -123,31 +124,14 @@ for Fair Social Decisions: A Tribute to Michel Balinski, forthcoming.
 <hr>
 Articles 1–10 to be added.
 <br>
-<br>
 11. Charles Blackorby, David Donaldson, and John A. Weymark, “Hicksian Surplus Measures of Individual Welfare Change When There is Price and Income Uncertainty,” in Prasanta K. Pattanaik, Koichi Tadenuma, Naoki Yoshihara, and Yongsheng Xu, eds., <i>Rational Choice and Social Welfare: Theory and Applications. Essays in Honor of Kotaro Suzumura</i>, Springer: Berlin and Heidelberg, 2008, pp. 195–213. <a class="hover" href="https://link.springer.com/chapter/10.1007/978-3-540-79832-3_11" target="_blank"> Link to the published version. </a>
-<br>
-<br>
 12. Alain Trannoy and John A. Weymark, “Dominance Criteria for Critical-Level Generalized Utilitarianism,” in Kaushik Basu and Ravi Kanbur, eds., <i>Arguments for a Better World: Essays in Honor of Amartya Sen. Volume I: Ethics, Welfare and Measurement</i>, Oxford University Press: Oxford, 2009, pp. 262–279. <a class="hover" href="https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780199239115.001.0001/acprof-9780199239115-chapter-16" target="_blank"> Link to the published version. </a>
-<br>
-<br>
 13. Michel Le Breton and John A. Weymark, “Arrovian Social Choice Theory on Economic Domains,” in Kenneth J. Arrow, Amartya K. Sen, and Kotaro Suzumura, eds., <i>Handbook of Social Choice and Welfare, Volume 2</i>, North-Holland: Amsterdam, 2011, pp. 191–299. <a class="hover" href="https://www.sciencedirect.com/handbook/handbook-of-social-choice-and-welfare/vol/2/suppl/C" target="_blank"> Link to the published version. </a>
-<br>
-<br>
 14. John A. Weymark, “On Kolm’s Use of Epistemic Counterfactuals in Social Choice Theory,” in Marc Fleurbaey, Maurice Salles, and John A. Weymark, eds., <i>Social Ethics and Normative Economics: Essays in Honour of Serge-Christophe Kolm</i>, Springer: Berlin and Heidelberg, 2011, pp. 279–301. <a class="hover" href="https://link.springer.com/chapter/10.1007/978-3-642-17807-8_12" target="_blank"> Link to the published version. </a>
-<br>
-<br>
 15. John A. Weymark, “Social Choice Theory,” in Gerald Gaus and Fred D’Agostino, eds., <i>The Routledge Companion to Social and Political Thought</i>, Routledge: New York and London, 2013, pp. 679–690.  <a class="hover" href="https://www.taylorfrancis.com/chapters/edit/10.4324/9780203092231-71/social-choice-theory?context=ubx&refId=056febee-4cf9-43de-bf65-672faa52769c" target="_blank"> Link to the published version. </a>
-<br>
-<br>
 16. John A. Weymark, “Social Welfare Functions,” in Matthew D. Adler and Marc Fleurbaey, eds., The Oxford Handbook of Well-Being and Public Policy, Oxford University Press: New York and Oxford, 2016, pp. 126–159. <a class="hover" href="https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199325818.001.0001/oxfordhb-9780199325818-e-5" target="_blank"> Link to the published version. </a>
-<br>
-<br>
 17. Thibault Gajdos, John A. Weymark, and Claudio Zoli, “Feasible Shared Destiny Risk Distributions,” in Indraneel Dasgupta and Manipushpak Mitra, eds., <i>Deprivation, Inequality and Polarization: Essays in Honour of Satya Ranjan Chakravarty</i>, Springer: Singapore, 2019, pp 37–49. <a class="hover" href="https://link.springer.com/chapter/10.1007/978-981-13-7944-4_3" target="_blank"> Link to the published version. </a>
-<br>
-<br>
 18. Paul H. Edelman and John A. Weymark, “Unrestricted Domain Extensions of Dominant Strategy Implementable Allocation Functions,” in Walter Trockel, ed., <i>Social Design: Essays in Memory of Leonid Hurwicz</i>, Springer: Cham, Switzerland, 2019, pp. 261–275.  <a class="hover" href="https://link.springer.com/chapter/10.1007/978-3-319-93809-7_16" target="_blank"> Link to the published version. </a>
-<br>
-<br>
 19. Craig Brett and John A.Weymark, “Matthews–Moore Single- and Double-Crossing,” in Jean-François Laslier, Hervé Moulin, M. Remzi Sanver, and William S. Zwicker, eds., <i>The Future of Economic Design: The Continuing Development of a Field as Envisioned by Its Researchers</i>, Springer: Cham, Switzerland, 2019, pp. 461–467.  <a class="hover" href="https://link.springer.com/chapter/10.1007/978-3-030-18050-8_64" target="_blank"> Link to the published version. </a>
 <hr>
 
