@@ -140,4 +140,4 @@ for Fair Social Decisions: A Tribute to Michel Balinski, forthcoming.
 <hr>
 <h2  style="text-align:center">Articles in Edited Volumes (Under Construction)</h2>
 <hr>
-1. Thibault Gajdos, John A.Weymark, and Claudio Zoli, “Feasible Shared Destiny Risk Distributions,” in Indraneel Dasgupta and Manipushpak Mitra, eds., <i>Deprivation, Inequality and Polarization: Essays in Honour of Satya Ranjan Chakravarty</i>, Springer: Singapore, 2019, pp 37–49. <a class="hover" href="https://link.springer.com/book/10.1007/978-981-13-7944-4" target="_blank"> Link to the published version. </a>
+1. Thibault Gajdos, John A.Weymark, and Claudio Zoli, “Feasible Shared Destiny Risk Distributions,” in Indraneel Dasgupta and Manipushpak Mitra, eds., <i>Deprivation, Inequality and Polarization: Essays in Honour of Satya Ranjan Chakravarty</i>, Springer: Singapore, 2019, pp 37–49. <a class="hover" href="https://link.springer.com/chapter/10.1007/978-981-13-7944-4_3" target="_blank"> Link to the published version. </a>
