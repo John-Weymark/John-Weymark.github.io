@@ -141,7 +141,7 @@ for Fair Social Decisions: A Tribute to Michel Balinski, forthcoming.
 
 <h2  style="text-align:center">Articles in Edited Volumes (Under Construction)</h2>
 <hr>
-1. Alain Trannoy and John A. Weymark, “Dominance Criteria for Critical-Level Generalized Utilitarianism,” in Kaushik Basu and Ravi Kanbur, eds., <i>Arguments for a Better World: Essays in Honor of Amartya Sen. Volume I: Ethics, Welfare and Measurement,</i>, Oxford University Press: Oxford, 2009, pp. 262–279.
+1. Alain Trannoy and John A. Weymark, “Dominance Criteria for Critical-Level Generalized Utilitarianism,” in Kaushik Basu and Ravi Kanbur, eds., <i>Arguments for a Better World: Essays in Honor of Amartya Sen. Volume I: Ethics, Welfare and Measurement</i>, Oxford University Press: Oxford, 2009, pp. 262–279. <a class="hover" href="https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780199239115.001.0001/acprof-9780199239115-chapter-16" target="_blank"> Link to the published version. </a>
 <br>
 <br>
 2. Michel Le Breton and John A. Weymark, “Arrovian Social Choice Theory on Economic Domains,” in Kenneth J. Arrow, Amartya K. Sen, and Kotaro Suzumura, eds., <i>Handbook of Social Choice and Welfare, Volume 2</i>, North-Holland: Amsterdam, 2011, pp. 191–299. <a class="hover" href="https://www.sciencedirect.com/handbook/handbook-of-social-choice-and-welfare/vol/2/suppl/C" target="_blank"> Link to the published version. </a>
