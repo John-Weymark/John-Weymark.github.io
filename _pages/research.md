@@ -83,7 +83,7 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 Articles 1–65 to be added.
 <br>
 <br>
-66. Walter Bossert, Chloe X. Qi, and John A. Weymark, “Measuring Group Fitness in a Biological Hierarchy: An Axiomatic Social Choice Approach,” <i>Economics and Philosophy</i>, 2013, Vol. 29, No. 3, November, pp. 301–323.
+66. Walter Bossert, Chloe X. Qi, and John A. Weymark, “Measuring Group Fitness in a Biological Hierarchy: An Axiomatic Social Choice Approach,” <i>Economics and Philosophy</i>, 2013, Vol. 29, No. 3, November, pp. 301–323. <a class="hover" href="https://www.cambridge.org/core/journals/economics-and-philosophy/article/abs/measuring-group-fitness-in-a-biological-hierarchy-an-axiomatic-social-choice-approach/85646B07A8DAF90CBE783948CF52A8FF" target="_blank"> Link to the published version. </a>
 <br>
 <br>
 67. Felix Bierbrauer, Craig Brett, and John A. Weymark, "Strategic Nonlinear Income Tax Competition with Perfect Labor Mobility," <i>Games and Economic Behavior</i>, 2013, Vol. 82, November, pp. 292–311. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/S0899825613001164" target="_blank"> Link to the published version. </a>
