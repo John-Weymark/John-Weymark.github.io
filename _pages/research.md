@@ -141,7 +141,7 @@ for Fair Social Decisions: A Tribute to Michel Balinski, forthcoming.
 
 <h2  style="text-align:center">Articles in Edited Volumes (Under Construction)</h2>
 <hr>
-1. Michel Le Breton and John A. Weymark, “Arrovian Social Choice Theory on Economic Domains,” in Kenneth J. Arrow, Amartya K. Sen, and Kotaro Suzumura, eds., <i>Handbook of Social Choice and Welfare, Volume 2</i>, North-Holland: Amsterdam, 2011, pp. 191–299.
+1. Michel Le Breton and John A. Weymark, “Arrovian Social Choice Theory on Economic Domains,” in Kenneth J. Arrow, Amartya K. Sen, and Kotaro Suzumura, eds., <i>Handbook of Social Choice and Welfare, Volume 2</i>, North-Holland: Amsterdam, 2011, pp. 191–299. <a class="hover" href="https://www.elsevier.com/books/handbook-of-social-choice-and-welfare/arrow/978-0-444-50894-2" target="_blank"> Link to the published version. </a>
 <br>
 <br>
 2. John A. Weymark, “On Kolm’s Use of Epistemic Counterfactuals in Social Choice Theory,” in Marc Fleurbaey, Maurice Salles, and John A. Weymark, eds., <i>Social Ethics and Normative Economics: Essays in Honour of Serge-Christophe Kolm</i>, Springer: Berlin and Heidelberg, 2011, pp. 279–301. <a class="hover" href="https://link.springer.com/chapter/10.1007/978-3-642-17807-8_12" target="_blank"> Link to the published version. </a>
