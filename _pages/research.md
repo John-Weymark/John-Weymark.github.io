@@ -143,4 +143,4 @@ for Fair Social Decisions: A Tribute to Michel Balinski, forthcoming.
 1. Thibault Gajdos, John A.Weymark, and Claudio Zoli, “Feasible Shared Destiny Risk Distributions,” in Indraneel Dasgupta and Manipushpak Mitra, eds., <i>Deprivation, Inequality and Polarization: Essays in Honour of Satya Ranjan Chakravarty</i>, Springer: Singapore, 2019, pp 37–49. <a class="hover" href="https://link.springer.com/chapter/10.1007/978-981-13-7944-4_3" target="_blank"> Link to the published version. </a>
 <br>
 <br>
-2. Paul H. Edelman and John A. Weymark, “Unrestricted Domain Extensions of Dominant Strategy Implementable Allocation Functions,” in Walter Trockel, ed., <i>Social Design: Essays in Memory of Leonid Hurwicz</i>, Springer: Cham, Switzerland, 2019, pp. 261–275.
+2. Paul H. Edelman and John A. Weymark, “Unrestricted Domain Extensions of Dominant Strategy Implementable Allocation Functions,” in Walter Trockel, ed., <i>Social Design: Essays in Memory of Leonid Hurwicz</i>, Springer: Cham, Switzerland, 2019, pp. 261–275.  <a class="hover" href="https://link.springer.com/chapter/10.1007/978-3-319-93809-7_16" target="_blank"> Link to the published version. </a>
