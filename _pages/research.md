@@ -159,7 +159,7 @@ for Fair Social Decisions: A Tribute to Michel Balinski, forthcoming.
 
 <h2  style="text-align:center">Articles in Edited Volumes (Under Construction)</h2>
 <hr>
-6. Michel Le Breton and John A. Weymark, “An Introduction to Arrovian Social Welfare Functions on Economic and Political Domains,” in Norman Schofield, ed., <i>Collective Decision-Making: Social Choice and Political Economy</i>, Kluwer Academic Publishers: Boston, Dordrecht, and London, 1996, pp. 25–61.
+6. Michel Le Breton and John A. Weymark, “An Introduction to Arrovian Social Welfare Functions on Economic and Political Domains,” in Norman Schofield, ed., <i>Collective Decision-Making: Social Choice and Political Economy</i>, Kluwer Academic Publishers: Boston, Dordrecht, and London, 1996, pp. 25–61. <a class="hover" href="https://link.springer.com/chapter/10.1007/978-94-015-8767-9_2" target="_blank"> Link to the published version. </a>
 <br>
 7. Walter Bossert and John A. Weymark, “Utility in Social Choice,” in Salvador Barberà, Peter J. Hammond, and Christian Seidl, eds., <i>Handbook of Utility Theory. Volume 2: Extensions</i>, Kluwer Academic Publishers: Boston, Dordrecht, and London, 2004, pp. 1099–1177. <a class="hover" href="https://link.springer.com/chapter/10.1007/978-1-4020-7964-1_7" target="_blank"> Link to the published version. </a>
 <br>
