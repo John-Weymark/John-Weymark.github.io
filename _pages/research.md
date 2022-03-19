@@ -159,7 +159,7 @@ for Fair Social Decisions: A Tribute to Michel Balinski, forthcoming.
 
 <h2  style="text-align:center">Articles in Edited Volumes</h2>
 <hr>
-1. Maurice Marchand, Pierre Pestieau, and John A. Weymark, “Discount Rates for Public Enterprises in the Presence of Alternative Financial Constraints,” in Dieter Bös, Richard A. Musgrave, and Jack Wiseman, eds., <i>Public Production</i>, Supplementum 2 of the <i>Zeitschrift für Nationalökonomie</i>, Selected Proceedings of the International Seminar in Public Economics, Bonn, August, 1981, Springer-Verlag: Vienna and New York, 1982, pp. 27–50. <a class="hover" href="https://link.springer.com/article/10.1007/BF01289665" target="_blank"> Link to the published version. </a>
+1. Maurice Marchand, Pierre Pestieau, and John A. Weymark, “Discount Rates for Public Enterprises in the Presence of Alternative Financial Constraints,” in Dieter Bös, Richard A. Musgrave, and Jack Wiseman, eds., <i>Public Production</i>, Supplementum 2 of the <i>Zeitschrift für Nationalökonomie</i>, Selected Proceedings of the International Seminar in Public Economics, Bonn, August, 1981, Springer-Verlag: Vienna and New York, 1982, pp. 27–50. <a class="hover" href="https://github.com/John-Weymark/John-Weymark.github.io/blob/master/files/Discount%20Rate%20JofEcon.pdf" target="_blank"> Link to the published version. </a>
 <br>
 Maurice Marchand, Pierre Pestieau, and John A. Weymark, “Discount Rates for Public Enterprises in the Presence of Alternative Financial Constraints: A Correction,” <i>Zeitschrift für Nationalökonomie</i>, 1984, Vol. 44, No. 3, pp. 289–291. <a class="hover" href="https://link.springer.com/article/10.1007/BF01289665" target="_blank"> Link to the published version. </a>
 <br>
