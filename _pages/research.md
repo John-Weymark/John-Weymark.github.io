@@ -157,9 +157,11 @@ for Fair Social Decisions: A Tribute to Michel Balinski, forthcoming.
 <a class="hover" href="https://link.springer.com/article/10.1007/s41412-021-00116-1" target="_blank"> Link to the published version. </a>
 <hr>
 
-<h2  style="text-align:center">Articles in Edited Volumes (Under Construction)</h2>
+<h2  style="text-align:center">Articles in Edited Volumes</h2>
 <hr>
-2. Satya R. Chakravarty and John A. Weymark, “Axiomatizations of the Entropy Numbers Equivalent Index of Industrial Concentration,” in Wolfgang Eichhorn, ed., <i>Measurement in Economics: Theory and Applications of Economic Indices</i>, Physica-Verlag: Heidelberg, 1988, pp. 383–397. <a class="hover" href="https://link.springer.com/chapter/10.1007/978-3-642-52481-3_29" target="_blank"> Link to the publisher's web page. </a>
+1. Maurice Marchand, Pierre Pestieau, and John A.Weymark, “Discount Rates for Public Enterprises in the Presence of Alternative Financial Constraints,” in Dieter Bös, Richard A. Musgrave, and Jack Wiseman, eds., <i>Public Production</i>, Supplementum 2 of the <i>Zeitschrift für Nationalökonomie</i>, Selected Proceedings of the International Seminar in Public Economics, Bonn, August, 1981, Springer-Verlag: Vienna and New York, 1982, pp. 27–50.
+<br>
+2. Satya R. Chakravarty and John A. Weymark, “Axiomatizations of the Entropy Numbers Equivalent Index of Industrial Concentration,” in Wolfgang Eichhorn, ed., <i>Measurement in Economics: Theory and Applications of Economic Indices</i>, Physica-Verlag: Heidelberg, 1988, pp. 383–397. <a class="hover" href="https://link.springer.com/chapter/10.1007/978-3-642-52481-3_29" target="_blank"> Link to the published version. </a>
 <br>
 3. John A. Weymark, “A Reconsideration of the Harsanyi–Sen Debate on Utilitarianism,” in Jon Elster and John E. Roemer, eds., <i>Interpersonal Comparisons of Well-Being</i>, Cambridge University Press: Cambridge, 1991, pp. 255–320. <a class="hover" href="https://www.cambridge.org/core/books/abs/interpersonal-comparisons-of-wellbeing/reconsideration-of-the-harsanyisen-debate-on-utilitarianism/6694973AD8287398EA9F68F4A33778F8" target="_blank"> Link to the published version. </a>
 <br>
