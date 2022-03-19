@@ -159,7 +159,7 @@ for Fair Social Decisions: A Tribute to Michel Balinski, forthcoming.
 
 <h2  style="text-align:center">Articles in Edited Volumes (Under Construction)</h2>
 <hr>
-5. John A. Weymark, “Harsanyi’s Social Aggregation Theorem with Alternative Pareto Principles,” in Wolfgang Eichhorn, ed., <i>Models and Measurement of Welfare and Inequality</i>, Springer-Verlag: Berlin, 1994, pp. 869–887.
+5. John A. Weymark, “Harsanyi’s Social Aggregation Theorem with Alternative Pareto Principles,” in Wolfgang Eichhorn, ed., <i>Models and Measurement of Welfare and Inequality</i>, Springer-Verlag: Berlin, 1994, pp. 869–887. <a class="hover" href="https://link.springer.com/chapter/10.1007/978-3-642-79037-9_45" target="_blank"> Link to the published version. </a>
 <br>
 6. Michel Le Breton and John A. Weymark, “An Introduction to Arrovian Social Welfare Functions on Economic and Political Domains,” in Norman Schofield, ed., <i>Collective Decision-Making: Social Choice and Political Economy</i>, Kluwer Academic Publishers: Boston, Dordrecht, and London, 1996, pp. 25–61. <a class="hover" href="https://link.springer.com/chapter/10.1007/978-94-015-8767-9_2" target="_blank"> Link to the published version. </a>
 <br>
