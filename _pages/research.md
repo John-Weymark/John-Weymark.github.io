@@ -159,7 +159,7 @@ for Fair Social Decisions: A Tribute to Michel Balinski, forthcoming.
 
 <h2  style="text-align:center">Articles in Edited Volumes (Under Construction)</h2>
 <hr>
-2. Satya R. Chakravarty and John A. Weymark, “Axiomatizations of the Entropy Numbers Equivalent Index of Industrial Concentration,” in Wolfgang Eichhorn, ed., <i>Measurement in Economics: Theory and Applications of Economic Indices</i>, Physica-Verlag: Heidelberg, 1988, pp. 383–397.
+2. Satya R. Chakravarty and John A. Weymark, “Axiomatizations of the Entropy Numbers Equivalent Index of Industrial Concentration,” in Wolfgang Eichhorn, ed., <i>Measurement in Economics: Theory and Applications of Economic Indices</i>, Physica-Verlag: Heidelberg, 1988, pp. 383–397. <a class="hover" href="https://link.springer.com/chapter/10.1007/978-3-642-52481-3_29" target="_blank"> Link to the publisher's web page. </a>
 <br>
 3. John A. Weymark, “A Reconsideration of the Harsanyi–Sen Debate on Utilitarianism,” in Jon Elster and John E. Roemer, eds., <i>Interpersonal Comparisons of Well-Being</i>, Cambridge University Press: Cambridge, 1991, pp. 255–320. <a class="hover" href="https://www.cambridge.org/core/books/abs/interpersonal-comparisons-of-wellbeing/reconsideration-of-the-harsanyisen-debate-on-utilitarianism/6694973AD8287398EA9F68F4A33778F8" target="_blank"> Link to the published version. </a>
 <br>
