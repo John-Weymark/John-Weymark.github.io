@@ -159,7 +159,7 @@ for Fair Social Decisions: A Tribute to Michel Balinski, forthcoming.
 
 <h2  style="text-align:center">Articles in Edited Volumes (Under Construction)</h2>
 <hr>
-4. Walter Bossert and John A. Weymark, “An Alternative Characterization of Paretian Generalized Median Social Welfare Functions,” in W. Erwin Diewert, Klaus Spremann, and Frank Stehling, eds., <i>Mathematical Modelling in Economics: Essays in Honor of Wolfgang Eichhorn</i>, Springer-Verlag: Berlin, 1993, pp. 65–74.
+4. Walter Bossert and John A. Weymark, “An Alternative Characterization of Paretian Generalized Median Social Welfare Functions,” in W. Erwin Diewert, Klaus Spremann, and Frank Stehling, eds., <i>Mathematical Modelling in Economics: Essays in Honor of Wolfgang Eichhorn</i>, Springer-Verlag: Berlin, 1993, pp. 65–74. <a class="hover" href="https://link.springer.com/chapter/10.1007/978-3-642-78508-5_7" target="_blank"> Link to the published version. </a>
 <br>
 5. John A. Weymark, “Harsanyi’s Social Aggregation Theorem with Alternative Pareto Principles,” in Wolfgang Eichhorn, ed., <i>Models and Measurement of Welfare and Inequality</i>, Springer-Verlag: Berlin, 1994, pp. 869–887. <a class="hover" href="https://link.springer.com/chapter/10.1007/978-3-642-79037-9_45" target="_blank"> Link to the published version. </a>
 <br>
