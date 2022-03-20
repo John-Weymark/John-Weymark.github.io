@@ -80,6 +80,18 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 
 <h2  style="text-align:center">Journal Publications (Under Construction)</h2>
 <hr>
+31. Walter Bossert and John A. Weymark, “Generalized Median Social Welfare Functions,” <i>Social Choice and Welfare</i>, 1993, Vol. 10, No. 1, January, pp. 17–33.
+<br>
+32. John A. Weymark, “Harsanyi’s Social Aggregation Theorem and the Weak Pareto Principle,” <i>Social Choice and Welfare</i>, 1993, Vol. 10, No. 3, July, pp. 209–221.
+<br>
+33. John A. Weymark, “Further Remarks on Harsanyi’s Social Aggregation Theorem and the Weak Pareto Principle,” <i>Social Choice and Welfare</i>, 1995, Vol. 12, No. 1, February, pp. 87–92.
+<br>
+34. John A. Weymark, “An Alternative Proof of Ben Porath and Gilboa’s Generalized Gini Characterization Theorem,” <i>Journal of Economic Theory</i>, 1995, Vol. 66, No. 2, August, pp. 573–580.
+<br>
+35. John A. Weymark, “John Harsanyi’s Contributions to Social Choice and Welfare Economics,” <i>Social Choice and Welfare</i>, 1995, Vol. 12, No. 4, October, pp. 313–318.
+<br>
+36. Arja H. Turunen-Red and John A. Weymark, “Paretian Aggregation of Asymmetric Utility Functionals,” <i>Economics Letters</i>, 1996, Vol. 53, No. 1, October, pp. 39–45.
+<br>
 37. John A. Weymark, “Aggregating Ordinal Probabilities on Finite Sets,” <i>Journal of Economic Theory</i>, 1997, Vol. 75, No. 2, August, pp. 407–432. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/S0022053197922833" target="_blank"> Link to the published version. </a>
 <br>
 38. Kai-Yuen Tsui and John A. Weymark, “Social Welfare Orderings for Ratio-Scale Measurable Utilities,” <i>Economic Theory</i>, 1997, Vol. 10, No. 2, August, pp. 241–256. <a class="hover" href="https://link.springer.com/article/10.1007/s001990050156" target="_blank"> Link to the published version. </a>
