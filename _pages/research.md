@@ -80,13 +80,13 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 
 <h2 style="text-align:center">Edited Journal Symposia</h2>
 <hr>
-1. Gerald F. Gaus and John A.Weymark, eds., Symposium: The Legacy of John Rawls, <i>Politics, Philosophy and Economics</i>, 2005, Vol. 4, No. 2, June, pp. 155–248. <a class="hover" href="https://link.springer.com/article/10.1007/BF00364706" target="_blank"> Link to the published version. </a>
+1. Gerald F. Gaus and John A.Weymark, eds., Symposium: The Legacy of John Rawls, <i>Politics, Philosophy and Economics</i>, 2005, Vol. 4, No. 2, June, pp. 155–248. <a class="hover" href="https://journals.sagepub.com/toc/ppea/4/2" target="_blank"> Link to the published version. </a>
 <br>
-2. John A. Weymark, ed., Symposium on Ken Binmore’s <i>Natural Justice,/i>, <i>Politics, Philosophy and Economics</i>, 2006, Vol. 5, No. 1, February, pp. 5–96. <a class="hover" href="https://link.springer.com/article/10.1007/BF00364706" target="_blank"> Link to the published version. </a>
+2. John A. Weymark, ed., Symposium on Ken Binmore’s <i>Natural Justice</i>, <i>Politics, Philosophy and Economics</i>, 2006, Vol. 5, No. 1, February, pp. 5–96. <a class="hover" href="https://journals.sagepub.com/toc/ppea/5/1" target="_blank"> Link to the published version. </a>
 <br>
-3. Thibault Gajdos and John A. Weymark, eds., Symposium on Inequality and Risk, <i>Journal of Economic Theory</i>, 2012, Vol. 147, No. 4, July, pp. 1313–1651. <a class="hover" href="https://link.springer.com/article/10.1007/BF00364706" target="_blank"> Link to the published version. </a>
+3. Thibault Gajdos and John A. Weymark, eds., Symposium on Inequality and Risk, <i>Journal of Economic Theory</i>, 2012, Vol. 147, No. 4, July, pp. 1313–1651. <a class="hover" href="https://www.sciencedirect.com/journal/journal-of-economic-theory/vol/147/issue/4" target="_blank"> Link to the published version. </a>
 <br>
-4. Samir Okasha and John A. Weymark, eds., Symposium on Rational Choice and Philosophy, <i>Economics and Philosophy</i>, 2016, Vol. 32, No. 2, July, pp. 171–352. <a class="hover" href="https://link.springer.com/article/10.1007/BF00364706" target="_blank"> Link to the published version. </a>
+4. Samir Okasha and John A. Weymark, eds., Symposium on Rational Choice and Philosophy, <i>Economics and Philosophy</i>, 2016, Vol. 32, No. 2, July, pp. 171–352. <a class="hover" href="https://www.cambridge.org/core/journals/economics-and-philosophy/issue/1B9EA4C371589517FE2711115E144A34" target="_blank"> Link to the published version. </a>
 <br>
 
 <h2  style="text-align:center">Journal Publications</h2>
