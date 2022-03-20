@@ -80,6 +80,8 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 
 <h2  style="text-align:center">Journal Publications (Under Construction)</h2>
 <hr>
+20. John A. Weymark, “Majority-Rule Directions of Income Tax Reform and Second-Best Optimality,” <i>Scandinavian Journal of Economics</i>, 1984, Vol. 86, No. 2, Special Issue on the Limits and Problems of Taxation, pp. 194–213. Reprinted in Finn R. Førsund and Seppo Honkapohja, eds., <i>Limits and Problems of Taxation</i>, Macmillan: London and Basingstoke, St. Martin’s Press: New York, 1985, pp. 96–115.
+<br>
 21. John A. Weymark, “Money-Metric Utility Functions,” <i>International Economic Review</i>, 1985, Vol. 26, No. 1, February, pp. 219–232. <a class="hover" href="https://www.jstor.org/stable/2526537?refreqid=excelsior%3Ae45a791452cec3031a1d207e2364e589" target="_blank"> Link to the published version. </a>
 <br>
 22. Satya R. Chakravarty, Bhaskar Dutta, and John A. Weymark, “Ethical Indices of Income Mobility,” <i>Social Choice and Welfare</i>, 1985, Vol. 2, No. 1, May, pp. 1–21. <a class="hover" href="https://link.springer.com/article/10.1007/BF00433763" target="_blank"> Link to the published version. </a>
