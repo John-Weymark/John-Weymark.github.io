@@ -80,7 +80,7 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 
 <h2  style="text-align:center">Journal Publications (Under Construction)</h2>
 <hr>
-48. Anna B. Khmelnitskaya and John A. Weymark, “Social Choice with Independent Subgroup Utility Scales,” <i>Social Choice and Welfare</i>, 2000, Vol. 17, No. 4, August, pp. 739–748.
+48. Anna B. Khmelnitskaya and John A. Weymark, “Social Choice with Independent Subgroup Utility Scales,” <i>Social Choice and Welfare</i>, 2000, Vol. 17, No. 4, August, pp. 739–748. 
 <br>
 49. Michel Le Breton and John A.Weymark, “Social Choice with Analytic Preferences,” <i>Social Choice and Welfare</i>, 2002, Vol. 19, No. 3, July, pp. 637–657.
 <br>
