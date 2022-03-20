@@ -80,11 +80,11 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 
 <h2  style="text-align:center">Journal Publications (Under Construction)</h2>
 <hr>
-21. John A. Weymark, “Money-Metric Utility Functions,” <i>International Economic Review, 1985, Vol. 26, No. 1, February, pp. 219–232.
+21. John A. Weymark, “Money-Metric Utility Functions,” <i>International Economic Review</i>, 1985, Vol. 26, No. 1, February, pp. 219–232. <a class="hover" href="https://www.jstor.org/stable/2526537?refreqid=excelsior%3Ae45a791452cec3031a1d207e2364e589" target="_blank"> Link to the published version. </a>
 <br>
-22. Satya R. Chakravarty, Bhaskar Dutta, and John A. Weymark, “Ethical Indices of Income Mobility,” <i>Social Choice and Welfare</i>, 1985, Vol. 2, No. 1, May, pp. 1–21.
+22. Satya R. Chakravarty, Bhaskar Dutta, and John A. Weymark, “Ethical Indices of Income Mobility,” <i>Social Choice and Welfare</i>, 1985, Vol. 2, No. 1, May, pp. 1–21. <a class="hover" href="https://link.springer.com/article/10.1007/BF00433763" target="_blank"> Link to the published version. </a>
 <br>
-23. John A. Weymark, “Remarks on the First Welfare Theorem with Nonordered Preferences,” <i>Journal of Economic Theory</i>, 1985, Vol. 36, No. 1, June, pp. 156–159.
+23. John A. Weymark, “Remarks on the First Welfare Theorem with Nonordered Preferences,” <i>Journal of Economic Theory</i>, 1985, Vol. 36, No. 1, June, pp. 156–159. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/0022053185900845" target="_blank"> Link to the published version. </a>
 <br>
 24. John A. Weymark, “A Reduced-Form Optimal Nonlinear Income Tax Problem,” <i>Journal of Public Economics</i>, 1986, Vol. 30, No. 2, July, pp. 199–217. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/0047272786900459" target="_blank"> Link to the published version. </a>
 <br>
