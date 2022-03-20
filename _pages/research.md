@@ -80,11 +80,11 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 
 <h2  style="text-align:center">Journal Publications (Under Construction)</h2>
 <hr>
-28. John A. Weymark, “Comparative Static Properties of Optimal Nonlinear Income Taxes,” <i>Econometrica,/i>, 1987, Vol. 55, No. 5, September, pp. 1165–1185.
+28. John A. Weymark, “Comparative Static Properties of Optimal Nonlinear Income Taxes,” <i>Econometrica,</i>, 1987, Vol. 55, No. 5, September, pp. 1165–1185. <a class="hover" href="https://www.jstor.org/stable/1911266?refreqid=excelsior%3Afbb2bd6a123b71f99c6621f5cb669af7" target="_blank"> Link to the published version. </a>
 <br>
-29. David Donaldson and John A. Weymark, “Social Choice in Economic Environments,” <i>Journal of Economic Theory</i>, 1988, Vol. 46, No. 2, December, pp. 291–308.
+29. David Donaldson and John A. Weymark, “Social Choice in Economic Environments,” <i>Journal of Economic Theory</i>, 1988, Vol. 46, No. 2, December, pp. 291–308. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/0022053188901329" target="_blank"> Link to the published version. </a>
 <br>
-30. Charles Blackorby, David Donaldson, and John A. Weymark, “A Welfarist Proof of Arrow’s Theorem,” <i>Recherches Economiques de Louvain</i>, 1990, Vol. 56, No. 3–4, Special Issue in Honor of Professor A. Sen: Alternatives to Welfarism, pp. 259–286.
+30. Charles Blackorby, David Donaldson, and John A. Weymark, “A Welfarist Proof of Arrow’s Theorem,” <i>Recherches Economiques de Louvain</i>, 1990, Vol. 56, No. 3–4, Special Issue in Honor of Professor A. Sen: Alternatives to Welfarism, pp. 259–286. <a class="hover" href="https://www.jstor.org/stable/40723928?refreqid=excelsior%3A2bb6f3f4523d464db38380b241dc8503" target="_blank"> Link to the published version. </a>
 <br>
 31. Walter Bossert and John A. Weymark, “Generalized Median Social Welfare Functions,” <i>Social Choice and Welfare</i>, 1993, Vol. 10, No. 1, January, pp. 17–33. <a class="hover" href="https://link.springer.com/article/10.1007/BF00187430" target="_blank"> Link to the published version. </a>
 <br>
