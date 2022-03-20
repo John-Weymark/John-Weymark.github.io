@@ -80,9 +80,9 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 
 <h2  style="text-align:center">Journal Publications (Under Construction)</h2>
 <hr>
-43. Michel Le Breton and John A. Weymark, “Strategy-Proof Social Choice with Continuous Separable Preferences,” <i>Journal of Mathematical Economics</i>, 1999, Vol. 32, No. 1, July, pp. 47–85.
+43. Michel Le Breton and John A. Weymark, “Strategy-Proof Social Choice with Continuous Separable Preferences,” <i>Journal of Mathematical Economics</i>, 1999, Vol. 32, No. 1, July, pp. 47–85. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/S0304406898000378" target="_blank"> Link to the published version. </a>
 <br>
-44. John A. Weymark, “Decomposable Strategy-Proof Social Choice Functions,” <i>Japanese Economic Review</i>, 1999, Vol. 50, No. 3, September, pp. 343–355.
+44. John A. Weymark, “Decomposable Strategy-Proof Social Choice Functions,” <i>Japanese Economic Review</i>, 1999, Vol. 50, No. 3, September, pp. 343–355. <a class="hover" href="https://link.springer.com/article/10.1111/1468-5876.00123" target="_blank"> Link to the published version. </a>
 <br>
 45. Charles Blackorby, David Donaldson, and John A. Weymark, “Harsanyi’s Social Aggregation Theorem for State-Contingent Alternatives,” <i>Journal of Mathematical Economics</i>, 1999, Vol. 32, No. 3, November, pp. 365–387. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/S0304406898000512" target="_blank"> Link to the published version. </a>
 <br>
