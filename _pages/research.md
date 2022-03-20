@@ -78,22 +78,21 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 2. Marc Fleurbaey, Maurice Salles, and John A. Weymark, eds., <i>Social Ethics and Normative Economics: Essays in Honour of Serge-Christophe Kolm</i>, Springer: Berlin and Heidelberg, 2011, x + 357 pp. <a class="hover" href="https://link.springer.com/book/10.1007/978-3-642-17807-8" target="_blank"> Link to the publisher's web page. </a>
 <hr>
 
-<h2  style="text-align:center">Journal Publications (Under Construction)</h2>
+<h2  style="text-align:center">Journal Publications</h2>
 <hr>
-1. John A. Weymark, “ ‘Unselfishness’ and Prisoner’s Dilemmas,” <i>Philosophical Studies</i>, 1978, Vol. 34, No. 4, November, pp. 417–425.
+1. John A. Weymark, “ ‘Unselfishness’ and Prisoner’s Dilemmas,” <i>Philosophical Studies</i>, 1978, Vol. 34, No. 4, November, pp. 417–425. <a class="hover" href="https://link.springer.com/article/10.1007/BF00364706" target="_blank"> Link to the published version. </a>
 <br>
-2. John A.Weymark, “On Pareto-Improving Price Changes,” <i>Journal of Economic Theory</i>, 1978, Vol. 19, No. 2, December, pp. 338–346.
+2. John A. Weymark, “On Pareto-Improving Price Changes,” <i>Journal of Economic Theory</i>, 1978, Vol. 19, No. 2, December, pp. 338–346. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/0022053178900984" target="_blank"> Link to the published version. </a>
 <br>
-3. John A. Weymark, “Optimality Conditions for Public and Private Goods,” <i>Public Finance Quarterly</i>, 1979, Vol. 7, No. 3, July, pp. 338–351.
+3. John A. Weymark, “Optimality Conditions for Public and Private Goods,” <i>Public Finance Quarterly</i>, 1979, Vol. 7, No. 3, July, pp. 338–351. <a class="hover" href="https://journals.sagepub.com/doi/pdf/10.1177/109114217900700305" target="_blank"> Link to the published version. </a>
 <br>
-4. John A. Weymark, “Optimal Taxation Theory and Excess Demand Functions,” <i>Economics Letters</i>, 1979, Vol. 2, No. 2, pp. 111–113.
+4. John A. Weymark, “Optimal Taxation Theory and Excess Demand Functions,” <i>Economics Letters</i>, 1979, Vol. 2, No. 2, pp. 111–113. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/0165176579901563" target="_blank"> Link to the published version. </a>
 <br>
-5. John A. Weymark, “A Reconciliation of Recent Results in Optimal Taxation Theory,” <i>Journal of Public Economics</i>, 1979, Vol. 12, No. 2, October, pp. 171–189. Reprinted in Carsten Kowalczyk, ed., <i>The Theory of Trade Policy Reform</i>, Edward Elgar: Cheltenham, U.K., 2001, pp. 436–454.
+5. John A. Weymark, “A Reconciliation of Recent Results in Optimal Taxation Theory,” <i>Journal of Public Economics</i>, 1979, Vol. 12, No. 2, October, pp. 171–189. Reprinted in Carsten Kowalczyk, ed., <i>The Theory of Trade Policy Reform</i>, Edward Elgar: Cheltenham, U.K., 2001, pp. 436–454. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/0047272779900112" target="_blank"> Link to the published version. </a>
 <br>
-6. David Donaldson and John A. Weymark, “A Single-Parameter Generalization of the Gini Indices of Inequality,” <i>Journal of Economic Theory</i>, 1980, Vol. 22, No. 1, February,
-pp. 67–86.
+6. David Donaldson and John A. Weymark, “A Single-Parameter Generalization of the Gini Indices of Inequality,” <i>Journal of Economic Theory</i>, 1980, Vol. 22, No. 1, February, pp. 67–86. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/0022053180900654" target="_blank"> Link to the published version. </a>
 <br>
-7. John A. Weymark, “Money and Locke’s Theory of Property,” <i>History of Political Economy</i>, 1980, Vol. 12, No. 2, Summer, pp. 282–290.
+7. John A. Weymark, “Money and Locke’s Theory of Property,” <i>History of Political Economy</i>, 1980, Vol. 12, No. 2, Summer, pp. 282–290. <a class="hover" href="https://read.dukeupress.edu/hope/article-abstract/12/2/282/11081/Money-and-Locke-s-Theory-of-Property" target="_blank"> Link to the published version. </a>
 <br>
 8. John A. Weymark, “Duality Results in Demand Theory,” <i>European Economic Review</i>, 1980, Vol. 14, No. 3, November, pp. 377–395. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/S0014292180800080" target="_blank"> Link to the published version. </a>
 <br>
