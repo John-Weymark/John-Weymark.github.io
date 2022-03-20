@@ -80,11 +80,11 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 
 <h2  style="text-align:center">Journal Publications (Under Construction)</h2>
 <hr>
-45. Charles Blackorby, David Donaldson, and John A. Weymark, “Harsanyi’s Social Aggregation Theorem for State-Contingent Alternatives,” <i>Journal of Mathematical Economics</i>, 1999, Vol. 32, No. 3, November, pp. 365–387.
+45. Charles Blackorby, David Donaldson, and John A. Weymark, “Harsanyi’s Social Aggregation Theorem for State-Contingent Alternatives,” <i>Journal of Mathematical Economics</i>, 1999, Vol. 32, No. 3, November, pp. 365–387. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/S0304406898000512" target="_blank"> Link to the published version. </a>
 <br>
-46. John A. Weymark, “Sprumont’s Characterization of the Uniform Rule When All Single-Peaked Preferences are Admissible,” <i>Review of Economic Design</i>, 1999, Vol. 4, No. 4, November, pp. 389–393.
+46. John A. Weymark, “Sprumont’s Characterization of the Uniform Rule When All Single-Peaked Preferences are Admissible,” <i>Review of Economic Design</i>, 1999, Vol. 4, No. 4, November, pp. 389–393. <a class="hover" href="https://link.springer.com/article/10.1007/s100580050044" target="_blank"> Link to the published version. </a>
 <br>
-47. John A.Weymark, “A Generalization of Moulin’s Pareto Extension Theorem,” <i>Mathematical Social Sciences</i>, 2000, Vol. 39, No. 2, March, pp. 235–240.
+47. John A.Weymark, “A Generalization of Moulin’s Pareto Extension Theorem,” <i>Mathematical Social Sciences</i>, 2000, Vol. 39, No. 2, March, pp. 235–240. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/S0165489699000062" target="_blank"> Link to the published version. </a>
 <br>
 48. Anna B. Khmelnitskaya and John A. Weymark, “Social Choice with Independent Subgroup Utility Scales,” <i>Social Choice and Welfare</i>, 2000, Vol. 17, No. 4, August, pp. 739–748. <a class="hover" href="https://link.springer.com/article/10.1007/s003550000058" target="_blank"> Link to the published version. </a>
 <br>
