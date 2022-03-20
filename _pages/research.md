@@ -80,7 +80,7 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 
 <h2 style="text-align:center">Edited Journal Symposia</h2>
 <hr>
-1. Gerald F. Gaus and John A.Weymark, eds., Symposium: The Legacy of John Rawls, <i>Politics, Philosophy and Economics</i>, 2005, Vol. 4, No. 2, June, pp. 155–248. <a class="hover" href="https://journals.sagepub.com/toc/ppea/4/2" target="_blank"> Link to the published version. </a>
+1. Gerald F. Gaus and John A. Weymark, eds., Symposium: The Legacy of John Rawls, <i>Politics, Philosophy and Economics</i>, 2005, Vol. 4, No. 2, June, pp. 155–248. <a class="hover" href="https://journals.sagepub.com/toc/ppea/4/2" target="_blank"> Link to the published version. </a>
 <br>
 2. John A. Weymark, ed., Symposium on Ken Binmore’s <i>Natural Justice</i>, <i>Politics, Philosophy and Economics</i>, 2006, Vol. 5, No. 1, February, pp. 5–96. <a class="hover" href="https://journals.sagepub.com/toc/ppea/5/1" target="_blank"> Link to the published version. </a>
 <br>
