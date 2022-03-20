@@ -80,6 +80,12 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 
 <h2  style="text-align:center">Journal Publications (Under Construction)</h2>
 <hr>
+28. John A. Weymark, “Comparative Static Properties of Optimal Nonlinear Income Taxes,” <i>Econometrica,/i>, 1987, Vol. 55, No. 5, September, pp. 1165–1185.
+<br>
+29. David Donaldson and John A. Weymark, “Social Choice in Economic Environments,” <i>Journal of Economic Theory</i>, 1988, Vol. 46, No. 2, December, pp. 291–308.
+<br>
+30. Charles Blackorby, David Donaldson, and John A. Weymark, “A Welfarist Proof of Arrow’s Theorem,” <i>Recherches Economiques de Louvain</i>, 1990, Vol. 56, No. 3–4, Special Issue in Honor of Professor A. Sen: Alternatives to Welfarism, pp. 259–286.
+<br>
 31. Walter Bossert and John A. Weymark, “Generalized Median Social Welfare Functions,” <i>Social Choice and Welfare</i>, 1993, Vol. 10, No. 1, January, pp. 17–33. <a class="hover" href="https://link.springer.com/article/10.1007/BF00187430" target="_blank"> Link to the published version. </a>
 <br>
 32. John A. Weymark, “Harsanyi’s Social Aggregation Theorem and the Weak Pareto Principle,” <i>Social Choice and Welfare</i>, 1993, Vol. 10, No. 3, July, pp. 209–221. <a class="hover" href="https://link.springer.com/article/10.1007/BF00182506" target="_blank"> Link to the published version. </a>
