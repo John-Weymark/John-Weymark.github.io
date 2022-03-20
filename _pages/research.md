@@ -80,15 +80,15 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 
 <h2  style="text-align:center">Journal Publications (Under Construction)</h2>
 <hr>
-15. Claude d’Aspremont, Alexis Jacquemin, Jean Jaskold Gabszewicz, and John A. Weymark, “On the Stability of Collusive Price Leadership,” <i>Canadian Journal of Economics / Revue Canadienne d’Économique,/i>, 1983, Vol. 16, No. 1, February, pp. 17–25. Reprinted in Margaret E. Levenstein and Stephen W. Salant, eds., <i>Cartels, Volume 1</i>, Edward Elgar: Cheltenham, U.K., 2007, pp. 655–663.
+15. Claude d’Aspremont, Alexis Jacquemin, Jean Jaskold Gabszewicz, and John A. Weymark, “On the Stability of Collusive Price Leadership,” <i>Canadian Journal of Economics / Revue Canadienne d’Économique</i>, 1983, Vol. 16, No. 1, February, pp. 17–25. Reprinted in Margaret E. Levenstein and Stephen W. Salant, eds., <i>Cartels, Volume 1</i>, Edward Elgar: Cheltenham, U.K., 2007, pp. 655–663. <a class="hover" href="https://www.jstor.org/stable/134972?refreqid=excelsior%3Abaa042a33e83f1e54de619d3e4b87f9b" target="_blank"> Link to the published version. </a>
 <br>
-16. John A. Weymark, “Ethically Flexible Gini Indices for Income Distributions in the Continuum,” with David Donaldson, <i>Journal of Economic Theory</i>, 1983, Vol. 29, No. 2, April, pp. 353–358.
+16. John A. Weymark, “Ethically Flexible Gini Indices for Income Distributions in the Continuum,” with David Donaldson, <i>Journal of Economic Theory</i>, 1983, Vol. 29, No. 2, April, pp. 353–358. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/0022053183900534" target="_blank"> Link to the published version. </a>
 <br>
-17. John A.Weymark, “Quasitransitive Rationalization and the Superset Property,” <i>Mathematical Social Sciences</i>, 1983, Vol. 6, No. 1, October, pp. 105–108.
+17. John A.Weymark, “Quasitransitive Rationalization and the Superset Property,” <i>Mathematical Social Sciences</i>, 1983, Vol. 6, No. 1, October, pp. 105–108. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/0165489683900513" target="_blank"> Link to the published version. </a>
 <br>
-18. John A. Weymark, “Arrow’s Theorem with Social Quasi-Orderings,” <i>Public Choice</i>, 1984, Vol. 42, No. 3, pp. 235–246.
+18. John A. Weymark, “Arrow’s Theorem with Social Quasi-Orderings,” <i>Public Choice</i>, 1984, Vol. 42, No. 3, pp. 235–246. <a class="hover" href="https://link.springer.com/article/10.1007/BF00124943" target="_blank"> Link to the published version. </a>
 <br>
-19. Charles Blackorby, David Donaldson, and John A.Weymark, “Social Choice with Interpersonal Utility Comparisons: A Diagrammatic Introduction,” <i>International Economic Review</i>, 1984, Vol. 25, No. 2, June, pp. 327–356.
+19. Charles Blackorby, David Donaldson, and John A.Weymark, “Social Choice with Interpersonal Utility Comparisons: A Diagrammatic Introduction,” <i>International Economic Review</i>, 1984, Vol. 25, No. 2, June, pp. 327–356. <a class="hover" href="https://www.jstor.org/stable/2526200?refreqid=excelsior%3Aac5d01535fddfdaac679663d915fabf2" target="_blank"> Link to the published version. </a>
 <br>
 20. John A. Weymark, “Majority-Rule Directions of Income Tax Reform and Second-Best Optimality,” <i>Scandinavian Journal of Economics</i>, 1984, Vol. 86, No. 2, Special Issue on the Limits and Problems of Taxation, pp. 194–213. Reprinted in Finn R. Førsund and Seppo Honkapohja, eds., <i>Limits and Problems of Taxation</i>, Macmillan: London and Basingstoke, St. Martin’s Press: New York, 1985, pp. 96–115. <a class="hover" href="https://www.jstor.org/stable/3439690?refreqid=excelsior%3A0914ae319786268b0e405d4bd9270e16" target="_blank"> Link to the published version. </a>
 <br>
