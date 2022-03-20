@@ -80,11 +80,17 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 
 <h2  style="text-align:center">Journal Publications (Under Construction)</h2>
 <hr>
+8. John A. Weymark, “Duality Results in Demand Theory,” <i>European Economic Review</i>, 1980, Vol. 14, No. 3, November, pp. 377–395.
+<br>
+9. John A. Weymark, “Welfare Optimal Tariff Revenues and Maximum Tariff Revenues,” <i>Canadian Journal of Economics / Revue Canadienne d’Économique</i>, 1980, Vol. 13, No. 4, November, pp. 615–631.
+<br>
+10. John A. Weymark, “On Sums of Production Set Frontiers,” <i>Review of Economic Studies</i>, 1981, Vol. 48, No. 1, January, pp. 179–183.
+<br>
 11. John A. Weymark, “Generalized Gini Inequality Indices,” <i>Mathematical Social Sciences</i>, 1981, Vol. 1, No. 4, August, pp. 409–430. Reprinted in Robert A. Becker, ed., <i>The Economic Theory of Income Inequality</i>, Edward Elgar: Cheltenham, U.K., 2013, pp. 457–478. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/0165489681900184" target="_blank"> Link to the published version. </a>
 <br>
 12. Yrjö O. Vartia and John A. Weymark, “Four Revealed Preference Tables,” <i>Scandinavian Journal of Economics</i>, 1981, Vol. 83, No. 3, pp. 408–418. <a class="hover" href="https://www.jstor.org/stable/3439761?refreqid=excelsior%3A1500c145eb2685aea0ba7584d693acd8" target="_blank"> Link to the published version. </a>
 <br>
-13. John A.Weymark, “Undominated Directions of Tax Reform,” <i>Journal of Public Economics</i>, 1981, Vol. 16, No. 3, December, pp. 343–369. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/0047272781900049" target="_blank"> Link to the published version. </a>
+13. John A. Weymark, “Undominated Directions of Tax Reform,” <i>Journal of Public Economics</i>, 1981, Vol. 16, No. 3, December, pp. 343–369. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/0047272781900049" target="_blank"> Link to the published version. </a>
 <br>
 14. Charles Blackorby, David Donaldson, and John A. Weymark, “A Normative Approach to Industrial-Performance Evaluation and Concentration Indices,” <i>European Economic Review</i>, 1982, Vol. 19, No. 1, September, Special Issue on Market Competition, Conflict and Collusion, pp. 89–121. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/0014292182900071" target="_blank"> Link to the published version. </a>
 <br>
