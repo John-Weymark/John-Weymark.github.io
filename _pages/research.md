@@ -78,6 +78,17 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 2. Marc Fleurbaey, Maurice Salles, and John A. Weymark, eds., <i>Social Ethics and Normative Economics: Essays in Honour of Serge-Christophe Kolm</i>, Springer: Berlin and Heidelberg, 2011, x + 357 pp. <a class="hover" href="https://link.springer.com/book/10.1007/978-3-642-17807-8" target="_blank"> Link to the publisher's web page. </a>
 <hr>
 
+<h2 style="text-align:center">Edited Books</h2>
+<hr>
+1. Gerald F. Gaus and John A.Weymark, eds., Symposium: The Legacy of John Rawls, <i>Politics, Philosophy and Economics,/i>, 2005, Vol. 4, No. 2, June, pp. 155–248.
+<br>
+2. John A. Weymark, ed., Symposium on Ken Binmore’s <i>Natural Justice,/i>, <i>Politics, Philosophy and Economics</i>, 2006, Vol. 5, No. 1, February, pp. 5–96.
+<br>
+3. Thibault Gajdos and John A. Weymark, eds., Symposium on Inequality and Risk, <i>Journal of Economic Theory</i>, 2012, Vol. 147, No. 4, July, pp. 1313–1651.
+<br>
+4. Samir Okasha and John A. Weymark, eds., Symposium on Rational Choice and Philosophy, <i>Economics and Philosophy</i>, 2016, Vol. 32, No. 2, July, pp. 171–352.
+<br>
+
 <h2  style="text-align:center">Journal Publications</h2>
 <hr>
 1. John A. Weymark, “ ‘Unselfishness’ and Prisoner’s Dilemmas,” <i>Philosophical Studies</i>, 1978, Vol. 34, No. 4, November, pp. 417–425. <a class="hover" href="https://link.springer.com/article/10.1007/BF00364706" target="_blank"> Link to the published version. </a>
