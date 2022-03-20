@@ -80,6 +80,12 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 
 <h2  style="text-align:center">Journal Publications (Under Construction)</h2>
 <hr>
+40. Edi Karni and John A. Weymark, “An Informationally Parsimonious Impartial Observer Theorem,” <i>Social Choice and Welfare</i>, 1998, Vol. 15, No. 3, May, pp. 321-332.
+<br>
+41. John A. Weymark, “Welfarism on Economic Domains,” <i>Mathematical Social Sciences</i>, 1998, Vol. 36, No. 3, December, Special Issue on Axiomatics of Resource Allocation II, pp. 251–268.
+<br>
+42. Arja H. Turunen-Red and John A. Weymark,“Linear Aggregation of SSB Utility Functionals,” <i>Theory and Decision</i>, 1999, Vol. 46, No. 3, June, pp. 277–290.
+<br>
 43. Michel Le Breton and John A. Weymark, “Strategy-Proof Social Choice with Continuous Separable Preferences,” <i>Journal of Mathematical Economics</i>, 1999, Vol. 32, No. 1, July, pp. 47–85. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/S0304406898000378" target="_blank"> Link to the published version. </a>
 <br>
 44. John A. Weymark, “Decomposable Strategy-Proof Social Choice Functions,” <i>Japanese Economic Review</i>, 1999, Vol. 50, No. 3, September, pp. 343–355. <a class="hover" href="https://link.springer.com/article/10.1111/1468-5876.00123" target="_blank"> Link to the published version. </a>
