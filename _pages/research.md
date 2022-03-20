@@ -80,11 +80,11 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 
 <h2  style="text-align:center">Journal Publications (Under Construction)</h2>
 <hr>
-8. John A. Weymark, “Duality Results in Demand Theory,” <i>European Economic Review</i>, 1980, Vol. 14, No. 3, November, pp. 377–395.
+8. John A. Weymark, “Duality Results in Demand Theory,” <i>European Economic Review</i>, 1980, Vol. 14, No. 3, November, pp. 377–395. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/S0014292180800080" target="_blank"> Link to the published version. </a>
 <br>
-9. John A. Weymark, “Welfare Optimal Tariff Revenues and Maximum Tariff Revenues,” <i>Canadian Journal of Economics / Revue Canadienne d’Économique</i>, 1980, Vol. 13, No. 4, November, pp. 615–631.
+9. John A. Weymark, “Welfare Optimal Tariff Revenues and Maximum Tariff Revenues,” <i>Canadian Journal of Economics / Revue Canadienne d’Économique</i>, 1980, Vol. 13, No. 4, November, pp. 615–631. <a class="hover" href="https://www.jstor.org/stable/134644?refreqid=excelsior%3A9d80fad5628f3b8a5f8ced61d068ceb1" target="_blank"> Link to the published version. </a>
 <br>
-10. John A. Weymark, “On Sums of Production Set Frontiers,” <i>Review of Economic Studies</i>, 1981, Vol. 48, No. 1, January, pp. 179–183.
+10. John A. Weymark, “On Sums of Production Set Frontiers,” <i>Review of Economic Studies</i>, 1981, Vol. 48, No. 1, January, pp. 179–183. <a class="hover" href="https://www.jstor.org/stable/2297131?refreqid=excelsior%3Ad6c5ed6666b6f5870ad651e2d13dd59f" target="_blank"> Link to the published version. </a>
 <br>
 11. John A. Weymark, “Generalized Gini Inequality Indices,” <i>Mathematical Social Sciences</i>, 1981, Vol. 1, No. 4, August, pp. 409–430. Reprinted in Robert A. Becker, ed., <i>The Economic Theory of Income Inequality</i>, Edward Elgar: Cheltenham, U.K., 2013, pp. 457–478. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/0165489681900184" target="_blank"> Link to the published version. </a>
 <br>
