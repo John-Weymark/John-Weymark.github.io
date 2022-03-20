@@ -80,11 +80,11 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 
 <h2  style="text-align:center">Journal Publications (Under Construction)</h2>
 <hr>
-37. John A. Weymark, “Aggregating Ordinal Probabilities on Finite Sets,” <i>Journal of Economic Theory</>, 1997, Vol. 75, No. 2, August, pp. 407–432.
+37. John A. Weymark, “Aggregating Ordinal Probabilities on Finite Sets,” <i>Journal of Economic Theory</i>, 1997, Vol. 75, No. 2, August, pp. 407–432. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/S0022053197922833" target="_blank"> Link to the published version. </a>
 <br>
-38. Kai-Yuen Tsui and John A. Weymark, “Social Welfare Orderings for Ratio-Scale Measurable Utilities,” <i>Economic Theory</i>, 1997, Vol. 10, No. 2, August, pp. 241–256.
+38. Kai-Yuen Tsui and John A. Weymark, “Social Welfare Orderings for Ratio-Scale Measurable Utilities,” <i>Economic Theory</i>, 1997, Vol. 10, No. 2, August, pp. 241–256. <a class="hover" href="https://link.springer.com/article/10.1007/s001990050156" target="_blank"> Link to the published version. </a>
 <br>
-39. David Donaldson and John A. Weymark, “A Quasiordering is the Intersection of Orderings,” <i>Journal of Economic Theory</i>, 1998, Vol. 78, No. 2, February, pp. 382–387.
+39. David Donaldson and John A. Weymark, “A Quasiordering is the Intersection of Orderings,” <i>Journal of Economic Theory</i>, 1998, Vol. 78, No. 2, February, pp. 382–387. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/S0022053197923607" target="_blank"> Link to the published version. </a>
 <br>
 40. Edi Karni and John A. Weymark, “An Informationally Parsimonious Impartial Observer Theorem,” <i>Social Choice and Welfare</i>, 1998, Vol. 15, No. 3, May, pp. 321-332. <a class="hover" href="https://link.springer.com/article/10.1007/s003550050108" target="_blank"> Link to the published version. </a>
 <br>
