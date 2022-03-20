@@ -80,13 +80,13 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 
 <h2  style="text-align:center">Journal Publications (Under Construction)</h2>
 <hr>
-24. John A. Weymark, “A Reduced-Form Optimal Nonlinear Income Tax Problem,” <i>Journal of Public Economics</i>, 1986, Vol. 30, No. 2, July, pp. 199–217.
+24. John A. Weymark, “A Reduced-Form Optimal Nonlinear Income Tax Problem,” <i>Journal of Public Economics</i>, 1986, Vol. 30, No. 2, July, pp. 199–217. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/0047272786900459" target="_blank"> Link to the published version. </a>
 <br>
-25. John A. Weymark, “Bunching Properties of Optimal Nonlinear Income Taxes,” <i>Social Choice and Welfare</i>, 1986, Vol. 3, No. 3, September, pp. 213–232.
+25. John A. Weymark, “Bunching Properties of Optimal Nonlinear Income Taxes,” <i>Social Choice and Welfare</i>, 1986, Vol. 3, No. 3, September, pp. 213–232. <a class="hover" href="https://link.springer.com/article/10.1007/BF00433536" target="_blank"> Link to the published version. </a>
 <br>
-26. David Donaldson and John A. Weymark, “Properties of Fixed-Population Poverty Indices,” <i>International Economic Review</i>, 1986, Vol. 27, No. 3, October, pp. 667– 688.
+26. David Donaldson and John A. Weymark, “Properties of Fixed-Population Poverty Indices,” <i>International Economic Review</i>, 1986, Vol. 27, No. 3, October, pp. 667– 688. <a class="hover" href="https://www.jstor.org/stable/2526688?refreqid=excelsior%3A7d918516906137f5e4a054c24d9359a3" target="_blank"> Link to the published version. </a>
 <br>
-27. Allan Gibbard, Aanund Hylland, and John A. Weymark, “Arrow’s Theorem with a Fixed Feasible Alternative,” <i>Social Choice and Welfare</i>, 1987, Vol. 4, No. 2, June, pp. 105–115.
+27. Allan Gibbard, Aanund Hylland, and John A. Weymark, “Arrow’s Theorem with a Fixed Feasible Alternative,” <i>Social Choice and Welfare</i>, 1987, Vol. 4, No. 2, June, pp. 105–115. <a class="hover" href="https://link.springer.com/article/10.1007/BF00450993" target="_blank"> Link to the published version. </a>
 <br>
 28. John A. Weymark, “Comparative Static Properties of Optimal Nonlinear Income Taxes,” <i>Econometrica,</i>, 1987, Vol. 55, No. 5, September, pp. 1165–1185. <a class="hover" href="https://www.jstor.org/stable/1911266?refreqid=excelsior%3Afbb2bd6a123b71f99c6621f5cb669af7" target="_blank"> Link to the published version. </a>
 <br>
