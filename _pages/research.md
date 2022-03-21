@@ -87,7 +87,7 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 3. Thibault Gajdos and John A. Weymark, eds., Symposium on Inequality and Risk, <i>Journal of Economic Theory</i>, 2012, Vol. 147, No. 4, July, pp. 1313–1651. <a class="hover" href="https://www.sciencedirect.com/journal/journal-of-economic-theory/vol/147/issue/4" target="_blank"> Link to the publisher's web page. </a>
 <br>
 4. Samir Okasha and John A. Weymark, eds., Symposium on Rational Choice and Philosophy, <i>Economics and Philosophy</i>, 2016, Vol. 32, No. 2, July, pp. 171–352. <a class="hover" href="https://www.cambridge.org/core/journals/economics-and-philosophy/issue/1B9EA4C371589517FE2711115E144A34" target="_blank"> Link to the publisher's web page. </a>
-<br>
+<hr>
 
 <h2  style="text-align:center">Journal Publications</h2>
 <hr>
