@@ -93,12 +93,12 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 <hr>
 1. Marc Fleurbaey, Maurice Salles, and John A. Weymark, “An Introduction to <i>Justice, Political Liberalism, and Utilitarianism</i>,” in Marc Fleurbaey, Maurice Salles, and John A. Weymark, eds., <i>Justice, Political Liberalism, and Utilitarianism: Themes from Harsanyi and Rawls</i>, Cambridge University Press: Cambridge and New York, 2008, pp. 1–67. <a class="hover" href="https://www.cambridge.org/core/books/abs/justice-political-liberalism-and-utilitarianism/an-introduction-to-justice-political-liberalism-and-utilitarianism/3A52B8714231B7ABF54B605FE36AFDA7" target="_blank"> Link to the publisher's web page. </a>
 <br>
-3. Marc Fleurbaey, Maurice Salles, and John A. Weymark, “An Introduction to <i>Social Ethics and Normative Economics</i>,” in Marc Fleurbaey, Maurice Salles, and John A. Weymark, eds., <i>Social Ethics and Normative Economics: Essays in Honour of Serge-Christophe Kolm</i>, Springer: Berlin and Heidelberg, 2011, pp. 1–18. 
+2. Marc Fleurbaey, Maurice Salles, and John A. Weymark, “An Introduction to <i>Social Ethics and Normative Economics</i>,” in Marc Fleurbaey, Maurice Salles, and John A. Weymark, eds., <i>Social Ethics and Normative Economics: Essays in Honour of Serge-Christophe Kolm</i>, Springer: Berlin and Heidelberg, 2011, pp. 1–18. <a class="hover" href="https://link.springer.com/chapter/10.1007/978-3-642-17807-8_1" target="_blank"> Link to the publisher's web page. </a>
 <hr>
 
 <h2  style="text-align:center">Editorial Introductions: Journals</h2>
 <hr>
-1.
+5. Samir Okasha and John A. Weymark, “An Introduction to the Symposium on Rational Choice and Philosophy,” <i>Economics and Philosophy</i>, 2016, Vol. 32, No. 2, July, pp. 171–173.
 <hr>
 
 <h2  style="text-align:center">Journal Publications</h2>
