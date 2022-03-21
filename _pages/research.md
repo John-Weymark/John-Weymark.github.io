@@ -98,7 +98,7 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 
 <h2  style="text-align:center">Editorial Introductions: Journals</h2>
 <hr>
-1. John A. Weymark, “Introduction: The Legacy of John Rawls,”, <i>Politics, Philosophy and Economics</i>, 2005, Vol. 4, No. 2, June, Symposium: The Legacy of John Rawls, p. 155.
+1. John A. Weymark, “Introduction: The Legacy of John Rawls,” <i>Politics, Philosophy and Economics</i>, 2005, Vol. 4, No. 2, June, Symposium: The Legacy of John Rawls, p. 155.
 <br>
 2. Thibault Gajdos and John A. Weymark, “Introduction to Inequality and Risk,” <i>Journal of Economic Theory</i>, 2012, Vol. 147, No. 4, July, Symposium on Inequality and Risk, pp. 1313–1330.
 <br>
