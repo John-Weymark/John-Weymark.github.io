@@ -98,7 +98,7 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 
 <h2  style="text-align:center">Editorial Introductions: Journals</h2>
 <hr>
-5. Samir Okasha and John A. Weymark, “An Introduction to the Symposium on Rational Choice and Philosophy,” <i>Economics and Philosophy</i>, 2016, Vol. 32, No. 2, July, pp. 171–173.
+5. Samir Okasha and John A. Weymark, “An Introduction to the Symposium on Rational Choice and Philosophy,” <i>Economics and Philosophy</i>, 2016, Vol. 32, No. 2, July, pp. 171–173. <a class="hover" href="https://www.cambridge.org/core/journals/economics-and-philosophy/article/an-introduction-to-the-symposium-on-rational-choice-and-philosophy/464985B00ABFBBE03121484EC70C4AD0" target="_blank"> Link to the published version. </a>
 <hr>
 
 <h2  style="text-align:center">Journal Publications</h2>
