@@ -91,7 +91,7 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 
 <h2  style="text-align:center">Editorial Introductions: Books</h2>
 <hr>
-1.
+1. Marc Fleurbaey, Maurice Salles, and John A. Weymark, “An Introduction to <i>Justice, Political Liberalism, and Utilitarianism</i>,” in Marc Fleurbaey, Maurice Salles, and John A. Weymark, eds., <i>Justice, Political Liberalism, and Utilitarianism: Themes from Harsanyi and Rawls</i>, Cambridge University Press: Cambridge and New York, 2008, pp. 1–67.
 
 <h2  style="text-align:center">Journal Publications</h2>
 <hr>
