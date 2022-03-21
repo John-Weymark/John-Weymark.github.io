@@ -98,9 +98,9 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 
 <h2  style="text-align:center">Editorial Introductions: Journals</h2>
 <hr>
-1. John A. Weymark, “Introduction: The Legacy of John Rawls,” <i>Politics, Philosophy and Economics</i>, 2005, Vol. 4, No. 2, June, Symposium: The Legacy of John Rawls, p. 155.
+1. John A. Weymark, “Introduction: The Legacy of John Rawls,” <i>Politics, Philosophy and Economics</i>, 2005, Vol. 4, No. 2, June, Symposium: The Legacy of John Rawls, p. 155. <a class="hover" href="https://journals.sagepub.com/doi/pdf/10.1177/1470594X05052535" target="_blank"> Link to the published version. </a>
 <br>
-2. Thibault Gajdos and John A. Weymark, “Introduction to Inequality and Risk,” <i>Journal of Economic Theory</i>, 2012, Vol. 147, No. 4, July, Symposium on Inequality and Risk, pp. 1313–1330.
+2. Thibault Gajdos and John A. Weymark, “Introduction to Inequality and Risk,” <i>Journal of Economic Theory</i>, 2012, Vol. 147, No. 4, July, Symposium on Inequality and Risk, pp. 1313–1330. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/S0022053112000683" target="_blank"> Link to the published version. </a>
 <br>
 3. John A. Weymark, “An Introduction to Allan Gibbard’s Oligarchy Paper,” <i>Review of Economic Design</i>, 2014, Vol. 18, No. 1, March, pp. 1–2. <a class="hover" href="https://link.springer.com/article/10.1007/s10058-014-0157-2" target="_blank"> Link to the published version. </a>
 <br>
