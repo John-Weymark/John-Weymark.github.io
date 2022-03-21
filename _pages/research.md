@@ -89,6 +89,10 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 4. Samir Okasha and John A. Weymark, eds., Symposium on Rational Choice and Philosophy, <i>Economics and Philosophy</i>, 2016, Vol. 32, No. 2, July, pp. 171–352. <a class="hover" href="https://www.cambridge.org/core/journals/economics-and-philosophy/issue/1B9EA4C371589517FE2711115E144A34" target="_blank"> Link to the publisher's web page. </a>
 <hr>
 
+<h2  style="text-align:center">Editorial Introductions: Books</h2>
+<hr>
+1.
+
 <h2  style="text-align:center">Journal Publications</h2>
 <hr>
 1. John A. Weymark, “ ‘Unselfishness’ and Prisoner’s Dilemmas,” <i>Philosophical Studies</i>, 1978, Vol. 34, No. 4, November, pp. 417–425. <a class="hover" href="https://link.springer.com/article/10.1007/BF00364706" target="_blank"> Link to the published version. </a>
