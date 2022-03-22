@@ -111,7 +111,7 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 
 <h2  style="text-align:center">Journal Publications</h2>
 <hr>
-1. John A. Weymark, “ ‘Unselfishness’ and Prisoner’s Dilemmas,” <i>Philosophical Studies</i>, 1978, Vol. 34, No. 4, November, pp. 417–425. <a class="hover" href="https://link.springer.com/article/10.1007/BF00364706" target="_blank"> Link to the published version. </a>
+1. John A. Weymark, “‘Unselfishness’ and Prisoner’s Dilemmas,” <i>Philosophical Studies</i>, 1978, Vol. 34, No. 4, November, pp. 417–425. <a class="hover" href="https://link.springer.com/article/10.1007/BF00364706" target="_blank"> Link to the published version. </a>
 <br>
 2. John A. Weymark, “On Pareto-Improving Price Changes,” <i>Journal of Economic Theory</i>, 1978, Vol. 19, No. 2, December, pp. 338–346. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/0022053178900984" target="_blank"> Link to the published version. </a>
 <br>
@@ -143,7 +143,7 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 <br>
 16. John A. Weymark, “Ethically Flexible Gini Indices for Income Distributions in the Continuum,” with David Donaldson, <i>Journal of Economic Theory</i>, 1983, Vol. 29, No. 2, April, pp. 353–358. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/0022053183900534" target="_blank"> Link to the published version. </a>
 <br>
-17. John A.Weymark, “Quasitransitive Rationalization and the Superset Property,” <i>Mathematical Social Sciences</i>, 1983, Vol. 6, No. 1, October, pp. 105–108. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/0165489683900513" target="_blank"> Link to the published version. </a>
+17. John A. Weymark, “Quasitransitive Rationalization and the Superset Property,” <i>Mathematical Social Sciences</i>, 1983, Vol. 6, No. 1, October, pp. 105–108. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/0165489683900513" target="_blank"> Link to the published version. </a>
 <br>
 18. John A. Weymark, “Arrow’s Theorem with Social Quasi-Orderings,” <i>Public Choice</i>, 1984, Vol. 42, No. 3, pp. 235–246. <a class="hover" href="https://link.springer.com/article/10.1007/BF00124943" target="_blank"> Link to the published version. </a>
 <br>
@@ -193,7 +193,7 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 <br>
 41. John A. Weymark, “Welfarism on Economic Domains,” <i>Mathematical Social Sciences</i>, 1998, Vol. 36, No. 3, December, Special Issue on Axiomatics of Resource Allocation II, pp. 251–268. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/S0165489698000420" target="_blank"> Link to the published version. </a>
 <br>
-42. Arja H. Turunen-Red and John A. Weymark,“Linear Aggregation of SSB Utility Functionals,” <i>Theory and Decision</i>, 1999, Vol. 46, No. 3, June, pp. 277–290. <a class="hover" href="https://link.springer.com/article/10.1023/A%3A1005068512551" target="_blank"> Link to the published version. </a>
+42. Arja H. Turunen-Red and John A. Weymark, “Linear Aggregation of SSB Utility Functionals,” <i>Theory and Decision</i>, 1999, Vol. 46, No. 3, June, pp. 277–290. <a class="hover" href="https://link.springer.com/article/10.1023/A%3A1005068512551" target="_blank"> Link to the published version. </a>
 <br>
 43. Michel Le Breton and John A. Weymark, “Strategy-Proof Social Choice with Continuous Separable Preferences,” <i>Journal of Mathematical Economics</i>, 1999, Vol. 32, No. 1, July, pp. 47–85. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/S0304406898000378" target="_blank"> Link to the published version. </a>
 <br>
