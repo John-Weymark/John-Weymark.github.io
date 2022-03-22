@@ -320,7 +320,7 @@ Maurice Marchand, Pierre Pestieau, and John A. Weymark, “Discount Rates for Pu
 <br>
 15. John A. Weymark, “Social Choice Theory,” in Gerald Gaus and Fred D’Agostino, eds., <i>The Routledge Companion to Social and Political Thought</i>, Routledge: New York and London, 2013, pp. 679–690.  <a class="hover" href="https://www.taylorfrancis.com/chapters/edit/10.4324/9780203092231-71/social-choice-theory?context=ubx&refId=056febee-4cf9-43de-bf65-672faa52769c" target="_blank"> Link to the published version. </a>
 <br>
-16. John A. Weymark, “Social Welfare Functions,” in Matthew D. Adler and Marc Fleurbaey, eds., The Oxford Handbook of Well-Being and Public Policy, Oxford University Press: New York and Oxford, 2016, pp. 126–159. <a class="hover" href="https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199325818.001.0001/oxfordhb-9780199325818-e-5" target="_blank"> Link to the published version. </a>
+16. John A. Weymark, “Social Welfare Functions,” in Matthew D. Adler and Marc Fleurbaey, eds., <i>The Oxford Handbook of Well-Being and Public Policy</i>, Oxford University Press: New York and Oxford, 2016, pp. 126–159. <a class="hover" href="https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199325818.001.0001/oxfordhb-9780199325818-e-5" target="_blank"> Link to the published version. </a>
 <br>
 17. Thibault Gajdos, John A. Weymark, and Claudio Zoli, “Feasible Shared Destiny Risk Distributions,” in Indraneel Dasgupta and Manipushpak Mitra, eds., <i>Deprivation, Inequality and Polarization: Essays in Honour of Satya Ranjan Chakravarty</i>, Springer: Singapore, 2019, pp 37–49. <a class="hover" href="https://link.springer.com/chapter/10.1007/978-981-13-7944-4_3" target="_blank"> Link to the published version. </a>
 <br>
