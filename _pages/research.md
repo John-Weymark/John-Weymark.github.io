@@ -337,7 +337,7 @@ Maurice Marchand, Pierre Pestieau, and John A. Weymark, “Discount Rates for Pu
 <br>
 3. John A. Weymark, “Arrow’s Theorem,” in James E. Crimmins, ed., <i>The Bloomsbury Encyclopedia of Utilitarianism</i>, Bloomsbury Academic: London and New York, 2013, pp. 21–23. <a class="hover" href="https://github.com/John-Weymark/John-Weymark.github.io/blob/master/files/Arrow's_Thm_BEU.pdf"> Link to the published version. </a>
 <br>
-4. John A. Weymark, “John C. Harsanyi,” in James E. Crimmins, ed., <i>The Bloomsbury Encyclopedia of Utilitarianism</i>, Bloomsbury Academic: London and New York, 2013, pp. 213–216. <a class="hover" href="https://github.com/John-Weymark/John-Weymark.github.io/blob/master/files/HarsanyiNDSB.pdf"> Link to the published version. </a>
+4. John A. Weymark, “John C. Harsanyi,” in James E. Crimmins, ed., <i>The Bloomsbury Encyclopedia of Utilitarianism</i>, Bloomsbury Academic: London and New York, 2013, pp. 213–216. <a class="hover" href="https://github.com/John-Weymark/John-Weymark.github.io/blob/master/files/Harsanyi_BEU.pdf"> Link to the published version. </a>
 <hr>
 
 <h2  style="text-align:center">Commentaries</h2>
