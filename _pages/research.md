@@ -327,6 +327,11 @@ Maurice Marchand, Pierre Pestieau, and John A. Weymark, “Discount Rates for Pu
 19. Craig Brett and John A. Weymark, “Matthews–Moore Single- and Double-Crossing,” in Jean-François Laslier, Hervé Moulin, M. Remzi Sanver, and William S. Zwicker, eds., <i>The Future of Economic Design: The Continuing Development of a Field as Envisioned by Its Researchers</i>, Springer: Cham, Switzerland, 2019, pp. 461–467.  <a class="hover" href="https://link.springer.com/chapter/10.1007/978-3-030-18050-8_64" target="_blank"> Link to the published version. </a>
 <hr>
 
+<h2  style="text-align:center">Interview</h2>
+<hr>
+1. Matthew D. Adler and John A. Weymark, “Allan Gibbard,” in Marc Fleurbaey and Maurice Salles, eds., <i>Conversations on Social Choice and Welfare Theory, Volume 1</i>, Springer: Cham, Switzerland, 2021, pp. 171–207.   <a class="hover" href="https://link.springer.com/chapter/10.1007/978-3-030-62769-0_11" target="_blank"> Link to the published version. </a>
+<hr>
+
 <h2  style="text-align:center">Dictionary and Encyclopedia Entries</h2>
 <hr>
 1. John A. Weymark, “John Charles Harsanyi,” in Noretta Koertge, ed., <i>New Dictionary of Scientific Biography, Volume 3</i>, Charles Scribner’s Sons: Detroit, 2008, pp. 247– 253. <a class="hover" href="https://john-weymark.github.io/files/HarsanyiNDSB.pdf"> Link to the published version. </a>
@@ -346,7 +351,3 @@ Maurice Marchand, Pierre Pestieau, and John A. Weymark, “Discount Rates for Pu
 Jacques Silber, ed., <i>Handbook of Income Inequality Measurement</i>, Kluwer Academic Publishers: Boston, Dordrecht, and London, 1999, pp. 157–161. <a class="hover" href="https://link.springer.com/chapter/10.1007/978-94-011-4413-1_4" target="_blank"> Link to the published version. </a>
 <br>
 3. John A. Weymark, “Commentary on “From Unidimensional to Multidimensional Inequality: A Review” [by Francesco Andreoli and Claudio Zoli],” <i>Metron</i>, 2020, Vol. 78, No. 1, April, pp. 55–59. <a class="hover" href="https://link.springer.com/article/10.1007/s40300-020-00170-w" target="_blank"> Link to the published version. </a>
-
-<h2  style="text-align:center">Interview</h2>
-<hr>
-1. Matthew D. Adler and John A. Weymark, “Allan Gibbard,” in Marc Fleurbaey and Maurice Salles, eds., <i>Conversations on Social Choice and Welfare Theory, Volume 1</i>, Springer: Cham, Switzerland, 2021, pp. 171–207.   <a class="hover" href="https://link.springer.com/chapter/10.1007/978-3-030-62769-0_11" target="_blank"> Link to the published version. </a>
