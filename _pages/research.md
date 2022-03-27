@@ -335,7 +335,7 @@ Maurice Marchand, Pierre Pestieau, and John A. Weymark, “Discount Rates for Pu
 <br>
 2. Walter Bossert and John A. Weymark, “Social Choice (New Developments),” in Steven N. Durlauf and Lawrence E. Blume, eds., <i>The New Palgrave Dictionary of Economics, Second Edition, Volume 7</i>, Palgrave Macmillan: Basingstoke and New York, 2008, pp. 594–603. <a class="hover" href="https://link.springer.com/referenceworkentry/10.1007/978-1-349-58802-2_1547"> Link to the published version. </a>
 <br>
-3. John A. Weymark, “Arrow’s Theorem,” in James E. Crimmins, ed., <i>The Bloomsbury Encyclopedia of Utilitarianism</i>, Bloomsbury Academic: London and New York, 2013, pp. 21–23. <a class="hover" href="https://github.com/John-Weymark/John-Weymark.github.io/blob/master/files/HarsanyiNDSB.pdf"> Link to the published version. </a>
+3. John A. Weymark, “Arrow’s Theorem,” in James E. Crimmins, ed., <i>The Bloomsbury Encyclopedia of Utilitarianism</i>, Bloomsbury Academic: London and New York, 2013, pp. 21–23. <a class="hover" href="https://github.com/John-Weymark/John-Weymark.github.io/blob/master/files/Arrow's_Thm_BEU.pdf"> Link to the published version. </a>
 <br>
 4. John A. Weymark, “John C. Harsanyi,” in James E. Crimmins, ed., <i>The Bloomsbury Encyclopedia of Utilitarianism</i>, Bloomsbury Academic: London and New York, 2013, pp. 213–216. <a class="hover" href="https://github.com/John-Weymark/John-Weymark.github.io/blob/master/files/HarsanyiNDSB.pdf"> Link to the published version. </a>
 <hr>
