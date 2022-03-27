@@ -353,14 +353,18 @@ Jacques Silber, ed., <i>Handbook of Income Inequality Measurement</i>, Kluwer Ac
 3. John A. Weymark, “Commentary on “From Unidimensional to Multidimensional Inequality: A Review” [by Francesco Andreoli and Claudio Zoli],” <i>Metron</i>, 2020, Vol. 78, No. 1, April, pp. 55–59. <a class="hover" href="https://link.springer.com/article/10.1007/s40300-020-00170-w" target="_blank"> Link to the published version. </a>
 <hr>
 
-<h2  style="text-align:center">Journalism</h2>
+<h2  style="text-align:center">Book Reviews</h2>
 <hr>
-12. John A. Weymark, Review of: Ken Binmore, <i>Game Theory and the Social Contract.
-Volume II: Just Playing</i>, <i>Economica</i>, 2000, Vol. 67, No. 268, November, pp. 608–610.
+10. John A. Weymark, Review of: Roger Guesnerie, <i>A Contribution to the Pure Theory of Taxation</i>, <i>Journal of Economic Literature</i>, 1997, Vol. 35, No. 2, June, pp. 798–799.
+<br>
+11. John A. Weymark, Review of: Serge-Christophe Kolm, <i>Modern Theories of Justice</i>, <i>Ethics</i>, 1999, Vol. 109, No. 3, April, pp. 666–668.
+<br>
+12. John A. Weymark, Review of: Ken Binmore, <i>Game Theory and the Social Contract. Volume II: Just Playing</i>, <i>Economica</i>, 2000, Vol. 67, No. 268, November, pp. 608–610.
 <br>
 13. John A. Weymark, Review of: Fuad Aleskerov, <i>Arrovian Aggregation Models</i>, <i>Journal of Economics / Zeitschrift für Nationalökonomie</i>, 2001, Vol. 73, No. 3, pp. 348–350.
-14. <br>
-15. John A.Weymark, Review of: Donald G. Saari, <i>Decisions and Elections: Explaining the Unexpected</i>, <i>Journal of Economic Literature</i>, 2003, Vol. 41, No. 2, June, pp. 587–589.
+<br>
+14. John A.Weymark, Review of: Donald G. Saari, <i>Decisions and Elections: Explaining the Unexpected</i>, <i>Journal of Economic Literature</i>, 2003, Vol. 41, No. 2, June, pp. 587–589.
+<br>
 15. John A.Weymark, Review of: Hervé J. Moulin, <i>Fair Division and Collective Welfare</i>, <i>Journal of Economic Inequality</i>, 2005, Vol. 3, No. 2, August, pp. 183–186.
 <hr>
 
