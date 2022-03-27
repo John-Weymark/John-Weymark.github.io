@@ -354,4 +354,4 @@ Jacques Silber, ed., <i>Handbook of Income Inequality Measurement</i>, Kluwer Ac
 
 <h2  style="text-align:center">Journalism</h2>
 <hr>
-1. John A.Weymark, “Alvorado lá no Morro, Que Beleza” (“Dawn Over the Hill: What Beauty”), Exame CEO, 2010, No. 5, April, Special Issue on Growth (Crescimento), pp. 52–55.
+1. John A.Weymark, “Alvorado lá no Morro, Que Beleza” (“Dawn Over the Hill: What Beauty”), Exame CEO, 2010, No. 5, April, Special Issue on Growth (Crescimento), pp. 52–55.  <a class="hover" href="https://john-weymark.github.io/files/Exame_CEO_2010.pdf"> Link to the published version. </a>
