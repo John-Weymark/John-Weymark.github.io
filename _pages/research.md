@@ -360,11 +360,12 @@ Jacques Silber, ed., <i>Handbook of Income Inequality Measurement</i>, Kluwer Ac
 2. John A. Weymark, Review of: Michael D. Intriligator, ed., <i>Frontiers of Quantitative Economics: Volume IIIA</i>, <i>Kyklos</i>, 1978, Vol. 31, No. 4, pp. 714–718.
 <br>
 3. John A. Weymark, Review of: John C. Harsanyi, <i>Rational Behavior and Bargaining Equilibrium in Games and Social Situations</i> and John C. Harsanyi, <i>Essays on Ethics, Social Behavior, and Scientific Explanation</i>, <i>Kyklos</i>, 1979, Vol. 32, No. 4, pp. 843–845.
+<br>
 4. John A. Weymark, Review of: Kenneth J. Arrow and Leonid Hurwicz, eds., <i>Studies in Resource Allocation Processes</i>, <i>Kyklos</i>, 1980, Vol. 33, No. 1, pp. 164–166.
 <br>
 5. John A. Weymark, Review of: Peter C. Ordeshook and Kenneth A. Shepsle, eds., <i>Political Equilibrium</i>, <i>Kyklos</i>, 1984, Vol. 37, No. 1, pp. 146–147.
 <br>
-6. John A.Weymark, Review of: Prasanta K. Pattanaik and Maurice Salles, eds., <i>Social Choice and Welfare</i>, <i>Kyklos</i>, 1984, Vol. 37, No. 3, pp. 499–502.
+6. John A. Weymark, Review of: Prasanta K. Pattanaik and Maurice Salles, eds., <i>Social Choice and Welfare</i>, <i>Kyklos</i>, 1984, Vol. 37, No. 3, pp. 499–502.
 <br>
 7. John A. Weymark, Review of: Amartya Sen, <i>The Standard of Living</i>, <i>Journal of Economics / Zeitschrift für Nationalökonomie</i>, 1988, Vol. 48, No. 3, pp. 314–317.
 <br>
