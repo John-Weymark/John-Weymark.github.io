@@ -329,6 +329,18 @@ Maurice Marchand, Pierre Pestieau, and John A. Weymark, “Discount Rates for Pu
 19. Craig Brett and John A. Weymark, “Matthews–Moore Single- and Double-Crossing,” in Jean-François Laslier, Hervé Moulin, M. Remzi Sanver, and William S. Zwicker, eds., <i>The Future of Economic Design: The Continuing Development of a Field as Envisioned by Its Researchers</i>, Springer: Cham, Switzerland, 2019, pp. 461–467.  <a class="hover" href="https://link.springer.com/chapter/10.1007/978-3-030-18050-8_64" target="_blank"> Link to the published version. </a>
 <hr>
 
+<h2  style="text-align:center">Dictionary and Encyclopedia Entries</h2>
+<hr>
+1. John A.Weymark, “John Charles Harsanyi,” in Noretta Koertge, ed., <i>New Dictionary of Scientific Biography, Volume 3</i>, Charles Scribner’s Sons: Detroit, 2008, pp. 247– 253.
+<br>
+2. Walter Bossert and John A. Weymark, “Social Choice (New Developments),” in Steven N. Durlauf and Lawrence E. Blume, eds., <i>The New Palgrave Dictionary of Economics, Second Edition, Volume 7</i>, Palgrave Macmillan: Basingstoke and New York, 2008, pp. 594–603.
+<br>
+3. John A. Weymark, “Arrow’s Theorem,” in James E. Crimmins, ed., <i>The Bloomsbury Encyclopedia of Utilitarianism</i>, Bloomsbury Academic: London and New York,
+2013, pp. 21–23.
+<br>
+4. John A. Weymark, “John C. Harsanyi,” in James E. Crimmins, ed., <i>The Bloomsbury Encyclopedia of Utilitarianism</i>, Bloomsbury Academic: London and New York, 2013, pp. 213–216.
+,hr>
+
 <h2  style="text-align:center">Commentaries</h2>
 <hr>
 1. John A. Weymark, “Discussion of Kolm’s Paper” [“Rational Just Social Choice” by Serge-Christophe Kolm], in Kenneth J. Arrow, Amartya K. Sen, and Kotaro Suzumura, eds., <i>Social Choice Re-Examined: Volume 2</i>, International Economic Association Conference Volume No. 117, Macmillan: London and Basingstoke, St. Martin’s Press: New York, 1996, pp. 197–201. <a class="hover" href="https://link.springer.com/chapter/10.1007/978-1-349-25214-5_14" target="_blank"> Link to the published version. </a>
