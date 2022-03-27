@@ -73,9 +73,9 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 
 <h2 style="text-align:center">Edited Books</h2>
 <hr>
-1. Marc Fleurbaey, Maurice Salles, and John A. Weymark, eds., <i>Justice, Political Liberalism, and Utilitarianism: Themes from Harsanyi and Rawls</i>, Cambridge University Press: Cambridge and New York, 2008, xii + 460 pp. Paperback edition, 2010. <a class="hover" href="https://www.cambridge.org/us/academic/subjects/economics/history-economic-thought-and-methodology/justice-political-liberalism-and-utilitarianism-themes-harsanyi-and-rawls?format=HB" target="_blank"> Link to the published version. </a>
+1. Marc Fleurbaey, Maurice Salles, and John A. Weymark, eds., <i>Justice, Political Liberalism, and Utilitarianism: Themes from Harsanyi and Rawls</i>, Cambridge University Press: Cambridge and New York, 2008, xii + 460 pp. Paperback edition, 2010. <a class="hover" href="https://www.cambridge.org/us/academic/subjects/economics/history-economic-thought-and-methodology/justice-political-liberalism-and-utilitarianism-themes-harsanyi-and-rawls?format=HB" target="_blank"> Link to the publisher's web page. </a>
 <br>
-2. Marc Fleurbaey, Maurice Salles, and John A. Weymark, eds., <i>Social Ethics and Normative Economics: Essays in Honour of Serge-Christophe Kolm</i>, Springer: Berlin and Heidelberg, 2011, x + 357 pp. <a class="hover" href="https://link.springer.com/chapter/10.1007/978-3-642-17807-8_1" target="_blank"> Link to the published version. </a>
+2. Marc Fleurbaey, Maurice Salles, and John A. Weymark, eds., <i>Social Ethics and Normative Economics: Essays in Honour of Serge-Christophe Kolm</i>, Springer: Berlin and Heidelberg, 2011, x + 357 pp. <a class="hover" href="https://link.springer.com/chapter/10.1007/978-3-642-17807-8_1" target="_blank"> Link to the publisher's web page. </a>
 <hr>
 
 <h2 style="text-align:center">Edited Journal Symposia</h2>
