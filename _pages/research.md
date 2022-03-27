@@ -275,10 +275,8 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 of Semih Koray: Well-Designed Incentive Schemes, forthcoming.
 <a class="hover" href="https://link.springer.com/article/10.1007/s10058-021-00251-w" target="_blank"> Link to the published version. </a>
 <br>
-82. Paul H. Edelman, Martin Van der Linden, and John A. Weymark, “The Core of
-a Transferrable Utility Game as the Solution to a Public Good Market Demand
-Problem,” <i>Mathematical Programming Series B</i>, Special Issue: Mathematical Optimization
-for Fair Social Decisions: A Tribute to Michel Balinski, forthcoming.
+82. Paul H. Edelman, Martin Van der Linden, and John A. Weymark, “The Core of a Transferable Utility Game as the Solution to a Public Good Market Demand
+Problem,” <i>Mathematical Programming Series B</i>, Special Issue: Mathematical Optimization for Fair Social Decisions: A Tribute to Michel Balinski, forthcoming.
 <a class="hover" href="https://link.springer.com/article/10.1007/s10107-021-01729-9" target="_blank"> Link to the published version. </a>
 <br>
 83. John A. Weymark, Vaihinger’s Fictionalism Meets Binmore’s Knowledge-as-Commitment,
