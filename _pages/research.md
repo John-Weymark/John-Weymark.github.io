@@ -350,4 +350,8 @@ Maurice Marchand, Pierre Pestieau, and John A. Weymark, “Discount Rates for Pu
 2. John A. Weymark, “Comment” [on “Income Inequality Measurement: The Normative Approach” by Charles Blackorby, Walter Bossert, and David Donaldson], in
 Jacques Silber, ed., <i>Handbook of Income Inequality Measurement</i>, Kluwer Academic Publishers: Boston, Dordrecht, and London, 1999, pp. 157–161. <a class="hover" href="https://link.springer.com/chapter/10.1007/978-94-011-4413-1_4" target="_blank"> Link to the published version. </a>
 <br>
-3. John A. Weymark, “Commentary on “From Unidimensional to Multidimensional Inequality: A Review” [by Francesco Andreoli and Claudio Zoli],” <i>Metron</i>, 2020, Vol. 78, No. 1, April, pp. 55–59. <a class="hover" href="https://link.springer.com/article/10.1007/s40300-020-00170-w" target="_blank"> Link to the published version. </a>
+3. John A. Weymark, “Commentary on “From Unidimensional to Multidimensional Inequality: A Review” [by Francesco Andreoli and Claudio Zoli],” <i>Metron</i>, 2020, Vol. 78, No. 1, April, pp. 55–59. <a class="hover" href="https://link.springer.com/article/10.1007/s40300-020-00170-w" target="_blank"> Link to the published version. </a><hr>
+
+<h2  style="text-align:center">Journalism</h2>
+<hr>
+1. John A.Weymark, “Alvorado lá no Morro, Que Beleza” (“Dawn Over the Hill: What Beauty”), Exame CEO, 2010, No. 5, April, Special Issue on Growth (Crescimento), pp. 52–55.
