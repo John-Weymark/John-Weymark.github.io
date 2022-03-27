@@ -355,4 +355,15 @@ Jacques Silber, ed., <i>Handbook of Income Inequality Measurement</i>, Kluwer Ac
 
 <h2  style="text-align:center">Journalism</h2>
 <hr>
+12. John A. Weymark, Review of: Ken Binmore, <i>Game Theory and the Social Contract.
+Volume II: Just Playing</i>, <i>Economica</i>, 2000, Vol. 67, No. 268, November, pp. 608–610.
+<br>
+13. John A. Weymark, Review of: Fuad Aleskerov, <i>Arrovian Aggregation Models</i>, <i>Journal of Economics / Zeitschrift für Nationalökonomie</i>, 2001, Vol. 73, No. 3, pp. 348–350.
+14. <br>
+15. John A.Weymark, Review of: Donald G. Saari, <i>Decisions and Elections: Explaining the Unexpected</i>, <i>Journal of Economic Literature</i>, 2003, Vol. 41, No. 2, June, pp. 587–589.
+15. John A.Weymark, Review of: Hervé J. Moulin, <i>Fair Division and Collective Welfare</i>, <i>Journal of Economic Inequality</i>, 2005, Vol. 3, No. 2, August, pp. 183–186.
+<hr>
+
+<h2  style="text-align:center">Journalism</h2>
+<hr>
 1. John A.Weymark, “Alvorado lá no Morro, Que Beleza” (“Dawn Over the Hill: What Beauty”), Exame CEO, 2010, No. 5, April, Special Issue on Growth (Crescimento), pp. 52–55.  <a class="hover" href="https://john-weymark.github.io/files/Exame_CEO_2010.pdf"> Link to the published version. </a>
