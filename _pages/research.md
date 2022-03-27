@@ -369,9 +369,9 @@ Jacques Silber, ed., <i>Handbook of Income Inequality Measurement</i>, Kluwer Ac
 <br>
 7. John A. Weymark, Review of: Amartya Sen, <i>The Standard of Living</i>, <i>Journal of Economics / Zeitschrift für Nationalökonomie</i>, 1988, Vol. 48, No. 3, pp. 314–317.
 <br>
-8. John A. Weymark, Review of: Serge Wibaut, <i>Tax Reform in Disequilibrium Economies</i>, <i>Journal of Economics / Zeitschrift für Nationalökonomie</i>, 1990, Vol. 52, No. 3, pp. 312–314.
+8. John A. Weymark, Review of: Serge Wibaut, <i>Tax Reform in Disequilibrium Economies</i>, <i>Journal of Economics / Zeitschrift für Nationalökonomie</i>, 1990, Vol. 52, No. 3, pp. 312–314. <a class="hover" href="https://onlinelibrary.wiley.com/doi/10.1111/j.1467-6435.1984.tb00712.x"> Link to the published version. </a>
 <br>
-9. John A. Weymark, Review of: Johann K. Brunner, <i>Theory of Equitable Taxation: Normative Foundation and Distributive Consequences of Income Taxation</i>, <i>Social Choice and Welfare</i>, 1991, Vol. 8, No. 4, October, pp. 371–372.
+9. John A. Weymark, Review of: Johann K. Brunner, <i>Theory of Equitable Taxation: Normative Foundation and Distributive Consequences of Income Taxation</i>, <i>Social Choice and Welfare</i>, 1991, Vol. 8, No. 4, October, pp. 371–372. <a class="hover" href="https://onlinelibrary.wiley.com/doi/10.1111/j.1467-6435.1984.tb00712.x"> Link to the published version. </a>
 <br>
 10. John A. Weymark, Review of: Roger Guesnerie, <i>A Contribution to the Pure Theory of Taxation</i>, <i>Journal of Economic Literature</i>, 1997, Vol. 35, No. 2, June, pp. 798–799.
 <br>
@@ -379,11 +379,11 @@ Jacques Silber, ed., <i>Handbook of Income Inequality Measurement</i>, Kluwer Ac
 <br>
 12. John A. Weymark, Review of: Ken Binmore, <i>Game Theory and the Social Contract. Volume II: Just Playing</i>, <i>Economica</i>, 2000, Vol. 67, No. 268, November, pp. 608–610.
 <br>
-13. John A. Weymark, Review of: Fuad Aleskerov, <i>Arrovian Aggregation Models</i>, <i>Journal of Economics / Zeitschrift für Nationalökonomie</i>, 2001, Vol. 73, No. 3, pp. 348–350.
+13. John A. Weymark, Review of: Fuad Aleskerov, <i>Arrovian Aggregation Models</i>, <i>Journal of Economics / Zeitschrift für Nationalökonomie</i>, 2001, Vol. 73, No. 3, pp. 348–350. <a class="hover" href="https://onlinelibrary.wiley.com/doi/10.1111/j.1467-6435.1984.tb00712.x"> Link to the published version. </a>
 <br>
 14. John A. Weymark, Review of: Donald G. Saari, <i>Decisions and Elections: Explaining the Unexpected</i>, <i>Journal of Economic Literature</i>, 2003, Vol. 41, No. 2, June, pp. 587–589.
 <br>
-15. John A. Weymark, Review of: Hervé J. Moulin, <i>Fair Division and Collective Welfare</i>, <i>Journal of Economic Inequality</i>, 2005, Vol. 3, No. 2, August, pp. 183–186.
+15. John A. Weymark, Review of: Hervé J. Moulin, <i>Fair Division and Collective Welfare</i>, <i>Journal of Economic Inequality</i>, 2005, Vol. 3, No. 2, August, pp. 183–186. <a class="hover" href="https://link.springer.com/article/10.1007/s10888-004-7784-8"> Link to the published version. </a>
 <hr>
 
 <h2  style="text-align:center">Journalism</h2>
