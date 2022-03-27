@@ -390,4 +390,4 @@ Jacques Silber, ed., <i>Handbook of Income Inequality Measurement</i>, Kluwer Ac
 <hr>
 1. John A. Weymark, “Alvorado lá no Morro, Que Beleza” (“Dawn Over the Hill: What Beauty”), <i>Exame CEO</i>, 2010, No. 5, April, Special Issue on Growth (Crescimento), pp. 52–55.  <a class="hover" href="https://john-weymark.github.io/files/Exame_CEO_2010.pdf"> Link to the published version. </a>
 <br>
-This article is a Portuguese translation and edited version of “<a class="hover" href="https://john-weymark.github.io/files/Pro-Poor_Growth.pdf" target="_blank">Pro-Poor Growth.'' </a>
+This article is a Portuguese translation and edited version of John A. Weymark, “<a class="hover" href="https://john-weymark.github.io/files/Pro-Poor_Growth.pdf" target="_blank">Pro-Poor Growth.'' </a>
