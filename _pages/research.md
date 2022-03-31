@@ -213,7 +213,7 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 <br>
 51. John A. Weymark, “Generalized Gini Indices of Equality of Opportunity,” <i>Journal of Economic Inequality</i>, 2003, Vol. 1, No. 1, April, pp. 5–24. <a class="hover" href="https://link.springer.com/article/10.1023/A%3A1023923807503" target="_blank"> Link to the published version. </a>
 <br>
-52. Lars Ehlers and John A.Weymark, “Candidate Stability and Nonbinary Social Choice,” <i>Economic Theory</i>, 2003, Vol. 22, No. 2, September, pp. 233–243. <a class="hover" href="https://link.springer.com/article/10.1007/s00199-002-0279-6" target="_blank"> Link to the published version. </a>
+52. Lars Ehlers and John A. Weymark, “Candidate Stability and Nonbinary Social Choice,” <i>Economic Theory</i>, 2003, Vol. 22, No. 2, September, pp. 233–243. <a class="hover" href="https://link.springer.com/article/10.1007/s00199-002-0279-6" target="_blank"> Link to the published version. </a>
 <br>
 53. Craig Brett and John A. Weymark, “Financing Education Using Optimal Redistributive Taxation,” <i>Journal of Public Economics</i>, 2003, Vol. 87, No. 11, October, Special Issue: International Seminar on Public Economics Conference on Public Economics and Redistribution, June 22–24th, 2000, pp. 2549–2569. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/S0047272702000543" target="_blank"> Link to the published version. </a>
 <br>
@@ -259,7 +259,7 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 <br>
 74. John A. Weymark, “Conundrums for Nonconsequentialists,” <i>Social Choice and Welfare</i>, 2017, Vol. 48, No. 2, February, pp. 269–294. <a class="hover" href="https://link.springer.com/article/10.1007/s00355-016-1021-9" target="_blank"> Link to the published version. </a>
 <br>
-75. Craig Brett and John A.Weymark, “Reducing the Dimensionality of a Selfishly Optimal Nonlinear Income Tax Problem,” <i>Economic Theory Bulletin</i>, 2018, Vol. 6, No. 2, October, pp. 157–169. <a class="hover" href="https://link.springer.com/article/10.1007/s40505-017-0131-6" target="_blank"> Link to the published version. </a>
+75. Craig Brett and John A. Weymark, “Reducing the Dimensionality of a Selfishly Optimal Nonlinear Income Tax Problem,” <i>Economic Theory Bulletin</i>, 2018, Vol. 6, No. 2, October, pp. 157–169. <a class="hover" href="https://link.springer.com/article/10.1007/s40505-017-0131-6" target="_blank"> Link to the published version. </a>
 <br>
 76. Thomas Choate, John A. Weymark, and Alan E. Wiseman, “Partisan Strength and Legislative Bargaining,” <i>Journal of Theoretical Politics</i>, 2019, Vol. 31, No. 1, January, pp. 6–45. <a class="hover" href="https://journals.sagepub.com/doi/full/10.1177/0951629818809416" target="_blank"> Link to the published version. </a> <a class="hover" href="https://journals.sagepub.com/doi/suppl/10.1177/0951629818809416" target="_blank"> Supplementary material. </a>
 <br>
@@ -287,6 +287,7 @@ Problem,” <i>Mathematical Programming Series B</i>, Special Issue: Mathematica
 <h2  style="text-align:center">Articles in Edited Volumes</h2>
 <hr>
 1. Maurice Marchand, Pierre Pestieau, and John A. Weymark, “Discount Rates for Public Enterprises in the Presence of Alternative Financial Constraints,” in Dieter Bös, Richard A. Musgrave, and Jack Wiseman, eds., <i>Public Production</i>, Supplementum 2 of the <i>Zeitschrift für Nationalökonomie</i>, Selected Proceedings of the International Seminar in Public Economics, Bonn, August, 1981, Springer-Verlag: Vienna and New York, 1982, pp. 27–50. <a class="hover" href="https://john-weymark.github.io/files/Discount%20Rate%20JofEcon.pdf" target="_blank"> Link to the published version. </a>
+<br>
 <br>
 Maurice Marchand, Pierre Pestieau, and John A. Weymark, “Discount Rates for Public Enterprises in the Presence of Alternative Financial Constraints: A Correction,” <i>Zeitschrift für Nationalökonomie</i>, 1984, Vol. 44, No. 3, pp. 289–291. <a class="hover" href="https://link.springer.com/article/10.1007/BF01289665" target="_blank"> Link to the published version. </a>
 <br>
