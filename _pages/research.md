@@ -255,7 +255,7 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 <br>
 72. Michael Morreau and John A. Weymark, “Measurement Scales and Welfarist Social Choice,” <i>Journal of Mathematical Psychology</i>, 2016, Vol. 75, December, Special Issue in Honor of R. Duncan Luce, pp. 127–136. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/S0022249616300116" target="_blank"> Link to the published version. </a>
 <br>
-73. Craig Brett and John A.Weymark, “Voting Over Selfishly Optimal Nonlinear Income Tax Schedules,” <i>Games and Economic Behavior</i>, 2017, Vol. 101, January, Special Issue in Honor of John O. Ledyard, pp. 172–188. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/S089982561600035X" target="_blank"> Link to the published version. </a>
+73. Craig Brett and John A. Weymark, “Voting Over Selfishly Optimal Nonlinear Income Tax Schedules,” <i>Games and Economic Behavior</i>, 2017, Vol. 101, January, Special Issue in Honor of John O. Ledyard, pp. 172–188. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/S089982561600035X" target="_blank"> Link to the published version. </a>
 <br>
 74. John A. Weymark, “Conundrums for Nonconsequentialists,” <i>Social Choice and Welfare</i>, 2017, Vol. 48, No. 2, February, pp. 269–294. <a class="hover" href="https://link.springer.com/article/10.1007/s00355-016-1021-9" target="_blank"> Link to the published version. </a>
 <br>
