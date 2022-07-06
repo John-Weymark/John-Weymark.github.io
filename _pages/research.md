@@ -56,7 +56,7 @@ Sugden’s account of market virtues is compatible with respecting the fundament
 dignity in Kant’s sense of this term.
 <br>
 <br>
-3. Sarah E. Friedman and John A. Weymark, "<a class="hover" href="https://github.com/John-Weymark/John-Weymark.github.io/blob/master/files/Friedman%20Weymark%20Final%20Version.pdf" target="_blank">Precedent-Based Judgment Aggregation in the U.S. Supreme Court</a>."  Current Version: June 2022.
+3. Sarah E. Friedman and John A. Weymark, "<a class="hover" href="https://github.com/John-Weymark/John-Weymark.github.io/blob/master/files/Friedman%Weymark%Precedent%0622.pdf" target="_blank">Precedent-Based Judgment Aggregation in the U.S. Supreme Court</a>."  Current Version: June 2022.
 <br>
 <br>
 <i> Abstract:</i> When a case is before the U.S. Supreme Court, a precedent may apply. In
