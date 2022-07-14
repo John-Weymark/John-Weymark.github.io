@@ -40,7 +40,7 @@ a different ordering of the social alternatives, and that none of these is
 classical utilitarianism.
 <br>
 <br>
-2. Luís C. Calderón Gómez, Robert Talisse, and John A. Weymark, "<a class="hover" href="https://john-weymark.github.io/files/CTW%20Dignity%20V1.pdf" target="_blank">Market Virtues and Respect for Human Dignity</a>." Current Version: February 2020.
+2. Luís C. Calderón Gómez, Robert Talisse, and John A. Weymark, "<a class="hover" href="https://john-weymark.github.io/files/CTW%20Dignity%200622.pdf" target="_blank">Market Virtues and Respect for Human Dignity</a>." Current Version: June 2022.
 <br>
 <br>
     <i> Abstract:</i> Luigino Bruni and Robert Sugden (Journal of Economic Perspectives, 2013) have provided
