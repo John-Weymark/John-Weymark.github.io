@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Gertrude Conaway Chair in Social and Natural Sciences, Professor of Economics, and Professor of Philosophy (Affiliated) at Vanderbilt University.
+I am Gertrude Conaway Chair in Social and Natural Sciences Emeritus and Professor of Economics Emeritus at Vanderbilt University.
 
 My research interests include (1) Microeconomic Theory, (2) Public Economics, (3) Social Choice Theory, and (4) Economics and Philosophy.
 
