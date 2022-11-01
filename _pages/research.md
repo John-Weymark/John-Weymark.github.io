@@ -62,7 +62,7 @@ dignity in Kant’s sense of this term.
 <i> Abstract:</i> When a case is before the U.S. Supreme Court, a precedent may apply. In
 cases in which a precedent is being considered, the Court needs to answer three questions:
 (1) Is the precedent good law? (2) Does the precedent apply to this case? (3) Should
-the Court uphold the precedent? In the event that the Court answers yes to the rst two
+the Court uphold the precedent? In the event that the Court answers yes to the first two
 questions and no to the last, there is what David Cohen (Boston University Law Review,
 2010) calls a precedent-based voting paradox. Cohen has identied eleven instances
 of this paradox in U.S. Supreme Court decisions prior to 2010. We review Cohen's
