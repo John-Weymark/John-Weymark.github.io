@@ -71,7 +71,7 @@ judgment aggregation literature. We also identify what is arguably one more inst
 a precedent-based voting paradox in the period since Cohen's article was published.
 <br>
 <br>
-4. John A. Weymark, "<a class="hover" href="https://john-weymark.github/io/files/Godwin%20Wharton%20V1.pdf" target="blank">William Godwin and Edith Wharton, Decision Theorists</a>." Current Version: October 2022.
+4. John A. Weymark, "<a class="hover" href="https://john-weymark.github/io/files/Godwin%20Wharton%20V1.pdf" target="_blank">William Godwin and Edith Wharton, Decision Theorists</a>." Current Version: October 2022.
 <br>
 <br>
 <i> Abstract:</i> Literary works by William Godwin and Edith Wharton are shown to anticipate some fundamental features of modern decision theory.  In her 1904 short story, <i>The Last Asset</i>, one of Wharton's characters advocates a rudimentary version of the idea of choosing a strategy in advance that specifies future choices in a dynamic decision problem.  In commenting on the method employed when he composed his 1794 novel, <i>Caleb Williams</i>, Godwin said that he developed the plot and prepared outlines of its three volumes in reverse order, thereby articulating an informal version of backwards induction.
