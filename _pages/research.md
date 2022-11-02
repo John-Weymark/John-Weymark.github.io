@@ -328,6 +328,8 @@ Problem,” <i>Mathematical Programming Series B</i>, Special Issue: Mathematica
 18. Paul H. Edelman and John A. Weymark, “Unrestricted Domain Extensions of Dominant Strategy Implementable Allocation Functions,” in Walter Trockel, ed., <i>Social Design: Essays in Memory of Leonid Hurwicz</i>, Springer: Cham, Switzerland, 2019, pp. 261–275.  <a class="hover" href="https://link.springer.com/chapter/10.1007/978-3-319-93809-7_16" target="_blank"> Link to the published version. </a>
 <br>
 19. Craig Brett and John A. Weymark, “Matthews–Moore Single- and Double-Crossing,” in Jean-François Laslier, Hervé Moulin, M. Remzi Sanver, and William S. Zwicker, eds., <i>The Future of Economic Design: The Continuing Development of a Field as Envisioned by Its Researchers</i>, Springer: Cham, Switzerland, 2019, pp. 461–467.  <a class="hover" href="https://link.springer.com/chapter/10.1007/978-3-030-18050-8_64" target="_blank"> Link to the published version. </a>
+<br>
+20.  Luís C. Calderón Gómez, Robert Talisse, and John A. Weymark, ``Market Virtues and Respect for Human Dignity,'' in Reiko Gotoh, Yasushi Kato, and Henry Richardson, eds., <i>Dignity, Freedom and Justice</i>, Springer, forthcoming.
 <hr>
 
 <h2  style="text-align:center">Interview</h2>
