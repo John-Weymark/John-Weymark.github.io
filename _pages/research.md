@@ -277,8 +277,7 @@ a precedent-based voting paradox in the period since Cohen's article was publish
 <br>
 80. Paul H. Edelman and John A. Weymark, “Dominant Strategy Implementation and Zero Length Cycles,” <i>Economic Theory</i>, 2021, Vol. 72, No. 4, November, pp. 1091–1120. <a class="hover" href="https://link.springer.com/article/10.1007/s00199-020-01324-7" target="_blank"> Link to the published version. </a>
 <br>
-81. Bhaskar Dutta, Anirban Kar, and John A. Weymark, “Strategy-Proof Club Formation with Indivisible Club Facilities,” <i>Review of Economic Design</i>, Special Issue in Honor
-of Semih Koray: Well-Designed Incentive Schemes, forthcoming.
+81. Bhaskar Dutta, Anirban Kar, and John A. Weymark, “Strategy-Proof Club Formation with Indivisible Club Facilities,” <i>Review of Economic Design</i>,  Well-Designed Incentive Schemes: Special Issue in Honor of Semih Koray (Part 1), 2022, Vol. 26, No. 3, September, pp. 261--284.
 <a class="hover" href="https://link.springer.com/article/10.1007/s10058-021-00251-w" target="_blank"> Link to the published version. </a>
 <br>
 82. Paul H. Edelman, Martin Van der Linden, and John A. Weymark, “The Core of a Transferable Utility Game as the Solution to a Public Good Market Demand
