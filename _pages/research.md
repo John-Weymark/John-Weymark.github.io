@@ -287,6 +287,8 @@ Problem,” <i>Mathematical Programming Series B</i>, Special Issue: Mathematica
 83. John A. Weymark, Vaihinger’s Fictionalism Meets Binmore’s Knowledge-as-Commitment,
 <i>Homo Oeconomicus</i>, Special Issue in Honor of Ken Binmore, forthcoming.
 <a class="hover" href="https://link.springer.com/article/10.1007/s41412-021-00116-1" target="_blank"> Link to the published version. </a>
+<br>
+84.  Sarah E. Friedman and John A. Weymark, "Precedent-Based Judgment Aggregation in the US Supreme Court," <i>Revue Économique</i>, Special Issue on Economic Decisions and Social Preferences in Honour of Philippe Mongin, forthcoming.
 <hr>
 
 <h2  style="text-align:center">Articles in Edited Volumes</h2>
