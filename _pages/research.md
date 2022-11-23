@@ -64,7 +64,7 @@ cases in which a precedent is being considered, the Court needs to answer three 
 (1) Is the precedent good law? (2) Does the precedent apply to this case? (3) Should
 the Court uphold the precedent? In the event that the Court answers yes to the first two
 questions and no to the last, there is what David Cohen (Boston University Law Review,
-2010) calls a precedent-based voting paradox. Cohen has identied eleven instances
+2010) calls a precedent-based voting paradox. Cohen has identified eleven instances
 of this paradox in U.S. Supreme Court decisions prior to 2010. We review Cohen's
 paradox and relate it to the doctrinal paradox that has played a foundational role in the
 judgment aggregation literature. We also identify what is arguably one more instance of
