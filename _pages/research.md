@@ -266,7 +266,8 @@ dignity in Kant’s sense of this term.
 80. Paul H. Edelman and John A. Weymark, “Dominant Strategy Implementation and Zero Length Cycles,” <i>Economic Theory</i>, 2021, Vol. 72, No. 4, November, pp. 1091–1120. <a class="hover" href="https://link.springer.com/article/10.1007/s00199-020-01324-7" target="_blank"> Link to the published version. </a>
 <br>
 81. Bhaskar Dutta, Anirban Kar, and John A. Weymark, “Strategy-Proof Club Formation with Indivisible Club Facilities,” <i>Review of Economic Design</i>,  Well-Designed Incentive Schemes: Special Issue in Honor of Semih Koray (Part 1), 2022, Vol. 26, No. 3, September, pp. 261–284.
-<a class="hover" href="https://link.springer.com/article/10.1007/s10058-021-00251-w" target="_blank"> Link to the published version. </a>
+<a class="hover" href="https://link.springer.com/article/10.1007/s10058-021-00251-w" target="_blank"> Link to the published version. </a><br>
+84.  Sarah E. Friedman and John A. Weymark, "Precedent-Based Judgment Aggregation in the US Supreme Court," <i>Revue Économique</i>, Special Issue in Homage to Philippe Mongin, 2022, Vol. 73, No. 6, November, PP. 1069--1091.
 <br>
 82. Paul H. Edelman, Martin Van der Linden, and John A. Weymark, “The Core of a Transferable Utility Game as the Solution to a Public Good Market Demand
 Problem,” <i>Mathematical Programming Series B</i>, Special Issue: Mathematical Optimization for Fair Social Decisions: A Tribute to Michel Balinski, forthcoming.
@@ -275,8 +276,6 @@ Problem,” <i>Mathematical Programming Series B</i>, Special Issue: Mathematica
 83. John A. Weymark, Vaihinger’s Fictionalism Meets Binmore’s Knowledge-as-Commitment,
 <i>Homo Oeconomicus</i>, Special Issue in Honor of Ken Binmore, forthcoming.
 <a class="hover" href="https://link.springer.com/article/10.1007/s41412-021-00116-1" target="_blank"> Link to the published version. </a>
-<br>
-84.  Sarah E. Friedman and John A. Weymark, "Precedent-Based Judgment Aggregation in the US Supreme Court," <i>Revue Économique</i>, Special Issue on Economic Decisions and Social Preferences in Honour of Philippe Mongin, forthcoming.
 <hr>
 
 <h2  style="text-align:center">Articles in Edited Volumes</h2>
