@@ -17,4 +17,4 @@ Biographical information about me may be found in:
 
 2. Felix Bierbrauer and Claude d’Aspremont, “John A. Weymark,” in Marc Fleurbaey and Maurice Salles, eds., <i>Conversations on Social Choice and Welfare Theory, Volume 1</i>, Springer: Cham, Switzerland, 2021, pp. 289-334. <a class="hover" href="https://link.springer.com/chapter/10.1007/978-3-030-62769-0_16" target="_blank"> Link to the published version. </a>
 
-3. Craig Brett, Claude d'Aspremont, and Mauricwee Salles, "Special Issue in Honour of John A. Weymark,"
+3. Craig Brett, Claude d'Aspremont, and Maurice Salles, "Special Issue in Honour of John A. Weymark," <i>Social Choice and Welfare</i>, 2023, Vol. 60, Nos. 1–2, January, pp. 1–3. <a class="hover" href="https://link.springer.com/article/10.1007/s00355-022-01442-2" target="_blank"> Link to the published version. </a>
