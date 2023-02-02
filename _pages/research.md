@@ -271,7 +271,7 @@ Problem,” <i>Mathematical Programming Series B</i>, Special Issue: Mathematica
 <a class="hover" href="https://link.springer.com/article/10.1007/s10107-021-01729-9" target="_blank"> Link to the published version. </a>
 <br>
 83. John A. Weymark, Vaihinger’s Fictionalism Meets Binmore’s Knowledge-as-Commitment,
-<i>Homo Oeconomicus</i>, Crooked Thinking or Straight Talk: Modernizing Epicurean Philosophy, forthcoming.
+<i>Homo Oeconomicus</i>, Special Issue on ``Crooked Thinking or Straight Talk: Modernizing Epicurean Philosophy,'' forthcoming.
 <a class="hover" href="https://link.springer.com/article/10.1007/s41412-021-00116-1" target="_blank"> Link to the published version. </a>
 <hr>
 
