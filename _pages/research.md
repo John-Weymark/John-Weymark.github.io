@@ -56,9 +56,6 @@ Sugden’s account of market virtues is compatible with respecting the fundament
 dignity in Kant’s sense of this term.
 <br>
 <br>
-3. Sarah E. Friedman and John A. Weymark, "<a class="hover" href="https://john-weymark.github.io/files/Precedent%20Final.pdf" target="_blank">Precedent-Based Judgment Aggregation in the U.S. Supreme Court</a>."  Current Version: June 2022.
-<br>
-<br>
 3. John A. Weymark, "<a class="hover" href="https://john-weymark.github.io/files/Godwin%20Wharton%20V3.pdf" target="_blank">William Godwin and Edith Wharton, Decision Theorists</a>." Current Version: November 2022.
 <br>
 <br>
@@ -274,7 +271,7 @@ Problem,” <i>Mathematical Programming Series B</i>, Special Issue: Mathematica
 <a class="hover" href="https://link.springer.com/article/10.1007/s10107-021-01729-9" target="_blank"> Link to the published version. </a>
 <br>
 83. John A. Weymark, Vaihinger’s Fictionalism Meets Binmore’s Knowledge-as-Commitment,
-<i>Homo Oeconomicus</i>, Special Issue in Honor of Ken Binmore, forthcoming.
+<i>Homo Oeconomicus</i>, Crooked Thinking or Straight Talk: Modernizing Epicurean Philosophy, forthcoming.
 <a class="hover" href="https://link.springer.com/article/10.1007/s41412-021-00116-1" target="_blank"> Link to the published version. </a>
 <hr>
 
