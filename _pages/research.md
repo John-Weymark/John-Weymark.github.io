@@ -59,19 +59,7 @@ dignity in Kant’s sense of this term.
 3. Sarah E. Friedman and John A. Weymark, "<a class="hover" href="https://john-weymark.github.io/files/Precedent%20Final.pdf" target="_blank">Precedent-Based Judgment Aggregation in the U.S. Supreme Court</a>."  Current Version: June 2022.
 <br>
 <br>
-<i> Abstract:</i> When a case is before the U.S. Supreme Court, a precedent may apply. In
-cases in which a precedent is being considered, the Court needs to answer three questions:
-(1) Is the precedent good law? (2) Does the precedent apply to this case? (3) Should
-the Court uphold the precedent? In the event that the Court answers yes to the first two
-questions and no to the last, there is what David Cohen (Boston University Law Review,
-2010) calls a precedent-based voting paradox. Cohen has identified eleven instances
-of this paradox in U.S. Supreme Court decisions prior to 2010. We review Cohen's
-paradox and relate it to the doctrinal paradox that has played a foundational role in the
-judgment aggregation literature. We also identify what is arguably one more instance of
-a precedent-based voting paradox in the period since Cohen's article was published.
-<br>
-<br>
-4. John A. Weymark, "<a class="hover" href="https://john-weymark.github.io/files/Godwin%20Wharton%20V3.pdf" target="_blank">William Godwin and Edith Wharton, Decision Theorists</a>." Current Version: November 2022.
+3. John A. Weymark, "<a class="hover" href="https://john-weymark.github.io/files/Godwin%20Wharton%20V3.pdf" target="_blank">William Godwin and Edith Wharton, Decision Theorists</a>." Current Version: November 2022.
 <br>
 <br>
 <i> Abstract:</i> Literary works by William Godwin and Edith Wharton are shown to anticipate some fundamental features of modern decision theory.  In her 1904 short story, "The Last Asset," one of Wharton's characters advocates a rudimentary version of the idea of choosing a strategy in advance that specifies future choices in a dynamic decision problem.  In commenting on the method employed when he composed his 1794 novel, <i>Caleb Williams</i>, Godwin said that he developed the plot and prepared outlines of its three volumes in reverse order, thereby articulating an informal version of backwards induction.
