@@ -21,11 +21,10 @@ author_profile: true
 </style>
 </head>
 
-<h2  style="text-align:center">Manuscripts</h2>
+<h2  style="text-align:center">Archived Manuscript</h2>
 <hr>
 1. Charles Blackorby, David Donaldson, and John A. Weymark, “<a class="hover" href="https://john-weymark.github.io/files/BDW80CORE.pdf" target="_blank">On John Harsanyi’s Defences of Utilitarianism</a>,” Discussion Paper
-No. 80-13, Center for Operations Research and Econometrics, Université catholique  
-de Louvain, April 1980.
+No. 80-13, Center for Operations Research and Econometrics, Université catholique de Louvain, April 1980.
 <br>
 <br>
     <i> Abstract:</i> Harsanyi has advanced three arguments in defence of utilitarianism.
@@ -38,28 +37,6 @@ framework in which these three defences may be compared, We demonstrate
 that with complete welfare information each of these proposals results in
 a different ordering of the social alternatives, and that none of these is
 classical utilitarianism.
-<br>
-<br>
-2. Luís C. Calderón Gómez, Robert Talisse, and John A. Weymark, "<a class="hover" href="https://john-weymark.github.io/files/CTW%20Dignity%200622.pdf" target="_blank">Market Virtues and Respect for Human Dignity</a>." Current Version: June 2022.
-<br>
-<br>
-    <i> Abstract:</i> Luigino Bruni and Robert Sugden (Journal of Economic Perspectives, 2013) have provided
-a normative defense of markets from a virtue ethics perspective. They interpret market
-exchange as being a practice in the sense of Alasdair MacIntyre. For Bruni and Sugden, the telos
-of a market is mutual benefit and a market virtue is a character trait or disposition that contributes
-to the realization of this benefit. They regard market virtues as embodying a moral attitude towards
-market interactions that is characterized by reciprocity. For MacIntyre, this is a partial account of
-a virtue. To qualify as a virtue, it is also necessary that it contributes to the good of an individual’s
-life taken as a whole and to the social tradition in which both practices and individuals are embedded.
-We adopt MacIntye’s understanding of a virtue and consider the extent to which Bruni and
-Sugden’s account of market virtues is compatible with respecting the fundamental human good of
-dignity in Kant’s sense of this term.
-<br>
-<br>
-3. John A. Weymark, "<a class="hover" href="https://john-weymark.github.io/files/Godwin%20Wharton%20V3.pdf" target="_blank">William Godwin and Edith Wharton, Decision Theorists</a>." Current Version: November 2022.
-<br>
-<br>
-<i> Abstract:</i> Literary works by William Godwin and Edith Wharton are shown to anticipate some fundamental features of modern decision theory.  In her 1904 short story, "The Last Asset," one of Wharton's characters advocates a rudimentary version of the idea of choosing a strategy in advance that specifies future choices in a dynamic decision problem.  In commenting on the method employed when he composed his 1794 novel, <i>Caleb Williams</i>, Godwin said that he developed the plot and prepared outlines of its three volumes in reverse order, thereby articulating an informal version of backwards induction.
 <hr>
 
 <h2 style="text-align:center">Edited Books</h2>
