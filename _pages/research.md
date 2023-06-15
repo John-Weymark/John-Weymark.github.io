@@ -21,9 +21,9 @@ author_profile: true
 </style>
 </head>
 
-<h2  style="text-align:center">Archived Manuscript</h2>
+<h2  style="text-align:center">Manuscript</h2>
 <hr>
-1. Shigehiro Serizwa and John A. Weymark, “<a class="hover" href="https://john-weymark.github.io/files/Serizawa Weymark 060323.pdf" target="_blank">Boundedness of the Range of a Strategy-Proof Social Choice Function</a>.”
+1. Shigehiro Serizwa and John A. Weymark, “<a class="hover" href="https://john-weymark.github.io/files/Serizawa Weymark 060323.pdf" target="_blank">Boundedness of the Range of a Strategy-Proof Social Choice Function</a>,” June 2023.
 <br>
 <br>
     <i> Abstract:</i> For the provision of one or more divisible public goods, relatively
