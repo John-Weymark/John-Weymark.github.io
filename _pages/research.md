@@ -23,14 +23,24 @@ author_profile: true
 
 <h2  style="text-align:center">Manuscripts (excluding manuscripts prepared for double-blind refereeing)</h2>
 <hr>
-1. Shigehiro Serizwa and John A. Weymark, “<a class="hover" href="https://john-weymark.github.io/files/Serizawa Weymark 060323.pdf" target="_blank">Boundedness of the Range of a Strategy-Proof Social Choice Function</a>,” June 2023.
+1. Edi Karni and John A. Weymark, “<a class="hover" href="https://john-weymark.github.io/files/Karni-Weymark Relative Utiliarianism 060623.pdf" target="_blank">Impartiality and Relative Utilitarianism</a>,” June 2023.
+<br>
+<br>
+    <i> Abstract:</i> A novel axiomatization of relative utilitarianism is provided using the single-profile setting used in Harsanyi's Social Aggregation Theorem. Harsanyi's axioms are supplemented with an impartiality axiom that requires social alternative lotteries </i>p<\i> and </i>q<\i> to be socially indierent when (i) two individuals have conflicting preferences for them and everybody else is indifferent and (ii) the concerned individuals' strengths of preference
+for</i>p<\i> over </i>q<\i>  have the same magnitude. This axiomatization shows that equality of the
+social weights can be obtained in a single-profile setting and that no interprofile condition
+is needed to obtain profile-independent weights in a multi-profile setting.
+<hr>
+
+<hr>
+2. Shigehiro Serizwa and John A. Weymark, “<a class="hover" href="https://john-weymark.github.io/files/Serizawa Weymark 060323.pdf" target="_blank">Boundedness of the Range of a Strategy-Proof Social Choice Function</a>,” June 2023.
 <br>
 <br>
     <i> Abstract:</i> For the provision of one or more divisible public goods, relatively
 weak restrictions on the domain of a strategy-proof social choice function
 are identified that ensure that its range is bounded. Domain restrictions for
 which strategy-proofness also implies that the option sets of the social choice
-function are compact are also identied.
+function are compact are also identified.
 <hr>
 
 <h2  style="text-align:center">Archived Manuscript</h2>
