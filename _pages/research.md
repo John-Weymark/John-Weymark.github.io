@@ -23,6 +23,18 @@ author_profile: true
 
 <h2  style="text-align:center">Archived Manuscript</h2>
 <hr>
+1. Shigehiro Serizwa and John A. Weymark, “<a class="hover" href="https://john-weymark.github.io/files/Serizawa Weymark 060323.pdf" target="_blank">Boundedness of the Range of a Strategy-Proof Social Choice Function</a>.”
+<br>
+<br>
+    <i> Abstract:</i> For the provision of one or more divisible public goods, relatively
+weak restrictions on the domain of a strategy-proof social choice function
+are identied that ensure that its range is bounded. Domain restrictions for
+which strategy-proofness also implies that the option sets of the social choice
+function are compact are also identied.
+<hr>
+
+<h2  style="text-align:center">Archived Manuscript</h2>
+<hr>
 1. Charles Blackorby, David Donaldson, and John A. Weymark, “<a class="hover" href="https://john-weymark.github.io/files/BDW80CORE.pdf" target="_blank">On John Harsanyi’s Defences of Utilitarianism</a>,” Discussion Paper
 No. 80-13, Center for Operations Research and Econometrics, Université catholique de Louvain, April 1980.
 <br>
