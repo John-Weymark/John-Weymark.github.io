@@ -273,7 +273,7 @@ Problem,” <i>Mathematical Programming Series B</i>, Special Issue: Mathematica
 <i>Homo Oeconomicus</i>, Special Issue on "Crooked Thinking or Straight Talk: Modernizing Epicurean Philosophy," forthcoming.
 <a class="hover" href="https://link.springer.com/article/10.1007/s41412-021-00116-1" target="_blank"> Link to the published version. </a>
 <br>
-85. John A. Weymark, Edith Wharton’s ‘The Last Asset’ and Decision-Making Under Uncertainty,” <i>American Literary Realism</i>, Special Issue on "Crooked Thinking or Straight Talk: Modernizing Epicurean Philosophy," forthcoming. </a>
+85. John A. Weymark, "Edith Wharton’s ‘The Last Asset’ and Decision-Making Under Uncertainty,” <i>American Literary Realism</i>, Special Issue on "Crooked Thinking or Straight Talk: Modernizing Epicurean Philosophy," forthcoming. </a>
 <hr>
 
 <h2  style="text-align:center">Articles in Edited Volumes</h2>
