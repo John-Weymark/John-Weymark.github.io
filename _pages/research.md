@@ -28,8 +28,8 @@ author_profile: true
 <br>
     <i> Abstract:</i> A novel axiomatization of relative utilitarianism is provided using the single-profile setting used in Harsanyi's Social Aggregation Theorem. Harsanyi's axioms are supplemented with an impartiality axiom that requires social alternative lotteries <i>p</i> and <i>q</i> to be socially indifferent when (i) two individuals have conflicting preferences for them and everybody else is indifferent and (ii) the concerned individuals' strengths of preference
 for <i>p</i> over <i>q</i>  have the same magnitude. This axiomatization shows that equality of the
-social weights can be obtained in a single-profile setting and that no interprofile condition
-is needed to obtain profile-independent weights in a multi-profile setting.
+social weights can be obtained in a single-profile setting and that no interprofile condition
+is needed to obtain profile-independent weights in a multi-profile setting.
 <br>
 
 <br>
