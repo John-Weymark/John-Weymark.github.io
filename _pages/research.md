@@ -32,6 +32,7 @@ social weights can be obtained in a single-profile setting and that no interpro
 is needed to obtain profile-independent weights in a multi-profile setting.
 <br>
 
+<br>
 2. Shigehiro Serizwa and John A. Weymark, “<a class="hover" href="https://john-weymark.github.io/files/Serizawa Weymark 060323.pdf" target="_blank">Boundedness of the Range of a Strategy-Proof Social Choice Function</a>,” June 2023.
 <br>
 <br>
