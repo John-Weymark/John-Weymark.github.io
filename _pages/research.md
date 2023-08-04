@@ -29,7 +29,7 @@ author_profile: true
     <i> Abstract:</i> A novel axiomatization of relative utilitarianism is provided using the single-profile setting used in Harsanyi's Social Aggregation Theorem. Harsanyi's axioms are supplemented with an impartiality axiom that requires social alternative lotteries <i>p</i> and <i>q</i> to be socially indifferent when (i) two individuals have conflicting preferences for them and everybody else is indifferent and (ii) the concerned individuals' strengths of preference
 for <i>p</i> over <i>q</i>  have the same magnitude. This axiomatization shows that equality of the
 social weights can be obtained in a single-profile setting and that no interprofile condition
-is needed to obtain profile-independent weights in a multi-profile setting.
+is needed to obtain profile-independent weights in a multi-profile setting.
 <br>
 
 2. Shigehiro Serizwa and John A. Weymark, “<a class="hover" href="https://john-weymark.github.io/files/Serizawa Weymark 060323.pdf" target="_blank">Boundedness of the Range of a Strategy-Proof Social Choice Function</a>,” June 2023.
