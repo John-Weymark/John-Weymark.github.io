@@ -23,7 +23,7 @@ author_profile: true
 
 <h2  style="text-align:center">Manuscripts (excluding manuscripts prepared for double-blind refereeing)</h2>
 <hr>
-1. Edi Karni and John A. Weymark, “<a class="hover" href="https://john-weymark.github.io/files/Karni-Weymark Relative Utiliarianism 060623.pdf" target="_blank">Impartiality and Relative Utilitarianism</a>,” June 2023.
+1. Edi Karni and John A. Weymark, “<a class="hover" href="https://john-weymark.github.io/files/Karni-Weymark Relative Utiliarianism 080323.pdf" target="_blank">Impartiality and Relative Utilitarianism</a>,” June 2023.
 <br>
 <br>
     <i> Abstract:</i> A novel axiomatization of relative utilitarianism is provided using the single-profile setting used in Harsanyi's Social Aggregation Theorem. Harsanyi's axioms are supplemented with an impartiality axiom that requires social alternative lotteries <i>p</i> and <i>q</i> to be socially indifferent when (i) two individuals have conflicting preferences for them and everybody else is indifferent and (ii) the concerned individuals' strengths of preference
