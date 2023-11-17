@@ -38,7 +38,7 @@ is needed to obtain profile-independent weights in a multi-profile setting.
 <br>
     <i> Abstract:</i> For the provision of one or more divisible public goods, relatively
 weak restrictions on the domain of a strategy-proof social choice function
-are identified that ensure that its range is bounded. Domain restrictions for
+are identified that ensure that its range is bounded. Domain restrictions for
 which strategy-proofness also implies that the option sets of the social choice
 function are compact are also identified.
 <hr>
@@ -197,7 +197,7 @@ classical utilitarianism.
 <br>
 48. Anna B. Khmelnitskaya and John A. Weymark, “Social Choice with Independent Subgroup Utility Scales,” <i>Social Choice and Welfare</i>, 2000, Vol. 17, No. 4, August, pp. 739–748. <a class="hover" href="https://link.springer.com/article/10.1007/s003550000058" target="_blank"> Link to the published version. </a>
 <br>
-49. Michel Le Breton and John A.Weymark, “Social Choice with Analytic Preferences,” <i>Social Choice and Welfare</i>, 2002, Vol. 19, No. 3, July, pp. 637–657. <a class="hover" href="https://link.springer.com/article/10.1007/s003550100142" target="_blank"> Link to the published version. </a>
+49. Michel Le Breton and John A. Weymark, “Social Choice with Analytic Preferences,” <i>Social Choice and Welfare</i>, 2002, Vol. 19, No. 3, July, pp. 637–657. <a class="hover" href="https://link.springer.com/article/10.1007/s003550100142" target="_blank"> Link to the published version. </a>
 <br>
 50. Shigehiro Serizawa and John A. Weymark, “Efficient Strategy-Proof Exchange and Minimum Consumption Guarantees,” <i>Journal of Economic Theory</i>, 2003, Vol. 109, No. 2, April, Special Festschrift Issue for Karl Shell, pp. 246–263. <a class="hover" href="https://www.sciencedirect.com/science/article/abs/pii/S002205310300019X" target="_blank"> Link to the published version. </a>
 <br>
