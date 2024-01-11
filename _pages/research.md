@@ -266,15 +266,15 @@ classical utilitarianism.
 <br>
 82.  Sarah E. Friedman and John A. Weymark, “Precedent-Based Judgment Aggregation in the US Supreme Court,” <i>Revue Économique</i>, Special Issue in Homage to Philippe Mongin, 2022, Vol. 73, No. 6, November, pp. 1069–1091. <a class="hover" href= "https://www.cairn.info/revue-economique-2022-6-page-1069.htm?contenu=article" target="_blank"> Link to the published version. </a>
 <br>
+84. John A. Weymark, “Edith Wharton’s ‘The Last Asset’ and Decision-Making Under Uncertainty,” <i>American Literary Realism</i>, 2024, Vol. 56, No. 2, Winter, pp. 160–172. <a class="hover" href= "https://muse.jhu.edu/pub/34/article/916481)" target="_blank"> Link to the published version. </a>
+<br>
 83. Paul H. Edelman, Martin Van der Linden, and John A. Weymark, “The Core of a Transferable Utility Game as the Solution to a Public Good Market Demand
 Problem,” <i>Mathematical Programming Series B</i>, Special Issue: Mathematical Optimization for Fair Social Decisions: A Tribute to Michel Balinski, forthcoming.
 <a class="hover" href="https://link.springer.com/article/10.1007/s10107-021-01729-9" target="_blank"> Link to the published version. </a>
 <br>
-84. John A. Weymark, “Vaihinger’s Fictionalism Meets Binmore’s Knowledge-as-Commitment,”
+85. John A. Weymark, “Vaihinger’s Fictionalism Meets Binmore’s Knowledge-as-Commitment,”
 <i>Homo Oeconomicus</i>, Special Issue on “Crooked Thinking or Straight Talk: Modernizing Epicurean Philosophy,” forthcoming.
 <a class="hover" href="https://link.springer.com/article/10.1007/s41412-021-00116-1" target="_blank"> Link to the published version. </a>
-<br>
-85. John A. Weymark, “Edith Wharton’s ‘The Last Asset’ and Decision-Making Under Uncertainty,” <i>American Literary Realism</i>, forthcoming.
 <hr>
 
 <h2  style="text-align:center">Articles in Edited Volumes</h2>
