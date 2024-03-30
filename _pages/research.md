@@ -259,7 +259,7 @@ classical utilitarianism.
 83. John A. Weymark, “Edith Wharton’s ‘The Last Asset’ and Decision-Making Under Uncertainty,” <i>American Literary Realism</i>, 2024, Vol. 56, No. 2, Winter, pp. 160–172. <a class="hover" href= "https://muse.jhu.edu/pub/34/article/916481)" target="_blank"> Link to the published version. </a>
 <br>
 84. Paul H. Edelman, Martin Van der Linden, and John A. Weymark, “The Core of a Transferable Utility Game as the Solution to a Public Good Market Demand
-Problem,” <i>Mathematical Programming Series B</i>, Special Issue: Mathematical Optimization for Fair Social Decisions: A Tribute to Michel Balinski, forthcoming.
+Problem,” <i>Mathematical Programming Series B</i>, Special Issue: Mathematical Optimization for Fair Social Decisions, 2024, Vol. 203, Nos. 1–2, January, pp. 687–702.
 <a class="hover" href="https://link.springer.com/article/10.1007/s10107-021-01729-9" target="_blank"> Link to the published version. </a>
 <br>
 85. John A. Weymark, “Vaihinger’s Fictionalism Meets Binmore’s Knowledge-as-Commitment,”
