@@ -23,17 +23,7 @@ author_profile: true
 
 <h2  style="text-align:center">Manuscripts (excluding manuscripts prepared for double-blind refereeing)</h2>
 <hr>
-1. Edi Karni and John A. Weymark, “<a class="hover" href="https://john-weymark.github.io/files/Karni-Weymark Relative Utiliarianism 010124.pdf" target="_blank">Impartiality and Relative Utilitarianism</a>,” June 2023.  Current version: January 2024.
-<br>
-<br>
-    <i> Abstract:</i> A novel axiomatization of relative utilitarianism is provided using the single-profile setting used in Harsanyi's Social Aggregation Theorem. Harsanyi's axioms are supplemented with an impartiality axiom that requires social alternative lotteries <i>p</i> and <i>q</i> to be socially indifferent when (i) two individuals have conflicting preferences for them and everybody else is indifferent and (ii) the concerned individuals' strengths of preference
-for <i>p</i> over <i>q</i>  have the same magnitude. This axiomatization shows that equality of the
-social weights can be obtained in a single-profile setting and that no interprofile condition
-is needed to obtain profile-independent weights in a multi-profile setting.
-<br>
-
-<br>
-2. Shigehiro Serizawa and John A. Weymark, “<a class="hover" href="https://john-weymark.github.io/files/Serizawa Weymark 060323.pdf" target="_blank">Boundedness of the Range of a Strategy-Proof Social Choice Function</a>,” June 2023.
+1. Shigehiro Serizawa and John A. Weymark, “<a class="hover" href="https://john-weymark.github.io/files/Serizawa Weymark 060323.pdf" target="_blank">Boundedness of the Range of a Strategy-Proof Social Choice Function</a>,” June 2023.
 <br>
 <br>
     <i> Abstract:</i> For the provision of one or more divisible public goods, relatively
