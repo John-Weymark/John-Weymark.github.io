@@ -267,7 +267,7 @@ Problem,” <i>Mathematical Programming Series B</i>, Special Issue: Mathematica
 <a class="hover" href="https://link.springer.com/article/10.1007/s41412-021-00116-1" target="_blank"> Link to the published version. </a>
 <br>
 86. Edi Karni and John A. Weymark, “Impartiality and Relative Utilitarianism,” <i>Social Choice and Welfare</i>, forthcoming.
-<a class="hover" href="https:doi.org/10.1007/s00355-024-01518-1" target="_blank"> Link to the published version. </a>
+<a class="hover" href="[https:doi.org/10.1007/s00355-024-01518-1](https://link.springer.com/article/10.1007/s00355-024-01518-1)" target="_blank"> Link to the published version. </a>
 <hr>
 
 <h2  style="text-align:center">Articles in Edited Volumes</h2>
