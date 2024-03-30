@@ -310,7 +310,7 @@ Problem,” <i>Mathematical Programming Series B</i>, Special Issue: Mathematica
 <br>
 19. Craig Brett and John A. Weymark, “Matthews–Moore Single- and Double-Crossing,” in Jean-François Laslier, Hervé Moulin, M. Remzi Sanver, and William S. Zwicker, eds., <i>The Future of Economic Design: The Continuing Development of a Field as Envisioned by Its Researchers</i>, Springer: Cham, Switzerland, 2019, pp. 461–467.  <a class="hover" href="https://link.springer.com/chapter/10.1007/978-3-030-18050-8_64" target="_blank"> Link to the published version. </a>
 <br>
-20.  Luís C. Calderón Gómez, Robert Talisse, and John A. Weymark, "Market Virtues and Respect for Human Dignity," in Reiko Gotoh, ed., <i>Dignity, Freedom and Justice</i>, Springer: Singapore, 2024,, forthcoming.
+20.  Luís C. Calderón Gómez, Robert Talisse, and John A. Weymark, "Market Virtues and Respect for Human Dignity," in Reiko Gotoh, ed., <i>Dignity, Freedom and Justice</i>, Springer: Singapore, 2024, forthcoming.
 <br>
 21. Jacob M. Nebel and John A. Weymark, “Social Choice Theory,” in Fred D’Agostino and Ryan Muldoon, eds., <i>The Routledge Companion to Social and Political Thought, Second Edition</i>, Routledge, forthcoming.
 <hr>
