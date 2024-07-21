@@ -38,8 +38,7 @@ function are compact are also identified.  To illustrate the usefulness of these
 <br>
     <i> Abstract:</i> In commenting on the method employed when he composed his 1794 novel, <i> Caleb
 Williams</i>, William Godwin said that he developed the plot and prepared outlines
-of its three volumes in reverse order. It is argued that this method of composi-
-tion anticipates the main features of the backward induction procedure used in
+of its three volumes in reverse order. It is argued that this method of composition anticipates the main features of the backward induction procedure used in
 decision theory and game theory to solve sequential decision problems.
 <hr>
 
