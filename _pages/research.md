@@ -23,14 +23,25 @@ author_profile: true
 
 <h2  style="text-align:center">Manuscripts (excluding manuscripts prepared for double-blind refereeing)</h2>
 <hr>
-1. Shigehiro Serizawa and John A. Weymark, “<a class="hover" href="https://john-weymark.github.io/files/Serizawa Weymark 060323.pdf" target="_blank">Boundedness of the Range of a Strategy-Proof Social Choice Function</a>,” June 2023.
+1. Shigehiro Serizawa and John A. Weymark, “<a class="hover" href="https://john-weymark.github.io/files/Serizawa Weymark 071824.pdf" target="_blank">Boundedness of the Range of a Strategy-Proof Social Choice Function</a>,” Revised, July 2024.
 <br>
 <br>
     <i> Abstract:</i> For the provision of one or more divisible public goods, relatively
 weak restrictions on the domain of a strategy-proof social choice function
 are identified that ensure that its range is bounded. Domain restrictions for
 which strategy-proofness also implies that the option sets of the social choice
-function are compact are also identified.
+function are compact are also identified.  To illustrate the usefulness of these results, it is shown how a theorem about generalized median
+voter schemes due to Barbera, Masso, and Serizawa can be established with-
+out their assumption that the range of a social choice function is compact
+provided that the tops of the preferences are not restricted to be nite.
+<br>
+2. John A. Weymark, “<a class="hover" href="https://john-weymark.github.io/files/Godwin Backward Induction 052324.pdf" target="_blank">William Godwin: An Early Practitioner of Backward Induction,”/a>,” May 2024.
+<br>
+    <i> Abstract:</i> In commenting on the method employed when he composed his 1794 novel, <i> </i>Caleb
+Williams</a>i>, William Godwin said that he developed the plot and prepared outlines
+of its three volumes in reverse order. It is argued that this method of composi-
+tion anticipates the main features of the backward induction procedure used in
+decision theory and game theory to solve sequential decision problems.
 <hr>
 
 <h2  style="text-align:center">Archived Manuscript</h2>
@@ -267,7 +278,7 @@ Problem,” <i>Mathematical Programming Series B</i>, Special Issue: Mathematica
 <a class="hover" href="https://link.springer.com/article/10.1007/s41412-021-00116-1" target="_blank"> Link to the published version. </a>
 <br>
 86. Edi Karni and John A. Weymark, “Impartiality and Relative Utilitarianism,” <i>Social Choice and Welfare</i>, forthcoming.
-<a class="hover" href="https://link.springer.com/article/10.1007/s00355-024-01518-1" target="_blank"> Link to the published version. </a>
+<a class="hover" href="https://link.springer.com/article/10.1007/s00355-024-01518-1" target="_blank"> Link to the published version. </a>  Open access.
 <hr>
 
 <h2  style="text-align:center">Articles in Edited Volumes</h2>
@@ -310,7 +321,7 @@ Problem,” <i>Mathematical Programming Series B</i>, Special Issue: Mathematica
 <br>
 19. Craig Brett and John A. Weymark, “Matthews–Moore Single- and Double-Crossing,” in Jean-François Laslier, Hervé Moulin, M. Remzi Sanver, and William S. Zwicker, eds., <i>The Future of Economic Design: The Continuing Development of a Field as Envisioned by Its Researchers</i>, Springer: Cham, Switzerland, 2019, pp. 461–467.  <a class="hover" href="https://link.springer.com/chapter/10.1007/978-3-030-18050-8_64" target="_blank"> Link to the published version. </a>
 <br>
-20.  Luís C. Calderón Gómez, Robert Talisse, and John A. Weymark, "Market Virtues and Respect for Human Dignity," in Reiko Gotoh, ed., <i>Dignity, Freedom and Justice</i>, Springer: Singapore, 2024, forthcoming.
+20.  Luís C. Calderón Gómez, Robert Talisse, and John A. Weymark, "Market Virtues and Respect for Human Dignity," in Reiko Gotoh, ed., <i>Dignity, Freedom and Justice</i>, Springer: Singapore, 2024, pp. 183–203.  <a class="hover" href="https://link.springer.com/chapter/10.1007/978-981-97-0519-1_10" target="_blank"> Link to the published version. </a>  Open access.
 <br>
 21. Jacob M. Nebel and John A. Weymark, “Social Choice Theory,” in Fred D’Agostino and Ryan Muldoon, eds., <i>The Routledge Companion to Social and Political Thought, Second Edition</i>, Routledge, forthcoming.
 <hr>
