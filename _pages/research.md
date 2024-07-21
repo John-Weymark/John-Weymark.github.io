@@ -30,10 +30,8 @@ author_profile: true
 weak restrictions on the domain of a strategy-proof social choice function
 are identified that ensure that its range is bounded. Domain restrictions for
 which strategy-proofness also implies that the option sets of the social choice
-function are compact are also identified.  To illustrate the usefulness of these results, it is shown how a theorem about generalized median
-voter schemes due to Barbera, Masso, and Serizawa can be established with-
-out their assumption that the range of a social choice function is compact
-provided that the tops of the preferences are not restricted to be nite.
+function are compact are also identified.  To illustrate the usefulness of these results, it is shown how a theorem about generalized median voter schemes due to Barberà, Massó, and Serizawa can be established without their assumption that the range of a social choice function is compact provided that the tops of the preferences are not restricted to be nite.
+<br>
 <br>
 2. John A. Weymark, “<a class="hover" href="https://john-weymark.github.io/files/Godwin Backward Induction 052324.pdf" target="_blank">William Godwin: An Early Practitioner of Backward Induction,”/a>,” May 2024.
 <br>
