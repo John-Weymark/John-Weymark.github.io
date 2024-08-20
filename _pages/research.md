@@ -271,12 +271,12 @@ classical utilitarianism.
 Problem,” <i>Mathematical Programming Series B</i>, Special Issue: Mathematical Optimization for Fair Social Decisions, 2024, Vol. 203, Nos. 1–2, January, pp. 687–702.
 <a class="hover" href="https://link.springer.com/article/10.1007/s10107-021-01729-9" target="_blank"> Link to the published version. </a>
 <br>
-85. John A. Weymark, “Vaihinger’s Fictionalism Meets Binmore’s Knowledge-as-Commitment,”
+85. Edi Karni and John A. Weymark, “Impartiality and Relative Utilitarianism,” <i>Social Choice and Welfare</i>, 2024, Vol. 63, No. 1, pp. 1–18.
+<a class="hover" href="https://link.springer.com/article/10.1007/s00355-024-01518-1" target="_blank"> Link to the published version. </a>  Open access.
+<br>
+86. John A. Weymark, “Vaihinger’s Fictionalism Meets Binmore’s Knowledge-as-Commitment,”
 <i>Homo Oeconomicus</i>, Special Issue on “Crooked Thinking or Straight Talk: Modernizing Epicurean Philosophy,” forthcoming.
 <a class="hover" href="https://link.springer.com/article/10.1007/s41412-021-00116-1" target="_blank"> Link to the published version. </a>
-<br>
-86. Edi Karni and John A. Weymark, “Impartiality and Relative Utilitarianism,” <i>Social Choice and Welfare</i>, forthcoming.
-<a class="hover" href="https://link.springer.com/article/10.1007/s00355-024-01518-1" target="_blank"> Link to the published version. </a>  Open access.
 <hr>
 
 <h2  style="text-align:center">Articles in Edited Volumes</h2>
@@ -321,7 +321,7 @@ Problem,” <i>Mathematical Programming Series B</i>, Special Issue: Mathematica
 <br>
 20.  Luís C. Calderón Gómez, Robert Talisse, and John A. Weymark, "Market Virtues and Respect for Human Dignity," in Reiko Gotoh, ed., <i>Dignity, Freedom and Justice</i>, Springer: Singapore, 2024, pp. 183–203.  <a class="hover" href="https://link.springer.com/chapter/10.1007/978-981-97-0519-1_10" target="_blank"> Link to the published version. </a>  Open access.
 <br>
-21. Jacob M. Nebel and John A. Weymark, “Social Choice Theory,” in Fred D’Agostino and Ryan Muldoon, eds., <i>The Routledge Companion to Social and Political Thought, Second Edition</i>, Routledge, forthcoming.
+21. Jacob M. Nebel and John A. Weymark, “Social Choice Theory,” in Gerald Gaus, Fred D’Agostino, and Ryan Muldoon, eds., <i>The Routledge Companion to Social and Political Thought, Second Edition</i>, Routledge, forthcoming.
 <hr>
 
 <h2  style="text-align:center">Interview</h2>
