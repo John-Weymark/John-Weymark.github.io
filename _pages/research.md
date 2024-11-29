@@ -26,7 +26,7 @@ author_profile: true
 1. John A. Weymark, “<a class="hover" href="https://john-weymark.github.io/files/Godwin Backward Induction 090724.pdf" target="_blank">William Godwin: An Early Practitioner of Backward Induction</a>,” September 2024.
 <br>
 <br>
-    <i> Abstract:</i> In commenting on the method employed when he composed his 1794 novel, <i></i>Caleb Williams</i>, William Godwin said that he developed the plot and prepared outlines of its three volumes in reverse order. It is argued that this method of composition anticipates some of the main features of the backward induction procedure used in decision theory and game theory to
+    <i> Abstract:</i> In commenting on the method employed when he composed his 1794 novel, <i>Caleb Williams</i>, William Godwin said that he developed the plot and prepared outlines of its three volumes in reverse order. It is argued that this method of composition anticipates some of the main features of the backward induction procedure used in decision theory and game theory to
 solve sequential decision problems.
 <br>
 <hr>
