@@ -23,14 +23,11 @@ author_profile: true
 
 <h2  style="text-align:center">Manuscripts (excluding manuscripts prepared for double-blind refereeing)</h2>
 <hr>
-1. Shigehiro Serizawa and John A. Weymark, “<a class="hover" href="https://john-weymark.github.io/files/Serizawa Weymark 071824.pdf" target="_blank">Boundedness of the Range of a Strategy-Proof Social Choice Function</a>,” Revised, July 2024.
+1. John A. Weymark, “<a class="hover" href="https://john-weymark.github.io/files/Godwin Backward Induction 090724.pdf" target="_blank">William Godwin: An Early Practitioner of Backward Induction</a>,” September 2024.
 <br>
 <br>
-    <i> Abstract:</i> For the provision of one or more divisible public goods, relatively
-weak restrictions on the domain of a strategy-proof social choice function
-are identified that ensure that its range is bounded. Domain restrictions for
-which strategy-proofness also implies that the option sets of the social choice
-function are compact are also identified.  To illustrate the usefulness of these results, it is shown how a theorem about generalized median voter schemes due to Barberà, Massó, and Serizawa can be established without their assumption that the range of a social choice function is compact provided that the tops of the preferences are not restricted to be finite.
+    <i> Abstract:</i> In commenting on the method employed when he composed his 1794 novel, <i></i>Caleb Williams</i>, William Godwin said that he developed the plot and prepared outlines of its three volumes in reverse order. It is argued that this method of composition anticipates some of the main features of the backward induction procedure used in decision theory and game theory to
+solve sequential decision problems.
 <br>
 <hr>
 
