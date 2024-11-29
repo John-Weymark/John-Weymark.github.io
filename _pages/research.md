@@ -37,6 +37,14 @@ solve sequential decision problems.
 In this article, it is shown that his aunt, Maria Edgeworth, first described such a device in a short story called "The Mental Thermometer" that she wrote as a sixteen-year-old in 1784. A similar device, a "moral thermometer," was also mentioned
 by Jeremy Bentham in the <i>Traités de Législation Civile et Penale</i> from 1802. The possible sources for Maria Edgeworth's story and its publication history also are also considered, as is the possible inspiration for her nephew's hedonimeter.
 <br>
+<br>
+3. Luís C. Calderón Gómez, Robert Talisse, and John A. Weymark, “<a class="hover" href="https://john-weymark.github.io/files/CTW Market Virtues 111524.pdf" target="_blank">Bruni and Sugden on Market Virtues</a>,” November 2024.
+<br>
+<br>
+    <i> Abstract:</i> According to classical liberalism, markets are instruments for the mutually advantageous voluntary exchange of goods and services among individuals who have conflicting interests. Some critics have used a virtue ethics understanding of
+behavior in markets to call for moral limits to markets because this classical view does not respect the internal value of human practices and the intrinsic motivations of individuals. In response, Luigino Bruni and Robert Sugden have offered a virtue
+ethics defense of markets, thereby "reclaiming virtue ethics for economics." We argue that their account needs further elaboration and clarification before it is possible to assess the soundness of their virtue-theoretic understanding of markets.
+<br>
 <hr>
 
 <h2  style="text-align:center">Archived Manuscript</h2>
