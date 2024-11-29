@@ -34,7 +34,7 @@ solve sequential decision problems.
 <br>
 <br>
     <i> Abstract:</i> The conventional wisdom among economists and philosophers is that in his 1881 monograph, <i>Mathematical Psychics</i>, Francis Ysidro Edgeworth was the first to conceive of and describe a hedonimeter to measure happiness or pleasure.
-In this article, it is shown that his aunt, Maria Edgeworth, first described such a device in a short story called "The Mental Thermometer" that she wrote as a sixteen-year- old in 1784. A similar device, a "moral thermometer," was also mentioned
+In this article, it is shown that his aunt, Maria Edgeworth, first described such a device in a short story called "The Mental Thermometer" that she wrote as a sixteen-year-old in 1784. A similar device, a "moral thermometer," was also mentioned
 by Jeremy Bentham in the <i>Traités de Législation Civile et Penale</i> from 1802. The possible sources for Maria Edgeworth's story and its publication history also are also considered, as is the possible inspiration for her nephew's hedonimeter.
 <br>
 <hr>
