@@ -328,7 +328,7 @@ Problem,” <i>Mathematical Programming Series B</i>, Special Issue: Mathematica
 <br>
 20.  Luís C. Calderón Gómez, Robert Talisse, and John A. Weymark, "Market Virtues and Respect for Human Dignity," in Reiko Gotoh, ed., <i>Dignity, Freedom and Justice</i>, Springer: Singapore, 2024, pp. 183–203.  <a class="hover" href="https://link.springer.com/chapter/10.1007/978-981-97-0519-1_10" target="_blank"> Link to the published version. </a>  Open access.
 <br>
-21. Jacob M. Nebel and John A. Weymark, “Social Choice Theory,” in Gerald Gaus, Fred D’Agostino, and Ryan Muldoon, eds., <i>The Routledge Companion to Social and Political Thought, Second Edition</i>, Routledge, forthcoming.
+21. Jacob M. Nebel and John A. Weymark, “Social Choice Theory,” in Gerald F. Gaus, Fred D’Agostino, and Ryan Muldoon, eds., <i>The Routledge Companion to Social and Political Thought, Second Edition</i>, Routledge: New York and Abingdon, UK, 2025, pp. 676–687.  <a class="hover" href="https://www.taylorfrancis.com/chapters/edit/10.4324/9781003411598-67/social-choice-theory-jacob-nebel-john-weymark?context=ubx&refId=819d905a-6c35-43f7-961c-65e3edd68785" target="_blank"> Link to the published version. </a>
 <hr>
 
 <h2  style="text-align:center">Interview</h2>
