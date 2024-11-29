@@ -279,7 +279,9 @@ Problem,” <i>Mathematical Programming Series B</i>, Special Issue: Mathematica
 85. Edi Karni and John A. Weymark, “Impartiality and Relative Utilitarianism,” <i>Social Choice and Welfare</i>, 2024, Vol. 63, No. 1, pp. 1–18.
 <a class="hover" href="https://link.springer.com/article/10.1007/s00355-024-01518-1" target="_blank"> Link to the published version. </a>  Open access.
 <br>
-86. John A. Weymark, “Vaihinger’s Fictionalism Meets Binmore’s Knowledge-as-Commitment,”
+86. Shigehiro Serizawa and John A. Weymark, “Boundedness of the Range of a Strategy-pProof Social Choice Function,” <i>Games and Economic Behavior</i>, 2025, Vol. 149, January, pp. 164–169. <a class="hover" href="https://doi.org/10.1016/j.geb.2024.11.013" target="_blank"> Link to the published version. </a> Open access.
+<br>
+87. John A. Weymark, “Vaihinger’s Fictionalism Meets Binmore’s Knowledge-as-Commitment,”
 <i>Homo Oeconomicus</i>, Special Issue on “Crooked Thinking or Straight Talk: Modernizing Epicurean Philosophy,” forthcoming.
 <a class="hover" href="https://link.springer.com/article/10.1007/s41412-021-00116-1" target="_blank"> Link to the published version. </a>
 <hr>
