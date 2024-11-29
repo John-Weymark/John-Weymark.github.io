@@ -29,6 +29,12 @@ author_profile: true
     <i> Abstract:</i> In commenting on the method employed when he composed his 1794 novel, <i>Caleb Williams</i>, William Godwin said that he developed the plot and prepared outlines of its three volumes in reverse order. It is argued that this method of composition anticipates some of the main features of the backward induction procedure used in decision theory and game theory to
 solve sequential decision problems.
 <br>
+2. John A. Weymark, “<a class="hover" href="https://john-weymark.github.io/files/Hedonimeter 090524.pdf" target="_blank">Keeping It in the Family: Maria Edgeworth's Precursor to the Hedonimeter</a>,” September 2024.
+<br>
+    <i> Abstract:</i> The conventional wisdom among economists and philosophers is that in his 1881 monograph, <i>Mathematical Psychics</i>, Francis Ysidro Edgeworth was the first to conceive of and describe a hedonimeter to measure happiness or pleasure.
+In this article, it is shown that his aunt, Maria Edgeworth, first described such a device in a short story called ``The Mental Thermometer'' that she wrote as a sixteen-year- old in 1784. A similar device, a ``moral thermometer,'' was also mentioned
+by Jeremy Bentham in the <i>Traités de Législation Civile et Penale</i> from 1802. The possible sources for Maria Edgeworth's story and its publication history also are also considered, as is the possible inspiration for her nephew's hedonimeter.
+<br>
 <hr>
 
 <h2  style="text-align:center">Archived Manuscript</h2>
