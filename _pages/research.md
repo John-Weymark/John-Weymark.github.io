@@ -280,7 +280,7 @@ Problem,” <i>Mathematical Programming Series B</i>, Special Issue: Mathematica
 <br>
 88. Luís C. Calderón Gómez, Robert Talisse, and John A. Weymark, “Bruni and Sugden on Market Virtues,” <i>International Review of Economics</i>, forthcoming.
 <br>
-89. John A. Weymark, “William Godwin's Methodology for Composing <i>Caleb Williams</i>: A Precursor to Backward Induction,” <i>IPhilosophy and Literature</i>, forthcoming.
+89. John A. Weymark, “William Godwin's Methodology for Composing <i>Caleb Williams</i>: A Precursor to Backward Induction,” <i>Philosophy and Literature</i>, forthcoming.
 <hr>
 
 <h2  style="text-align:center">Articles in Edited Volumes</h2>
@@ -323,7 +323,7 @@ Problem,” <i>Mathematical Programming Series B</i>, Special Issue: Mathematica
 <br>
 19. Craig Brett and John A. Weymark, “Matthews–Moore Single- and Double-Crossing,” in Jean-François Laslier, Hervé Moulin, M. Remzi Sanver, and William S. Zwicker, eds., <i>The Future of Economic Design: The Continuing Development of a Field as Envisioned by Its Researchers</i>, Springer: Cham, Switzerland, 2019, pp. 461–467.  <a class="hover" href="https://link.springer.com/chapter/10.1007/978-3-030-18050-8_64" target="_blank"> Link to the published version. </a>
 <br>
-20.  Luís C. Calderón Gómez, Robert Talisse, and John A. Weymark, "Market Virtues and Respect for Human Dignity," in Reiko Gotoh, ed., <i>Dignity, Freedom and Justice</i>, Springer: Singapore, 2024, pp. 183–203.  <a class="hover" href="https://link.springer.com/chapter/10.1007/978-981-97-0519-1_10" target="_blank"> Link to the published version. </a>  Open access.
+20.  Luís C. Calderón Gómez, Robert Talisse, and John A. Weymark, "Market Virtues and Respect for Human Dignity," in Reiko Gotoh, ed., <i>Dignity, Freedom and Justice</i>, Springer: Singapore, 2024, pp. 183–203.  <a class="hover" href="https://link.springer.com/chapter/10.1007/978-981-97-0519-1_10" target="_blank"> Link to the published version. </a>
 <br>
 21. Jacob M. Nebel and John A. Weymark, “Social Choice Theory,” in Gerald F. Gaus, Fred D’Agostino, and Ryan Muldoon, eds., <i>The Routledge Companion to Social and Political Thought, Second Edition</i>, Routledge: New York and Abingdon, UK, 2025, pp. 676–687.  <a class="hover" href="https://www.taylorfrancis.com/chapters/edit/10.4324/9781003411598-67/social-choice-theory-jacob-nebel-john-weymark?context=ubx&refId=819d905a-6c35-43f7-961c-65e3edd68785" target="_blank"> Link to the published version. </a>
 <hr>
