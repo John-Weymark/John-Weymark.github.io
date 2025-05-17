@@ -286,9 +286,13 @@ Problem,” <i>Mathematical Programming Series B</i>, Special Issue: Mathematica
 <a class="hover" href="https://link.springer.com/article/10.1007/s10107-021-01729-9" target="_blank"> Link to the published version. </a>
 <br>
 86. Edi Karni and John A. Weymark, “Impartiality and Relative Utilitarianism,” <i>Social Choice and Welfare</i>, 2024, Vol. 63, No. 1, pp. 1–18.
-<a class="hover" href="https://link.springer.com/article/10.1007/s00355-024-01518-1" target="_blank"> Link to the published version. </a>  Open access.
+<a class="hover" href="https://link.springer.com/article/10.1007/s00355-024-01518-1" target="_blank"> Link to the published version. </a>
 <br>
-87. Shigehiro Serizawa and John A. Weymark, “Boundedness of the Range of a Strategy-Proof Social Choice Function,” <i>Games and Economic Behavior</i>, 2025, Vol. 149, January, pp. 164–169. <a class="hover" href="https://doi.org/10.1016/j.geb.2024.11.013" target="_blank"> Link to the published version. </a> Open access.
+87. Shigehiro Serizawa and John A. Weymark, “Boundedness of the Range of a Strategy-Proof Social Choice Function,” <i>Games and Economic Behavior</i>, 2025, Vol. 149, January, pp. 164–169. <a class="hover" href="https://doi.org/10.1016/j.geb.2024.11.013" target="_blank"> Link to the published version. </a>
+<br>
+88. Luís C. Calderón Gómez, Robert Talisse, and John A. Weymark, “<a class="hover" href="https://john-weymark.github.io/files/CTW Market Virtues 111524.pdf" target="_blank">Bruni and Sugden on Market Virtues</a>,” <i>International Review of Economics</i>, forthcoming.
+<br>
+89. <br> John A. Weymark, “<a class="hover" href="https://john-weymark.github.io/files/Godwin Backward Induction 041625.pdf" target="_blank">William Godwin's Methodology for Composing <i>Caleb Williams</i>: A Precursor to Backward Induction</a>,” <i>IPhilosophy and Literature</i>, forthcoming.
 <hr>
 
 <h2  style="text-align:center">Articles in Edited Volumes</h2>
