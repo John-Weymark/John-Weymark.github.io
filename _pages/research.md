@@ -23,7 +23,7 @@ author_profile: true
 
 <h2  style="text-align:center">Manuscripts (excluding manuscripts prepared for double-blind refereeing)</h2>
 <hr>
-1. John A. Weymark, “<a class="hover" href="https://john-weymark.github.io/files/Hedonimeter 121824.pdf" target="_blank">Keeping It in the Family: Maria Edgeworth's Precursor to the Hedonimeter</a>,” December 2024.
+1. John A. Weymark, “<a class="hover" href="https://john-weymark.github.io/files/Hedonimeter 121824.pdf" target="_blank">Keeping It in the Family: Maria Edgeworth's Precursor to the Hedonimeter</a>,” September 2024.  Current version: December 2024.
 <br>
 <br>
     <i> Abstract:</i> The conventional wisdom among economists and philosophers is that in his 1881 monograph, <i>Mathematical Psychics</i>, Francis Ysidro Edgeworth was the first to conceive of and describe a hedonimeter to measure happiness or pleasure.
@@ -31,17 +31,13 @@ In this article, it is shown that his aunt, Maria Edgeworth, first described suc
 by Jeremy Bentham in the <i>Traités de Législation Civile et Penale</i> from 1802. The possible sources for Maria Edgeworth's story and its publication history also are also considered, as is the possible inspiration for her nephew's hedonimeter.
 <br>
 <br>
-3. John A. Weymark, “<a class="hover" href="https://john-weymark.github.io/files/Shared Good Existence 050325.pdf" target="_blank">Existence of Equilibria for Shared Goods</a>,” February 2025.
+3. John A. Weymark, “<a class="hover" href="https://john-weymark.github.io/files/Shared Good Existence 050325.pdf" target="_blank">Existence of Equilibria for Shared Goods</a>,” February 2025.  Current version: May 2025.
 <br>
 <br>
     <i> Abstract:</i> A shared good is an impure public good in which personalized consumptions are produced by groups using a sharing technology.  Rivalry in consumption is captured by the shape of this technology.  Private goods and pure public goods are special cases in which there is complete rivalry and no rivalry, respectively.  A competitive shared goods equilibrium is defined in which there are markets for all goods, there are personalized prices for the consumption of shared goods, and both firms and groups are profit maximizers.  When all shared goods are private (resp. public), this equilibrium is a Walrasian (resp. Lindahl) equilibrium.  Sufficient conditions for the existence of a competitive shared goods equilibrium are identified.  An alternative equilibrium concept in which groups behave cooperatively towards their beneficiaries is also considered and an equilibrium existence theorem for it is established.
 <br>
 <br>
 4. John A. Weymark, “<a class="hover" href="https://john-weymark.github.io/files/Godwin Backward Induction 041625.pdf" target="_blank">William Godwin's Methodology for Composing <i>Caleb Williams</i>: A Precursor to Backward Induction</a>,” April 2025.
-<br>
-<br>
-    <i> Abstract:</i> In commenting on the method employed when he composed his 1794 novel, <i>Caleb Williams</i>, William Godwin said that he developed the plot and prepared outlines of its three volumes in reverse order. It is argued that this method of composition anticipates some of the main features of the backward induction procedure used in decision theory and game theory to solve sequential decision problems, thereby providing a literary precursor to what many analytic philosophers and social scientists regard as one of the requirements of sequential rationality.
-<br>
 <hr>
 
 <h2  style="text-align:center">Archived Manuscript</h2>
