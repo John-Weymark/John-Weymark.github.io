@@ -23,15 +23,7 @@ author_profile: true
 
 <h2  style="text-align:center">Manuscripts (excluding manuscripts prepared for double-blind refereeing)</h2>
 <hr>
-1. Luís C. Calderón Gómez, Robert Talisse, and John A. Weymark, “<a class="hover" href="https://john-weymark.github.io/files/CTW Market Virtues 111524.pdf" target="_blank">Bruni and Sugden on Market Virtues</a>,” November 2024.
-<br>
-<br>
-    <i> Abstract:</i> According to classical liberalism, markets are instruments for the mutually advantageous voluntary exchange of goods and services among individuals who have conflicting interests. Some critics have used a virtue ethics understanding of
-behavior in markets to call for moral limits to markets because this classical view does not respect the internal value of human practices and the intrinsic motivations of individuals. In response, Luigino Bruni and Robert Sugden have offered a virtue
-ethics defense of markets, thereby "reclaiming virtue ethics for economics." We argue that their account needs further elaboration and clarification before it is possible to assess the soundness of their virtue-theoretic understanding of markets.
-<br>
-<br>
-2. John A. Weymark, “<a class="hover" href="https://john-weymark.github.io/files/Hedonimeter 121824.pdf" target="_blank">Keeping It in the Family: Maria Edgeworth's Precursor to the Hedonimeter</a>,” December 2024.
+1. John A. Weymark, “<a class="hover" href="https://john-weymark.github.io/files/Hedonimeter 121824.pdf" target="_blank">Keeping It in the Family: Maria Edgeworth's Precursor to the Hedonimeter</a>,” December 2024.
 <br>
 <br>
     <i> Abstract:</i> The conventional wisdom among economists and philosophers is that in his 1881 monograph, <i>Mathematical Psychics</i>, Francis Ysidro Edgeworth was the first to conceive of and describe a hedonimeter to measure happiness or pleasure.
@@ -39,7 +31,7 @@ In this article, it is shown that his aunt, Maria Edgeworth, first described suc
 by Jeremy Bentham in the <i>Traités de Législation Civile et Penale</i> from 1802. The possible sources for Maria Edgeworth's story and its publication history also are also considered, as is the possible inspiration for her nephew's hedonimeter.
 <br>
 <br>
-3. John A. Weymark, “<a class="hover" href="https://john-weymark.github.io/files/Shared Good Existence 021625.pdf" target="_blank">Existence of Equilibrium for Shared Goods</a>,” February 2025.
+3. John A. Weymark, “<a class="hover" href="https://john-weymark.github.io/files/Shared Good Existence 050325.pdf" target="_blank">Existence of Equilibria for Shared Goods</a>,” February 2025.
 <br>
 <br>
     <i> Abstract:</i> A shared good is an impure public good in which personalized consumptions are produced by groups using a sharing technology.  Rivalry in consumption is captured by the shape of this technology.  Private goods and pure public goods are special cases in which there is complete rivalry and no rivalry, respectively.  A competitive shared goods equilibrium is defined in which there are markets for all goods, there are personalized prices for the consumption of shared goods, and both firms and groups are profit maximizers.  When all shared goods are private (resp. public), this equilibrium is a Walrasian (resp. Lindahl) equilibrium.  Sufficient conditions for the existence of a competitive shared goods equilibrium are identified.  An alternative equilibrium concept in which groups behave cooperatively towards their beneficiaries is also considered and an equilibrium existence theorem for it is established.
@@ -290,9 +282,9 @@ Problem,” <i>Mathematical Programming Series B</i>, Special Issue: Mathematica
 <br>
 87. Shigehiro Serizawa and John A. Weymark, “Boundedness of the Range of a Strategy-Proof Social Choice Function,” <i>Games and Economic Behavior</i>, 2025, Vol. 149, January, pp. 164–169. <a class="hover" href="https://doi.org/10.1016/j.geb.2024.11.013" target="_blank"> Link to the published version. </a>
 <br>
-88. Luís C. Calderón Gómez, Robert Talisse, and John A. Weymark, “<a class="hover" href="https://john-weymark.github.io/files/CTW Market Virtues 111524.pdf" target="_blank">Bruni and Sugden on Market Virtues</a>,” <i>International Review of Economics</i>, forthcoming.
+88. Luís C. Calderón Gómez, Robert Talisse, and John A. Weymark, “Bruni and Sugden on Market Virtues,” <i>International Review of Economics</i>, forthcoming.
 <br>
-89. <br> John A. Weymark, “<a class="hover" href="https://john-weymark.github.io/files/Godwin Backward Induction 041625.pdf" target="_blank">William Godwin's Methodology for Composing <i>Caleb Williams</i>: A Precursor to Backward Induction</a>,” <i>IPhilosophy and Literature</i>, forthcoming.
+89. John A. Weymark, “William Godwin's Methodology for Composing <i>Caleb Williams</i>: A Precursor to Backward Induction,” <i>IPhilosophy and Literature</i>, forthcoming.
 <hr>
 
 <h2  style="text-align:center">Articles in Edited Volumes</h2>
