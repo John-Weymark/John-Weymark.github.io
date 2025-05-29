@@ -276,7 +276,7 @@ Problem,” <i>Mathematical Programming Series B</i>, Special Issue: Mathematica
 <br>
 87. Shigehiro Serizawa and John A. Weymark, “Boundedness of the Range of a Strategy-Proof Social Choice Function,” <i>Games and Economic Behavior</i>, 2025, Vol. 149, January, pp. 164–169. <a class="hover" href="https://doi.org/10.1016/j.geb.2024.11.013" target="_blank"> Link to the published version. </a>
 <br>
-88. Luís C. Calderón Gómez, Robert Talisse, and John A. Weymark, “Bruni and Sugden on Market Virtues,” <i>International Review of Economics</i>, forthcoming.
+88. Luís C. Calderón Gómez, Robert Talisse, and John A. Weymark, “Bruni and Sugden on Market Virtues,” <i>International Review of Economics</i>, 2025, Vol. 72, no. 2, December, Article 15, 14 pp. <a class="hover" href="https://link.springer.com/article/10.1007/s12232-025-00491-0" target="_blank"> Link to the published version. </a>
 <br>
 89. John A. Weymark, “William Godwin's Methodology for Composing <i>Caleb Williams</i>: A Precursor to Backward Induction,” <i>Philosophy and Literature</i>, forthcoming.
 <hr>
