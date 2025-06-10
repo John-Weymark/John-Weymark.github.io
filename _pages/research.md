@@ -23,15 +23,7 @@ author_profile: true
 
 <h2  style="text-align:center">Manuscripts (excluding manuscripts prepared for double-blind refereeing)</h2>
 <hr>
-1. John A. Weymark, “<a class="hover" href="https://john-weymark.github.io/files/Hedonimeter 121824.pdf" target="_blank">Keeping It in the Family: Maria Edgeworth's Precursor to the Hedonimeter</a>.” Current version: December 2024.
-<br>
-<br>
-    <i> Abstract:</i> The conventional wisdom among economists and philosophers is that in his 1881 monograph, <i>Mathematical Psychics</i>, Francis Ysidro Edgeworth was the first to conceive of and describe a hedonimeter to measure happiness or pleasure.
-In this article, it is shown that his aunt, Maria Edgeworth, first described such a device in a short story called "The Mental Thermometer" that she wrote as a sixteen-year-old in 1784. A similar device, a "moral thermometer," was also mentioned
-by Jeremy Bentham in the <i>Traités de Législation Civile et Penale</i> from 1802. The possible sources for Maria Edgeworth's story and its publication history also are also considered, as is the possible inspiration for her nephew's hedonimeter.
-<br>
-<br>
-2. John A. Weymark, “<a class="hover" href="https://john-weymark.github.io/files/Shared Good Existence 050325.pdf" target="_blank">Existence of Equilibria for Shared Goods</a>.”  Current version: May 2025.
+1. John A. Weymark, “<a class="hover" href="https://john-weymark.github.io/files/Shared Good Existence 050325.pdf" target="_blank">Existence of Equilibria for Shared Goods</a>.”  Current version: May 2025.
 <br>
 <br>
     <i> Abstract:</i> A shared good is an impure public good in which personalized consumptions are produced by groups using a sharing technology.  Rivalry in consumption is captured by the shape of this technology.  Private goods and pure public goods are special cases in which there is complete rivalry and no rivalry, respectively.  A competitive shared goods equilibrium is defined in which there are markets for all goods, there are personalized prices for the consumption of shared goods, and both firms and groups are profit maximizers.  When all shared goods are private (resp. public), this equilibrium is a Walrasian (resp. Lindahl) equilibrium.  Sufficient conditions for the existence of a competitive shared goods equilibrium are identified.  An alternative equilibrium concept in which groups behave cooperatively towards their beneficiaries is also considered and an equilibrium existence theorem for it is established.
