@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-## <a href = "https://john-weymark.github.io/files/J%20Weymark%20CV%20May%202025.pdf" target = "_blank" style = "color:black; text-decoration:underline"> Download CV </a>
+## <a href = "https://john-weymark.github.io/files/J%20Weymark%20CV%20June%202025.pdf" target = "_blank" style = "color:black; text-decoration:underline"> Download CV </a>
 
 
 
