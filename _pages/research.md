@@ -21,14 +21,7 @@ author_profile: true
 </style>
 </head>
 
-<h2  style="text-align:center">Manuscripts (excluding manuscripts prepared for double-blind refereeing)</h2>
-<hr>
-1. John A. Weymark, “<a class="hover" href="https://john-weymark.github.io/files/Shared Good Existence 050325.pdf" target="_blank">Existence of Equilibria for Shared Goods</a>.”  Current version: May 2025.
-<br>
-<br>
-    <i> Abstract:</i> A shared good is an impure public good in which personalized consumptions are produced by groups using a sharing technology.  Rivalry in consumption is captured by the shape of this technology.  Private goods and pure public goods are special cases in which there is complete rivalry and no rivalry, respectively.  A competitive shared goods equilibrium is defined in which there are markets for all goods, there are personalized prices for the consumption of shared goods, and both firms and groups are profit maximizers.  When all shared goods are private (resp. public), this equilibrium is a Walrasian (resp. Lindahl) equilibrium.  Sufficient conditions for the existence of a competitive shared goods equilibrium are identified.  An alternative equilibrium concept in which groups behave cooperatively towards their beneficiaries is also considered and an equilibrium existence theorem for it is established.
-<br>
-<hr>
+
 
 <h2  style="text-align:center">Archived Manuscript</h2>
 <hr>
@@ -270,7 +263,9 @@ Problem,” <i>Mathematical Programming Series B</i>, Special Issue: Mathematica
 <br>
 88. Luís C. Calderón Gómez, Robert Talisse, and John A. Weymark, “Bruni and Sugden on Market Virtues,” <i>International Review of Economics</i>, 2025, Vol. 72, no. 2, December, Article 15, 14 pp. <a class="hover" href="https://link.springer.com/article/10.1007/s12232-025-00491-0" target="_blank"> Link to the published version. </a>
 <br>
-89. John A. Weymark, “William Godwin's Methodology for Composing <i>Caleb Williams</i>: A Precursor to Backward Induction,” <i>Philosophy and Literature</i>, forthcoming.
+89. John A. Weymark, “Ezxistence of Equilibria for Shared Goods,” <i>Journal of Public Economic Theory</i>, forthcoming as part of the Virtual Special Issue in Honor of Myrna Wooders.
+<br>
+90. John A. Weymark, “William Godwin's Methodology for Composing <i>Caleb Williams</i>: A Precursor to Backward Induction,” <i>Philosophy and Literature</i>, forthcoming.
 <hr>
 
 <h2  style="text-align:center">Articles in Edited Volumes</h2>
