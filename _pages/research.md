@@ -261,7 +261,7 @@ Problem,” <i>Mathematical Programming Series B</i>, Special Issue: Mathematica
 <br>
 87. Shigehiro Serizawa and John A. Weymark, “Boundedness of the Range of a Strategy-Proof Social Choice Function,” <i>Games and Economic Behavior</i>, 2025, Vol. 149, January, pp. 164–169. <a class="hover" href="https://doi.org/10.1016/j.geb.2024.11.013" target="_blank"> Link to the published version. </a>
 <br>
-88. John A. Weymark, “Existence of Equilibria for Shared Goods,” <i>Journal of Public Economic Theory</i>, 2025, Vol. 27, No. 4, August, Article e70045, 17 pp. To be included in the Virtual Special Issue in Honor of Myrna Wooders. <a class="hover" href="https://onlinelibrary.wiley.com/doi/10.1111/jpet.70045" target="_blank"> Link to the published version. </a>
+88. John A. Weymark, “Existence of Equilibria for Shared Goods,” <i>Journal of Public Economic Theory</i>, 2025, Vol. 27, No. 4, August, Article e70045, 17 pp. Also included in the Virtual Special Issue in Honor of Myrna Wooders. <a class="hover" href="https://onlinelibrary.wiley.com/doi/10.1111/jpet.70045" target="_blank"> Link to the published version. </a>
 <br>
 89. Luís C. Calderón Gómez, Robert Talisse, and John A. Weymark, “Bruni and Sugden on Market Virtues,” <i>International Review of Economics</i>, 2025, Vol. 72, no. 2, December, Article 15, 14 pp. <a class="hover" href="https://link.springer.com/article/10.1007/s12232-025-00491-0" target="_blank"> Link to the published version. </a>
 <br>
