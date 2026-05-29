@@ -247,7 +247,7 @@ classical utilitarianism.
 82.  Sarah E. Friedman and John A. Weymark, “Precedent-Based Judgment Aggregation in the US Supreme Court,” <i>Revue Économique</i>, Special Issue in Homage to Philippe Mongin, 2022, Vol. 73, No. 6, November, pp. 1069–1091. <a class="hover" href= "https://www.cairn.info/revue-economique-2022-6-page-1069.htm?contenu=article" target="_blank"> Link to the published version. </a>
 <br>
 83. John A. Weymark, “Vaihinger’s Fictionalism Meets Binmore’s Knowledge-as-Commitment,”
-<i>Homo Oeconomicus</i>, Special Issue on “Crooked Thinking or Straight Talk: Modernizing Epicurean Philosophy,” 2022, Vol. 39, Nos. 2–4, pp. 199–217.
+<i>Homo Oeconomicus</i>, Special Issue on Crooked Thinking or Straight Talk: Modernizing Epicurean Philosophy, 2022, Vol. 39, Nos. 2–4, pp. 199–217.
 <a class="hover" href="https://link.springer.com/article/10.1007/s41412-021-00116-1" target="_blank"> Link to the published version. </a>
 <br>
 84. John A. Weymark, “Edith Wharton’s ‘The Last Asset’ and Decision-Making Under Uncertainty,” <i>American Literary Realism</i>, 2024, Vol. 56, No. 2, Winter, pp. 160–172. <a class="hover" href= "https://muse.jhu.edu/pub/34/article/916481)" target="_blank"> Link to the published version. </a>
@@ -265,7 +265,9 @@ Problem,” <i>Mathematical Programming Series B</i>, Special Issue: Mathematica
 <br>
 89. Luís C. Calderón Gómez, Robert Talisse, and John A. Weymark, “Bruni and Sugden on Market Virtues,” <i>International Review of Economics</i>, 2025, Vol. 72, no. 2, December, Article 15, 14 pp. <a class="hover" href="https://link.springer.com/article/10.1007/s12232-025-00491-0" target="_blank"> Link to the published version. </a>
 <br>
-90. John A. Weymark, “William Godwin's Methodology for Composing <i>Caleb Williams</i>: A Precursor to Backward Induction,” <i>Philosophy and Literature</i>, forthcoming.
+90. John A. Weymark, “Nineteenth-Century Popularizations by Women of the Benefits of a Division of Labor,” <i>Journal to the History of Women Philosophers and Scientis</i>, Special Issue on Women’s Contributions to Political Economy During the Long Nineteenth Century, 2026, Vol. 6, no. 2, forthcoming. </a>
+<br>
+91. John A. Weymark, “William Godwin's Methodology for Composing <i>Caleb Williams</i>: A Precursor to Backward Induction,” <i>Philosophy and Literature</i>, forthcoming.
 <hr>
 
 <h2  style="text-align:center">Articles in Edited Volumes</h2>
