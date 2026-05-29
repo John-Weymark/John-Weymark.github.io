@@ -247,13 +247,13 @@ classical utilitarianism.
 82.  Sarah E. Friedman and John A. Weymark, “Precedent-Based Judgment Aggregation in the US Supreme Court,” <i>Revue Économique</i>, Special Issue in Homage to Philippe Mongin, 2022, Vol. 73, No. 6, November, pp. 1069–1091. <a class="hover" href= "https://www.cairn.info/revue-economique-2022-6-page-1069.htm?contenu=article" target="_blank"> Link to the published version. </a>
 <br>
 83. John A. Weymark, “Vaihinger’s Fictionalism Meets Binmore’s Knowledge-as-Commitment,”
-<i>Homo Oeconomicus</i>, Special Issue on Crooked Thinking or Straight Talk: Modernizing Epicurean Philosophy, 2022, Vol. 39, Nos. 2–4, pp. 199–217.
+<i>Homo Oeconomicus</i>, 2022, Vol. 39, Nos. 2–4, Special Issue on Crooked Thinking or Straight Talk: Modernizing Epicurean Philosophy, pp. 199–217.
 <a class="hover" href="https://link.springer.com/article/10.1007/s41412-021-00116-1" target="_blank"> Link to the published version. </a>
 <br>
 84. John A. Weymark, “Edith Wharton’s ‘The Last Asset’ and Decision-Making Under Uncertainty,” <i>American Literary Realism</i>, 2024, Vol. 56, No. 2, Winter, pp. 160–172. <a class="hover" href= "https://muse.jhu.edu/pub/34/article/916481)" target="_blank"> Link to the published version. </a>
 <br>
 85. Paul H. Edelman, Martin Van der Linden, and John A. Weymark, “The Core of a Transferable Utility Game as the Solution to a Public Good Market Demand
-Problem,” <i>Mathematical Programming Series B</i>, Special Issue: Mathematical Optimization for Fair Social Decisions, 2024, Vol. 203, Nos. 1–2, January, pp. 687–702.
+Problem,” <i>Mathematical Programming Series B</i>, 2024, Vol. 203, Nos. 1–2, January, Special Issue: Mathematical Optimization for Fair Social Decisions, pp. 687–702.
 <a class="hover" href="https://link.springer.com/article/10.1007/s10107-021-01729-9" target="_blank"> Link to the published version. </a>
 <br>
 86. Edi Karni and John A. Weymark, “Impartiality and Relative Utilitarianism,” <i>Social Choice and Welfare</i>, 2024, Vol. 63, No. 1, pp. 1–18.
@@ -265,7 +265,7 @@ Problem,” <i>Mathematical Programming Series B</i>, Special Issue: Mathematica
 <br>
 89. Luís C. Calderón Gómez, Robert Talisse, and John A. Weymark, “Bruni and Sugden on Market Virtues,” <i>International Review of Economics</i>, 2025, Vol. 72, no. 2, December, Article 15, 14 pp. <a class="hover" href="https://link.springer.com/article/10.1007/s12232-025-00491-0" target="_blank"> Link to the published version. </a>
 <br>
-90. John A. Weymark, “Nineteenth-Century Popularizations by Women of the Benefits of a Division of Labor,” <i>Journal of the History of Women Philosophers and Scientists</i>, Special Issue on Women’s Contributions to Political Economy During the Long Nineteenth Century, 2026, Vol. 6, no. 2, forthcoming.
+90. John A. Weymark, “Nineteenth-Century Popularizations by Women of the Benefits of a Division of Labor,” <i>Journal of the History of Women Philosophers and Scientists</i>, 2026, Vol. 6, No. 2, Special Issue on Women’s Contributions to Political Economy During the Long Nineteenth Century, forthcoming.
 <br>
 91. John A. Weymark, “William Godwin's Methodology for Composing <i>Caleb Williams</i>: A Precursor to Backward Induction,” <i>Philosophy and Literature</i>, forthcoming.
 <hr>
