@@ -265,7 +265,7 @@ Problem,” <i>Mathematical Programming Series B</i>, 2024, Vol. 203, Nos. 1–2
 <br>
 89. Luís C. Calderón Gómez, Robert Talisse, and John A. Weymark, “Bruni and Sugden on Market Virtues,” <i>International Review of Economics</i>, 2025, Vol. 72, no. 2, December, Article 15, 14 pp. <a class="hover" href="https://link.springer.com/article/10.1007/s12232-025-00491-0" target="_blank"> Link to the published version. </a>
 <br>
-90. John A. Weymark, “Nineteenth-Century Popularizations by Women of the Benefits of a Division of Labor,” <i>Journal of the History of Women Philosophers and Scientists</i>, 2026, Vol. 6, No. 2, Special Issue on Women’s Contributions to Political Economy During the Long Nineteenth Century, forthcoming.
+90. John A. Weymark, “Nineteenth-Century Popularizations by Women of the Benefits of a Division of Labor,” <i>Journal of the History of Women Philosophers and Scientists</i>, 2026, Vol. 5, No. 2, Special Issue on Women’s Contributions to Political Economy During the Long Nineteenth Century, forthcoming.
 <br>
 91. John A. Weymark, “William Godwin's Methodology for Composing <i>Caleb Williams</i>: A Precursor to Backward Induction,” <i>Philosophy and Literature</i>, forthcoming.
 <hr>
